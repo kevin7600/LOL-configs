@@ -1,0 +1,68 @@
+GeoInfo:
+    data:
+        city: "carlsbad"
+        country: "usa"
+        region: "ca"
+    schemaVersion: 1
+lol-audio:
+    data:
+        masterVolume: 13
+        musicEnabled: true
+        musicVolume: 25
+        sfxVolume: 72
+        voiceVolume: 36
+    schemaVersion: 5
+lol-clash:
+    data:
+        simpleStateFlagIds: []
+    schemaVersion: 1
+lol-collection-chromas:
+    data:
+        completeSetIdMap: null
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiZ3hRVjFkVmw3M2pnLU10UGJRTmI3USIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImF1ZCI6ImxvbCIsImFtciI6WyJyaW90Il0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7InVpZCI6MjEyMDkwOTY3LCJjdWlkIjoyMTIwOTA5NjcsInVuYW1lIjoia2V2aW43NjAwMCIsImNwaWQiOiJOQTEiLCJwdHJpZCI6bnVsbCwicGlkIjoiTkExIiwic3RhdGUiOiJFTkFCTEVEIn1dLCJleHAiOjE1NTQ3Mzg0OTEsImlhdCI6MTU1NDY1MjA5MX0.TculvhKNgC_L4AKDpbgzLXdCDaoTFFpDPMxsSSmO6pEVzJ9XuxLLY2NiEPklgcj9hELqGuohX-FMpI5gfQT3SNHzqEQSzyODFKBEnmApiaUKTGClWpbzipLwgSvcB4nxebILEz9EPoATzebWt6WelAGvT9P3JbMsLOJrqF5pTbs"
+        lastVisitTime: 1538884453950
+        visitedCollectibleList: []
+    schemaVersion: 1
+lol-collection-summoner-icons:
+    data:
+        completeSetIdMap: null
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiZ3hRVjFkVmw3M2pnLU10UGJRTmI3USIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImF1ZCI6ImxvbCIsImFtciI6WyJyaW90Il0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7InVpZCI6MjEyMDkwOTY3LCJjdWlkIjoyMTIwOTA5NjcsInVuYW1lIjoia2V2aW43NjAwMCIsImNwaWQiOiJOQTEiLCJwdHJpZCI6bnVsbCwicGlkIjoiTkExIiwic3RhdGUiOiJFTkFCTEVEIn1dLCJleHAiOjE1NTQ3Mzg0OTEsImlhdCI6MTU1NDY1MjA5MX0.TculvhKNgC_L4AKDpbgzLXdCDaoTFFpDPMxsSSmO6pEVzJ9XuxLLY2NiEPklgcj9hELqGuohX-FMpI5gfQT3SNHzqEQSzyODFKBEnmApiaUKTGClWpbzipLwgSvcB4nxebILEz9EPoATzebWt6WelAGvT9P3JbMsLOJrqF5pTbs"
+        lastVisitTime: 1550295744866
+        visitedCollectibleList: []
+    schemaVersion: 1
+lol-collection-ward-skins:
+    data:
+        completeSetIdMap: null
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiZ3hRVjFkVmw3M2pnLU10UGJRTmI3USIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImF1ZCI6ImxvbCIsImFtciI6WyJyaW90Il0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7InVpZCI6MjEyMDkwOTY3LCJjdWlkIjoyMTIwOTA5NjcsInVuYW1lIjoia2V2aW43NjAwMCIsImNwaWQiOiJOQTEiLCJwdHJpZCI6bnVsbCwicGlkIjoiTkExIiwic3RhdGUiOiJFTkFCTEVEIn1dLCJleHAiOjE1NTQ3Mzg0OTEsImlhdCI6MTU1NDY1MjA5MX0.TculvhKNgC_L4AKDpbgzLXdCDaoTFFpDPMxsSSmO6pEVzJ9XuxLLY2NiEPklgcj9hELqGuohX-FMpI5gfQT3SNHzqEQSzyODFKBEnmApiaUKTGClWpbzipLwgSvcB4nxebILEz9EPoATzebWt6WelAGvT9P3JbMsLOJrqF5pTbs"
+        lastVisitTime: 1543613745501
+        visitedCollectibleList: []
+    schemaVersion: 1
+lol-leagues:
+    data:
+        season-start-takeover:
+            season: 9
+    schemaVersion: 1
+lol-premade-voice:
+    data:
+        currentCaptureDeviceHandle: "Default System Device"
+        inputVolume: 66
+        vadSensitivity: 65
+    schemaVersion: 1
+lol-replays:
+    data:
+        dontShowEogUsageTip: true
+    schemaVersion: 1
+lol-skins-viewer:
+    data:
+        completeSetIdMap: null
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiZ3hRVjFkVmw3M2pnLU10UGJRTmI3USIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImF1ZCI6ImxvbCIsImFtciI6WyJyaW90Il0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7InVpZCI6MjEyMDkwOTY3LCJjdWlkIjoyMTIwOTA5NjcsInVuYW1lIjoia2V2aW43NjAwMCIsImNwaWQiOiJOQTEiLCJwdHJpZCI6bnVsbCwicGlkIjoiTkExIiwic3RhdGUiOiJFTkFCTEVEIn1dLCJleHAiOjE1NTQ3Mzg0OTEsImlhdCI6MTU1NDY1MjA5MX0.TculvhKNgC_L4AKDpbgzLXdCDaoTFFpDPMxsSSmO6pEVzJ9XuxLLY2NiEPklgcj9hELqGuohX-FMpI5gfQT3SNHzqEQSzyODFKBEnmApiaUKTGClWpbzipLwgSvcB4nxebILEz9EPoATzebWt6WelAGvT9P3JbMsLOJrqF5pTbs"
+        lastVisitTime: 1549084480631
+        visitedSkinList: []
+    schemaVersion: 1
+lol-user-experience:
+    data:
+        hasBeenPromptedForPotatoMode: true
+        lastKnownMachineSpec: 5
+        potatoModeEnabled: true
+        unloadUxInGameEnabled: false
+    schemaVersion: 2

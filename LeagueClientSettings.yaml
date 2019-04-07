@@ -1,0 +1,46 @@
+install:
+    game-settings:
+        accountId: 212090967
+        modified: false
+        timestamp: 1554652789298
+    gameflow-patcher-lock: null
+    gameflow-process-info: null
+    gameflow-spectate-reconnect-info: null
+    globals:
+        locale: "en_US"
+        region: "NA"
+    icon_version: 2
+    last-valid-login-splash:
+        theme: "aprilfools2019"
+        version: "1.50"
+    lcu-settings:
+        accountId: 212090967
+        modified: false
+        timestamp: 1554602585141
+    licensesAgreedTo:
+        576F00F89F0C6BED5C0B5166E2D6D1F7: null
+        F1110FCAE57FA8F7ABB49F7E88FB4EF6: null
+    login-remember-me:
+        rememberMe: true
+        username: "kevin76000"
+    npe-splash:
+        enableNewPlayerSplash: false
+    patcher:
+        client_migrated: false
+        client_patcher_available: false
+        game_migrated: false
+        game_patcher_available: false
+        locales:
+        - "en_US"
+        toggles:
+            new_client_patcher: 3550426020
+            new_game_patcher: 3417752227
+    perks-settings:
+        accountId: 212090967
+        modified: false
+        timestamp: 1554652278812
+    rso-auth:
+        install-identifier: "0e1411082868e94495e5ff47aa77a653"
+    telemetry:
+        fresh_installation: false
+        installation_id: "0l54Mw=="
