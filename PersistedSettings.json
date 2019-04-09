@@ -195,7 +195,7 @@
                         },
                         {
                             "name": "EnableLeftMouseButtonAttackMove",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "EnableTargetedAttackMove",
@@ -324,7 +324,7 @@
                         },
                         {
                             "name": "ItemShopStartPane",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "KeyboardScrollSpeed",
@@ -492,7 +492,7 @@
                         },
                         {
                             "name": "AnnouncerVolume",
-                            "value": "0.28"
+                            "value": "0.2800"
                         },
                         {
                             "name": "MasterMute",
@@ -500,7 +500,7 @@
                         },
                         {
                             "name": "MasterVolume",
-                            "value": "0.37"
+                            "value": "0.5000"
                         },
                         {
                             "name": "MusicMute",
@@ -516,7 +516,7 @@
                         },
                         {
                             "name": "PingsVolume",
-                            "value": "1"
+                            "value": "1.0000"
                         },
                         {
                             "name": "SfxMute",
@@ -524,7 +524,7 @@
                         },
                         {
                             "name": "SfxVolume",
-                            "value": "0.12"
+                            "value": "0.1200"
                         },
                         {
                             "name": "VoiceMute",
@@ -532,7 +532,7 @@
                         },
                         {
                             "name": "VoiceVolume",
-                            "value": "0.21"
+                            "value": "0.2100"
                         }
                     ]
                 }
@@ -718,7 +718,7 @@
                         },
                         {
                             "name": "evtPlayerAttackMoveClick",
-                            "value": "[Shift] [Button 2]"
+                            "value": "[Button 1],[Shift][Button 1]"
                         },
                         {
                             "name": "evtPlayerAttackOnlyClick",
@@ -730,7 +730,7 @@
                         },
                         {
                             "name": "evtPlayerMoveClick",
-                            "value": "[Button 2]"
+                            "value": "[Button 2],[Shift][Button 2]"
                         },
                         {
                             "name": "evtPlayerPingAreaIsWarded",
@@ -826,7 +826,7 @@
                         },
                         {
                             "name": "evtSelfCastAvatarSpell1",
-                            "value": "[Alt][d],"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSelfCastAvatarSpell2",
@@ -858,19 +858,19 @@
                         },
                         {
                             "name": "evtSelfCastSpell1",
-                            "value": "[Alt][q],"
+                            "value": "[<Unbound>],[Shift][q]"
                         },
                         {
                             "name": "evtSelfCastSpell2",
-                            "value": "[Alt][w],"
+                            "value": "[<Unbound>],[Shift][w]"
                         },
                         {
                             "name": "evtSelfCastSpell3",
-                            "value": "[Alt][e],"
+                            "value": "[<Unbound>],[Shift][e]"
                         },
                         {
                             "name": "evtSelfCastSpell4",
-                            "value": "[Alt][r],"
+                            "value": "[<Unbound>],[Shift][r]"
                         },
                         {
                             "name": "evtSelfCastVisionItem",
@@ -878,7 +878,7 @@
                         },
                         {
                             "name": "evtShowCharacterMenu",
-                            "value": "[<Unbound>]"
+                            "value": "[x]"
                         },
                         {
                             "name": "evtShowHealthBars",
@@ -930,19 +930,19 @@
                         },
                         {
                             "name": "evtSmartCastSpell1",
-                            "value": "[Shift][q]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastSpell2",
-                            "value": "[Shift][w]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastSpell3",
-                            "value": "[Shift][e]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastSpell4",
-                            "value": "[Shift][r]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastVisionItem",
@@ -1151,7 +1151,7 @@
                     "settings": [
                         {
                             "name": "evntHudMoveableSelect",
-                            "value": "[Button 1]"
+                            "value": "[Button 1],[Shift][Button 1]"
                         },
                         {
                             "name": "evtHoldShowScoreBoard",
@@ -1159,7 +1159,7 @@
                         },
                         {
                             "name": "evtOnUIMouse1",
-                            "value": "[Button 1],[Ctrl] [Button 1]"
+                            "value": "[Button 1],[Shift][Button 1]"
                         },
                         {
                             "name": "evtToggleFPSAndLatency",

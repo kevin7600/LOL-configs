@@ -126,7 +126,7 @@ page-settings:
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1554655574753
+                    lastModified: 1554771342763
                     name: "anything"
                     order: 0
                     primaryStyleId: 8200
@@ -139,7 +139,7 @@ page-settings:
                     - 8134
                     - 5008
                     - 5008
-                    - 5002
+                    - 5003
                     subStyleId: 8100
         settings:
             gameplayPatchVersionSeen: "9.6"
