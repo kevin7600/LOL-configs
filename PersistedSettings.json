@@ -195,7 +195,7 @@
                         },
                         {
                             "name": "EnableLeftMouseButtonAttackMove",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "EnableTargetedAttackMove",
@@ -324,7 +324,7 @@
                         },
                         {
                             "name": "ItemShopStartPane",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "KeyboardScrollSpeed",
@@ -718,7 +718,7 @@
                         },
                         {
                             "name": "evtPlayerAttackMoveClick",
-                            "value": "[Button 1],[Shift][Button 1]"
+                            "value": "[Shift] [Button 2]"
                         },
                         {
                             "name": "evtPlayerAttackOnlyClick",
@@ -730,7 +730,7 @@
                         },
                         {
                             "name": "evtPlayerMoveClick",
-                            "value": "[Button 2],[Shift][Button 2]"
+                            "value": "[Button 2]"
                         },
                         {
                             "name": "evtPlayerPingAreaIsWarded",
@@ -1151,7 +1151,7 @@
                     "settings": [
                         {
                             "name": "evntHudMoveableSelect",
-                            "value": "[Button 1],[Shift][Button 1]"
+                            "value": "[Button 1]"
                         },
                         {
                             "name": "evtHoldShowScoreBoard",
@@ -1159,7 +1159,7 @@
                         },
                         {
                             "name": "evtOnUIMouse1",
-                            "value": "[Button 1],[Shift][Button 1]"
+                            "value": "[Button 1],[Ctrl] [Button 1]"
                         },
                         {
                             "name": "evtToggleFPSAndLatency",
