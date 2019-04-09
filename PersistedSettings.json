@@ -195,7 +195,7 @@
                         },
                         {
                             "name": "EnableLeftMouseButtonAttackMove",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "EnableTargetedAttackMove",
@@ -344,7 +344,7 @@
                         },
                         {
                             "name": "MinimapMoveSelf",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "MinimapScale",
@@ -546,7 +546,7 @@
                     "settings": [
                         {
                             "name": "evntPlayerPing",
-                            "value": "[Alt][Button 1]"
+                            "value": "[Ctrl][Button 1]"
                         },
                         {
                             "name": "evntPlayerPingCursor",
@@ -558,7 +558,7 @@
                         },
                         {
                             "name": "evntPlayerPingDanger",
-                            "value": "[Ctrl][Button 1]"
+                            "value": "[<Unbound>],[<Unbound>]"
                         },
                         {
                             "name": "evtCameraLockToggle",
@@ -718,7 +718,7 @@
                         },
                         {
                             "name": "evtPlayerAttackMoveClick",
-                            "value": "[Shift] [Button 2]"
+                            "value": "[Button 1],[Shift][Button 1]"
                         },
                         {
                             "name": "evtPlayerAttackOnlyClick",
@@ -730,11 +730,11 @@
                         },
                         {
                             "name": "evtPlayerMoveClick",
-                            "value": "[Button 2]"
+                            "value": "[Button 2],[Shift][Button 2]"
                         },
                         {
                             "name": "evtPlayerPingAreaIsWarded",
-                            "value": "[Ctrl][g]"
+                            "value": "[Ctrl][Button 5]"
                         },
                         {
                             "name": "evtPlayerPingComeHere",
@@ -1151,7 +1151,7 @@
                     "settings": [
                         {
                             "name": "evntHudMoveableSelect",
-                            "value": "[Button 1]"
+                            "value": "[Button 1],[Shift][Button 1]"
                         },
                         {
                             "name": "evtHoldShowScoreBoard",
@@ -1159,7 +1159,7 @@
                         },
                         {
                             "name": "evtOnUIMouse1",
-                            "value": "[Button 1],[Ctrl] [Button 1]"
+                            "value": "[Button 1],[Shift][Button 1]"
                         },
                         {
                             "name": "evtToggleFPSAndLatency",
