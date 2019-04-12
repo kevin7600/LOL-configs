@@ -2,7 +2,7 @@ install:
     game-settings:
         accountId: 212090967
         modified: false
-        timestamp: 1554875025359
+        timestamp: 1555049037812
     gameflow-patcher-lock: null
     gameflow-process-info: null
     gameflow-spectate-reconnect-info: null
@@ -11,7 +11,7 @@ install:
         region: "NA"
     icon_version: 2
     last-valid-login-splash:
-        theme: "aprilfools2019"
+        theme: "seasonstart2019-c"
         version: "1.50"
     lcu-settings:
         accountId: 212090967
@@ -38,7 +38,7 @@ install:
     perks-settings:
         accountId: 212090967
         modified: false
-        timestamp: 1554874806048
+        timestamp: 1555046929146
     rso-auth:
         install-identifier: "0e1411082868e94495e5ff47aa77a653"
     telemetry:
