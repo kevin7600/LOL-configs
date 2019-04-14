@@ -126,21 +126,21 @@ page-settings:
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1555103488795
+                    lastModified: 1555204586889
                     name: "anything"
                     order: 0
-                    primaryStyleId: 8200
+                    primaryStyleId: 8400
                     selectedPerkIds:
-                    - 8214
-                    - 8226
-                    - 8210
-                    - 8236
-                    - 8136
-                    - 8134
+                    - 8439
+                    - 8463
+                    - 8429
+                    - 8242
+                    - 9105
+                    - 8009
+                    - 5005
                     - 5008
-                    - 5008
-                    - 5002
-                    subStyleId: 8100
+                    - 5003
+                    subStyleId: 8000
         settings:
             gameplayPatchVersionSeen: "9.6"
             gameplayUpdatedPerksSeen:

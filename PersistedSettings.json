@@ -308,7 +308,7 @@
                         },
                         {
                             "name": "ItemShopPrevX",
-                            "value": "297"
+                            "value": "296"
                         },
                         {
                             "name": "ItemShopPrevY",
@@ -324,7 +324,7 @@
                         },
                         {
                             "name": "ItemShopStartPane",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "KeyboardScrollSpeed",

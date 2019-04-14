@@ -290,6 +290,7 @@ lol-tutorial:
         perksPresetPagesSeen: true
         perksPrimaryPathSeen: true
         perksSecondaryPathSeen: true
+        perksStatModsSeen: true
         secondArcadeEventNotificationDisplayed: true
         thirdArcadeEventNotificationDisplayed: true
     schemaVersion: 1
@@ -300,5 +301,5 @@ parties-settings:
     schemaVersion: 0
 personalized-offers:
     data:
-        lastViewedTimestamp: "2019-04-08T03:40:36.600Z"
+        lastViewedTimestamp: "2019-04-13T06:30:34.522Z"
     schemaVersion: 1
