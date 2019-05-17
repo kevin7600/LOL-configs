@@ -308,11 +308,11 @@
                         },
                         {
                             "name": "ItemShopPrevX",
-                            "value": "296"
+                            "value": "300"
                         },
                         {
                             "name": "ItemShopPrevY",
-                            "value": "4"
+                            "value": "7"
                         },
                         {
                             "name": "ItemShopResizeHeight",
@@ -324,7 +324,7 @@
                         },
                         {
                             "name": "ItemShopStartPane",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "KeyboardScrollSpeed",
@@ -524,7 +524,7 @@
                         },
                         {
                             "name": "VoiceVolume",
-                            "value": "0.2100"
+                            "value": "0.29"
                         }
                     ]
                 }

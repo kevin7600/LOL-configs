@@ -40,6 +40,7 @@ champ-select:
             143: 143003
             145: 145000
             15: 15008
+            150: 150000
             154: 154000
             157: 157000
             16: 16000
@@ -53,6 +54,7 @@ champ-select:
             20: 20000
             201: 201000
             202: 202000
+            203: 203000
             21: 21000
             22: 22000
             222: 222000
@@ -69,6 +71,7 @@ champ-select:
             267: 267000
             268: 268000
             27: 27000
+            28: 28000
             29: 29000
             3: 3000
             30: 30000
@@ -102,6 +105,7 @@ champ-select:
             516: 516000
             53: 53000
             54: 54000
+            55: 55000
             555: 555000
             56: 56000
             57: 57007
@@ -150,7 +154,7 @@ champ-select:
             - 14
             - 4
             450:
-            - 32
+            - 13
             - 4
             900:
             - 21
@@ -216,15 +220,15 @@ lol-clash:
     schemaVersion: 1
 lol-collection-chromas:
     data:
-        lastVisitTime: 1538884453950
+        lastVisitTime: 1555260193350
     schemaVersion: 1
 lol-collection-summoner-icons:
     data:
-        lastVisitTime: 1554771318168
+        lastVisitTime: 1556943686253
     schemaVersion: 1
 lol-collection-ward-skins:
     data:
-        lastVisitTime: 1543613745501
+        lastVisitTime: 1555260190025
     schemaVersion: 1
 lol-email-verification:
     data:
@@ -273,7 +277,7 @@ lol-regalia:
 lol-skins-viewer:
     data:
         groupingDropdownKey: "groupByChampion"
-        lastVisitTime: 1549084480631
+        lastVisitTime: 1555260203497
         sortingDropdownKey: "masteryDescending"
     schemaVersion: 1
 lol-tutorial:

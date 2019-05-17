@@ -6,11 +6,7 @@ GeoInfo:
     schemaVersion: 1
 lol-audio:
     data:
-        masterVolume: 13
-        musicEnabled: true
-        musicVolume: 25
-        sfxVolume: 72
-        voiceVolume: 36
+        masterVolume: 29
     schemaVersion: 5
 lol-clash:
     data:
@@ -19,22 +15,22 @@ lol-clash:
 lol-collection-chromas:
     data:
         completeSetIdMap: null
-        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiYlhrVkE3ZlFOb0hqVFJMVjNKdXZRZyIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImF1ZCI6ImxvbCIsImFtciI6WyJyaW90Il0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7InVpZCI6MjEyMDkwOTY3LCJjdWlkIjoyMTIwOTA5NjcsInVuYW1lIjoia2V2aW43NjAwMCIsImNwaWQiOiJOQTEiLCJwdHJpZCI6bnVsbCwicGlkIjoiTkExIiwic3RhdGUiOiJFTkFCTEVEIn1dLCJleHAiOjE1NTUyOTgxMDksImlhdCI6MTU1NTIxMTcwOX0.VErrvlIV-wpSrm-jKAQZKh95t5E5Of2ofGVSQKMUERPrMNPCI6LWMWumCC2YrXhVY1XHHP6RuWyJGq-aKqEyl9QTibcLlhFXJbEeq_bEGrkRRd1FrBJ6l9ztAnFD3PClgGZQxYe_1eupZFollbnpBReBcMHMjZljlSkKvkiicHE"
-        lastVisitTime: 1538884453950
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiWE5xRkhDQ0F2QzJnQjhDUVZ6SVJBUSIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImF1ZCI6ImxvbCIsImFtciI6WyJyaW90Il0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7InVpZCI6MjEyMDkwOTY3LCJjdWlkIjoyMTIwOTA5NjcsInVuYW1lIjoia2V2aW43NjAwMCIsImNwaWQiOiJOQTEiLCJwdHJpZCI6bnVsbCwicGlkIjoiTkExIiwic3RhdGUiOiJFTkFCTEVEIn1dLCJleHAiOjE1NTgxOTQzNTIsImlhdCI6MTU1ODEwNzk1MiwibG9naW5fY291bnRyeSI6InVzYSJ9.Zy4-mEocsjOsURJ0tCw76F87yMJ7xRD_ynl64fDsgGKz-EVQa0n8GmI_XiaE-RvKN6b_Cv1WvlI1xU_aXgh6wwdf2DW2l5xDwtyXJJ4azAgFvWbjAtHdK41GhKdcKeMDWmhRYyhdl8W4fIA1Fr0CiDt2lqcQj70fpkyVHJcj0CM"
+        lastVisitTime: 1555260193350
         visitedCollectibleList: []
     schemaVersion: 1
 lol-collection-summoner-icons:
     data:
         completeSetIdMap: null
-        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiYlhrVkE3ZlFOb0hqVFJMVjNKdXZRZyIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImF1ZCI6ImxvbCIsImFtciI6WyJyaW90Il0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7InVpZCI6MjEyMDkwOTY3LCJjdWlkIjoyMTIwOTA5NjcsInVuYW1lIjoia2V2aW43NjAwMCIsImNwaWQiOiJOQTEiLCJwdHJpZCI6bnVsbCwicGlkIjoiTkExIiwic3RhdGUiOiJFTkFCTEVEIn1dLCJleHAiOjE1NTUyOTgxMDksImlhdCI6MTU1NTIxMTcwOX0.VErrvlIV-wpSrm-jKAQZKh95t5E5Of2ofGVSQKMUERPrMNPCI6LWMWumCC2YrXhVY1XHHP6RuWyJGq-aKqEyl9QTibcLlhFXJbEeq_bEGrkRRd1FrBJ6l9ztAnFD3PClgGZQxYe_1eupZFollbnpBReBcMHMjZljlSkKvkiicHE"
-        lastVisitTime: 1554771318168
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiWE5xRkhDQ0F2QzJnQjhDUVZ6SVJBUSIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImF1ZCI6ImxvbCIsImFtciI6WyJyaW90Il0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7InVpZCI6MjEyMDkwOTY3LCJjdWlkIjoyMTIwOTA5NjcsInVuYW1lIjoia2V2aW43NjAwMCIsImNwaWQiOiJOQTEiLCJwdHJpZCI6bnVsbCwicGlkIjoiTkExIiwic3RhdGUiOiJFTkFCTEVEIn1dLCJleHAiOjE1NTgxOTQzNTIsImlhdCI6MTU1ODEwNzk1MiwibG9naW5fY291bnRyeSI6InVzYSJ9.Zy4-mEocsjOsURJ0tCw76F87yMJ7xRD_ynl64fDsgGKz-EVQa0n8GmI_XiaE-RvKN6b_Cv1WvlI1xU_aXgh6wwdf2DW2l5xDwtyXJJ4azAgFvWbjAtHdK41GhKdcKeMDWmhRYyhdl8W4fIA1Fr0CiDt2lqcQj70fpkyVHJcj0CM"
+        lastVisitTime: 1556943686253
         visitedCollectibleList: []
     schemaVersion: 1
 lol-collection-ward-skins:
     data:
         completeSetIdMap: null
-        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiYlhrVkE3ZlFOb0hqVFJMVjNKdXZRZyIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImF1ZCI6ImxvbCIsImFtciI6WyJyaW90Il0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7InVpZCI6MjEyMDkwOTY3LCJjdWlkIjoyMTIwOTA5NjcsInVuYW1lIjoia2V2aW43NjAwMCIsImNwaWQiOiJOQTEiLCJwdHJpZCI6bnVsbCwicGlkIjoiTkExIiwic3RhdGUiOiJFTkFCTEVEIn1dLCJleHAiOjE1NTUyOTgxMDksImlhdCI6MTU1NTIxMTcwOX0.VErrvlIV-wpSrm-jKAQZKh95t5E5Of2ofGVSQKMUERPrMNPCI6LWMWumCC2YrXhVY1XHHP6RuWyJGq-aKqEyl9QTibcLlhFXJbEeq_bEGrkRRd1FrBJ6l9ztAnFD3PClgGZQxYe_1eupZFollbnpBReBcMHMjZljlSkKvkiicHE"
-        lastVisitTime: 1543613745501
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiWE5xRkhDQ0F2QzJnQjhDUVZ6SVJBUSIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImF1ZCI6ImxvbCIsImFtciI6WyJyaW90Il0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7InVpZCI6MjEyMDkwOTY3LCJjdWlkIjoyMTIwOTA5NjcsInVuYW1lIjoia2V2aW43NjAwMCIsImNwaWQiOiJOQTEiLCJwdHJpZCI6bnVsbCwicGlkIjoiTkExIiwic3RhdGUiOiJFTkFCTEVEIn1dLCJleHAiOjE1NTgxOTQzNTIsImlhdCI6MTU1ODEwNzk1MiwibG9naW5fY291bnRyeSI6InVzYSJ9.Zy4-mEocsjOsURJ0tCw76F87yMJ7xRD_ynl64fDsgGKz-EVQa0n8GmI_XiaE-RvKN6b_Cv1WvlI1xU_aXgh6wwdf2DW2l5xDwtyXJJ4azAgFvWbjAtHdK41GhKdcKeMDWmhRYyhdl8W4fIA1Fr0CiDt2lqcQj70fpkyVHJcj0CM"
+        lastVisitTime: 1555260190025
         visitedCollectibleList: []
     schemaVersion: 1
 lol-leagues:
@@ -45,7 +41,7 @@ lol-leagues:
 lol-premade-voice:
     data:
         currentCaptureDeviceHandle: "Default System Device"
-        inputVolume: 66
+        inputVolume: 50
         vadSensitivity: 65
     schemaVersion: 1
 lol-replays:
@@ -55,21 +51,15 @@ lol-replays:
 lol-skins-viewer:
     data:
         completeSetIdMap: null
-        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiYlhrVkE3ZlFOb0hqVFJMVjNKdXZRZyIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImF1ZCI6ImxvbCIsImFtciI6WyJyaW90Il0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7InVpZCI6MjEyMDkwOTY3LCJjdWlkIjoyMTIwOTA5NjcsInVuYW1lIjoia2V2aW43NjAwMCIsImNwaWQiOiJOQTEiLCJwdHJpZCI6bnVsbCwicGlkIjoiTkExIiwic3RhdGUiOiJFTkFCTEVEIn1dLCJleHAiOjE1NTUyOTgxMDksImlhdCI6MTU1NTIxMTcwOX0.VErrvlIV-wpSrm-jKAQZKh95t5E5Of2ofGVSQKMUERPrMNPCI6LWMWumCC2YrXhVY1XHHP6RuWyJGq-aKqEyl9QTibcLlhFXJbEeq_bEGrkRRd1FrBJ6l9ztAnFD3PClgGZQxYe_1eupZFollbnpBReBcMHMjZljlSkKvkiicHE"
-        lastVisitTime: 1549084480631
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiWE5xRkhDQ0F2QzJnQjhDUVZ6SVJBUSIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImF1ZCI6ImxvbCIsImFtciI6WyJyaW90Il0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7InVpZCI6MjEyMDkwOTY3LCJjdWlkIjoyMTIwOTA5NjcsInVuYW1lIjoia2V2aW43NjAwMCIsImNwaWQiOiJOQTEiLCJwdHJpZCI6bnVsbCwicGlkIjoiTkExIiwic3RhdGUiOiJFTkFCTEVEIn1dLCJleHAiOjE1NTgxOTQzNTIsImlhdCI6MTU1ODEwNzk1MiwibG9naW5fY291bnRyeSI6InVzYSJ9.Zy4-mEocsjOsURJ0tCw76F87yMJ7xRD_ynl64fDsgGKz-EVQa0n8GmI_XiaE-RvKN6b_Cv1WvlI1xU_aXgh6wwdf2DW2l5xDwtyXJJ4azAgFvWbjAtHdK41GhKdcKeMDWmhRYyhdl8W4fIA1Fr0CiDt2lqcQj70fpkyVHJcj0CM"
+        lastVisitTime: 1555260203497
         visitedSkinList: []
     schemaVersion: 1
 lol-user-experience:
     data:
         hasBeenPromptedForPotatoMode: true
         lastKnownMachineSpec: 5
-        potatoModeEnabled: true
-        unloadUxInGameEnabled: false
     schemaVersion: 2
-personalized-offers:
-    data:
-        lastViewedTimestamp: "2019-04-08T03:40:36.601Z"
-    schemaVersion: 1
 video:
     data:
         ZoomScale: 1.250000
