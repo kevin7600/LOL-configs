@@ -2,14 +2,9 @@ install:
     game-settings:
         accountId: 212090967
         modified: false
-        timestamp: 1558111470404
-    gameflow-patcher-lock: 1558112621583
-    gameflow-process-info:
-        pid: 9520
-        rawArgs:
-        - "192.64.173.230 5189 75sSV4zOUpevm4lz1L117g== 49331082"
-        - "-PlayerID=49331082"
-        - "-GameID=3043853689"
+        timestamp: 1558194200024
+    gameflow-patcher-lock: 1558195528501
+    gameflow-process-info: null
     gameflow-spectate-reconnect-info: null
     globals:
         locale: "en_US"
@@ -44,7 +39,7 @@ install:
     perks-settings:
         accountId: 212090967
         modified: false
-        timestamp: 1558111670153
+        timestamp: 1558194596796
     rso-auth:
         install-identifier: "13be4183fceec847baa3eabc41f7ec53"
     telemetry:
