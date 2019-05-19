@@ -122,11 +122,11 @@ page-settings:
                 -   autoModifiedSelections: []
                     current: true
                     id: 703830050
-                    isActive: true
+                    isActive: false
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1558194588232
+                    lastModified: 1558286134503
                     name: "anything"
                     order: 0
                     primaryStyleId: 8100
@@ -139,7 +139,7 @@ page-settings:
                     - 8234
                     - 5008
                     - 5008
-                    - 5002
+                    - 5003
                     subStyleId: 8200
         settings:
             gameplayPatchVersionSeen: "9.9"
