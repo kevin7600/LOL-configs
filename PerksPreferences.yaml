@@ -1,279 +1,134 @@
 page-settings:
     data:
-        pages:
-        -   autoModifiedSelections: []
-            current: true
-            id: 703830050
-            isActive: false
-            isDeletable: true
-            isEditable: true
-            isValid: true
-            lastModified: 0
-            name: "anything"
-            order: 0
-            primaryStyleId: 8000
-            selectedPerkIds:
-            - 8021
-            - 9111
-            - 9104
-            - 8014
-            - 8226
-            - 8210
-            subStyleId: 8200
-        -   autoModifiedSelections: []
-            current: false
-            id: 54
-            isActive: false
-            isDeletable: false
-            isEditable: false
-            isValid: true
-            lastModified: 0
-            name: "Inspiration: The Timeless"
-            order: 2147483638
-            primaryStyleId: 8300
-            selectedPerkIds:
-            - 8326
-            - 8313
-            - 8345
-            - 8347
-            - 8451
-            - 8430
-            subStyleId: 8400
-        -   autoModifiedSelections: []
-            current: false
-            id: 53
-            isActive: false
-            isDeletable: false
-            isEditable: false
-            isValid: true
-            lastModified: 0
-            name: "Sorcery: The Calamity"
-            order: 2147483639
-            primaryStyleId: 8200
-            selectedPerkIds:
-            - 8229
-            - 8226
-            - 8210
-            - 8236
-            - 8138
-            - 8105
-            subStyleId: 8100
-        -   autoModifiedSelections: []
-            current: false
-            id: 52
-            isActive: false
-            isDeletable: false
-            isEditable: false
-            isValid: true
-            lastModified: 0
-            name: "Precision: The Perfect"
-            order: 2147483640
-            primaryStyleId: 8000
-            selectedPerkIds:
-            - 8005
-            - 9111
-            - 9104
-            - 8014
-            - 8234
-            - 8236
-            subStyleId: 8200
-        -   autoModifiedSelections: []
-            current: false
-            id: 51
-            isActive: false
-            isDeletable: false
-            isEditable: false
-            isValid: true
-            lastModified: 0
-            name: "Domination: The Executioner"
-            order: 2147483641
-            primaryStyleId: 8100
-            selectedPerkIds:
-            - 8112
-            - 8126
-            - 8120
-            - 8135
-            - 9111
-            - 8014
-            subStyleId: 8000
-        -   autoModifiedSelections: []
-            current: false
-            id: 50
-            isActive: false
-            isDeletable: false
-            isEditable: false
-            isValid: true
-            lastModified: 0
-            name: "Resolve: The Colossus"
-            order: 2147483642
-            primaryStyleId: 8400
-            selectedPerkIds:
-            - 8437
-            - 8473
-            - 8430
-            - 8451
-            - 8224
-            - 8237
-            subStyleId: 8200
+        pages: []
         perShardPerkBooks:
             na1:
-                currentPageId: 703830050
+                currentPageId: 1068662187
                 pages:
                 -   autoModifiedSelections: []
-                    current: true
-                    id: 703830050
+                    current: false
+                    id: 1854955413
                     isActive: false
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1570683937674
-                    name: "anything"
+                    lastModified: 1566977021868
+                    name: "ADC"
                     order: 0
+                    primaryStyleId: 8000
+                    selectedPerkIds:
+                    - 8008
+                    - 9111
+                    - 9104
+                    - 8014
+                    - 8139
+                    - 8135
+                    - 5008
+                    - 5008
+                    - 5002
+                    subStyleId: 8100
+                -   autoModifiedSelections: []
+                    current: false
+                    id: 1369191707
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isValid: true
+                    lastModified: 1567071287808
+                    name: "Burst AP"
+                    order: 1
                     primaryStyleId: 8100
                     selectedPerkIds:
-                    - 8124
-                    - 8126
-                    - 8136
-                    - 8105
+                    - 8128
+                    - 8139
+                    - 8138
+                    - 8106
                     - 9111
-                    - 9105
+                    - 8014
+                    - 5008
+                    - 5008
+                    - 5002
+                    subStyleId: 8000
+                -   autoModifiedSelections: []
+                    current: false
+                    id: 300053953
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isValid: true
+                    lastModified: 1567069724584
+                    name: "AP/Supp"
+                    order: 2
+                    primaryStyleId: 8200
+                    selectedPerkIds:
+                    - 8214
+                    - 8226
+                    - 8210
+                    - 8232
+                    - 8453
+                    - 8444
+                    - 5008
+                    - 5003
+                    - 5003
+                    subStyleId: 8400
+                -   autoModifiedSelections: []
+                    current: true
+                    id: 1068662187
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isValid: true
+                    lastModified: 1567072815027
+                    name: "Tank"
+                    order: 3
+                    primaryStyleId: 8400
+                    selectedPerkIds:
+                    - 8465
+                    - 8463
+                    - 8473
+                    - 8453
+                    - 9111
+                    - 8014
                     - 5007
                     - 5002
+                    - 5002
+                    subStyleId: 8000
+                -   autoModifiedSelections: []
+                    current: false
+                    id: 1765406629
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isValid: true
+                    lastModified: 1565561777007
+                    name: "Inspo"
+                    order: 4
+                    primaryStyleId: 8300
+                    selectedPerkIds:
+                    - 8351
+                    - 8304
+                    - 8345
+                    - 8347
+                    - 9111
+                    - 8014
+                    - 5008
+                    - 5008
                     - 5003
                     subStyleId: 8000
         settings:
             gameplayPatchVersionSeen: "9.9"
             gameplayUpdatedPerksSeen:
+            - 8234
+            - 8237
+            - 8429
+            - 8473
+            - 8439
+            - 8304
             - 8126
             - 8120
             - 8105
             - 8106
-            - 8234
-            - 8237
-            - 8439
-            - 8429
-            - 8473
-            - 8304
             gridModeEnabled: true
-            showLongDescriptions: true
-            showPresetPages: false
+            showLongDescriptions: false
+            showPresetPages: true
     schemaVersion: 5
-pages:
--   autoModifiedSelections: []
-    current: true
-    formatVersion: 4
-    id: 703830050
-    isActive: false
-    isDeletable: true
-    isEditable: true
-    isValid: true
-    name: "anything"
-    order: 0
-    primaryStyleId: 8000
-    selectedPerkIds:
-    - 8021
-    - 9111
-    - 9104
-    - 8014
-    - 8226
-    - 8210
-    subStyleId: 8200
--   autoModifiedSelections: []
-    current: false
-    formatVersion: 4
-    id: 54
-    isActive: false
-    isDeletable: false
-    isEditable: false
-    isValid: true
-    name: "Inspiration: The Timeless"
-    order: 2147483638
-    primaryStyleId: 8300
-    selectedPerkIds:
-    - 8326
-    - 8313
-    - 8345
-    - 8347
-    - 8451
-    - 8430
-    subStyleId: 8400
--   autoModifiedSelections: []
-    current: false
-    formatVersion: 4
-    id: 53
-    isActive: false
-    isDeletable: false
-    isEditable: false
-    isValid: true
-    name: "Sorcery: The Calamity"
-    order: 2147483639
-    primaryStyleId: 8200
-    selectedPerkIds:
-    - 8229
-    - 8226
-    - 8210
-    - 8236
-    - 8138
-    - 8105
-    subStyleId: 8100
--   autoModifiedSelections: []
-    current: false
-    formatVersion: 4
-    id: 52
-    isActive: false
-    isDeletable: false
-    isEditable: false
-    isValid: true
-    name: "Precision: The Perfect"
-    order: 2147483640
-    primaryStyleId: 8000
-    selectedPerkIds:
-    - 8005
-    - 9111
-    - 9104
-    - 8014
-    - 8234
-    - 8236
-    subStyleId: 8200
--   autoModifiedSelections: []
-    current: false
-    formatVersion: 4
-    id: 51
-    isActive: false
-    isDeletable: false
-    isEditable: false
-    isValid: true
-    name: "Domination: The Executioner"
-    order: 2147483641
-    primaryStyleId: 8100
-    selectedPerkIds:
-    - 8112
-    - 8126
-    - 8120
-    - 8135
-    - 9111
-    - 8014
-    subStyleId: 8000
--   autoModifiedSelections: []
-    current: false
-    formatVersion: 4
-    id: 50
-    isActive: false
-    isDeletable: false
-    isEditable: false
-    isValid: true
-    name: "Resolve: The Colossus"
-    order: 2147483642
-    primaryStyleId: 8400
-    selectedPerkIds:
-    - 8437
-    - 8473
-    - 8430
-    - 8451
-    - 8224
-    - 8237
-    subStyleId: 8200
-settings:
-    gridModeEnabled: true
-    showLongDescriptions: true
-    showPresetPages: true
