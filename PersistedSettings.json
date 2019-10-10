@@ -5,6 +5,27 @@
             "name": "Game.cfg",
             "sections": [
                 {
+                    "name": "Accessibility",
+                    "settings": [
+                        {
+                            "name": "ColorBrightness",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "ColorContrast",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "ColorGamma",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "ColorLevel",
+                            "value": "0.5000"
+                        }
+                    ]
+                },
+                {
                     "name": "Chat",
                     "settings": [
                         {
@@ -182,6 +203,10 @@
                             "value": "0"
                         },
                         {
+                            "name": "CfgVersion",
+                            "value": "9.20.351"
+                        },
+                        {
                             "name": "CursorOverride",
                             "value": "0"
                         },
@@ -196,6 +221,10 @@
                         {
                             "name": "EnableLeftMouseButtonAttackMove",
                             "value": "0"
+                        },
+                        {
+                            "name": "EnableScreenShake",
+                            "value": "1"
                         },
                         {
                             "name": "EnableTargetedAttackMove",
@@ -251,6 +280,10 @@
                             "value": "50"
                         },
                         {
+                            "name": "DeathRecapScale",
+                            "value": "1.0000"
+                        },
+                        {
                             "name": "DisableHudSpellClick",
                             "value": "0"
                         },
@@ -269,6 +302,10 @@
                         {
                             "name": "EnableLineMissileVis",
                             "value": "1"
+                        },
+                        {
+                            "name": "EternalsMilestoneDisplayMode",
+                            "value": "0"
                         },
                         {
                             "name": "FlashScreenWhenDamaged",
@@ -308,11 +345,11 @@
                         },
                         {
                             "name": "ItemShopPrevX",
-                            "value": "300"
+                            "value": "291"
                         },
                         {
                             "name": "ItemShopPrevY",
-                            "value": "7"
+                            "value": "55"
                         },
                         {
                             "name": "ItemShopResizeHeight",
@@ -376,6 +413,14 @@
                         },
                         {
                             "name": "ShowAllChannelChat",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowAllChannelChatSpectator",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShowAlliedChat",
                             "value": "1"
                         },
                         {
@@ -524,7 +569,7 @@
                         },
                         {
                             "name": "VoiceVolume",
-                            "value": "0.29"
+                            "value": "0.2900"
                         }
                     ]
                 }
