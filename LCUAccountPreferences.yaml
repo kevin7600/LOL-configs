@@ -5,141 +5,189 @@ career-stats-settings:
     schemaVersion: 1
 champ-grid-settings:
     data:
-        sortOrder: "byMastery"
+        sortOrder: "byName"
     schemaVersion: 1
 champ-select:
     data:
         skins:
-            10: 10000
-            110: 110000
+            1: 1000
+            101: 101000
+            102: 102000
+            103: 103000
+            105: 105000
+            106: 106000
+            107: 107000
+            11: 11000
+            111: 111000
+            112: 112000
+            113: 113000
+            114: 114000
             115: 115000
-            117: 117015
-            119: 119003
-            12: 12000
-            122: 122004
+            121: 121000
+            126: 126000
             127: 127000
             133: 133000
+            134: 134000
             14: 14000
-            142: 142000
             143: 143000
             145: 145000
-            15: 15015
-            16: 16007
+            15: 15000
+            154: 154000
+            157: 157000
+            161: 161000
             163: 163000
-            17: 17006
-            18: 18000
+            17: 17000
+            19: 19000
             2: 2000
+            20: 20000
             201: 201000
             202: 202000
             203: 203000
-            21: 21014
-            22: 22009
-            222: 222004
-            24: 24000
-            25: 25002
+            21: 21000
+            223: 223000
+            236: 236000
+            240: 240000
+            25: 25000
+            254: 254000
             26: 26000
-            267: 267005
+            266: 266000
+            267: 267000
+            268: 268000
             27: 27000
-            28: 28003
-            29: 29002
-            3: 3006
+            28: 28000
+            30: 30000
             31: 31000
-            34: 34000
-            350: 350000
-            37: 37009
-            39: 39000
-            40: 40013
+            32: 32000
+            35: 35000
+            36: 36000
+            38: 38000
+            412: 412000
+            42: 42000
             420: 420000
-            43: 43000
-            432: 432001
-            44: 44003
-            45: 45013
+            429: 429000
+            432: 432000
+            44: 44000
             497: 497000
-            498: 498000
             5: 5000
             50: 50000
-            51: 51011
-            518: 518001
+            51: 51000
+            516: 516000
+            517: 517000
             53: 53000
-            55: 55002
-            555: 555000
-            57: 57006
-            59: 59000
-            6: 6003
+            54: 54000
+            58: 58000
+            6: 6000
             60: 60000
-            61: 61000
+            62: 62000
+            63: 63000
             67: 67000
+            68: 68000
+            7: 7000
             72: 72000
-            77: 77003
-            86: 86013
-            9: 9000
+            77: 77000
+            82: 82000
+            83: 83000
+            85: 85000
+            86: 86000
             90: 90000
-            99: 99016
+            96: 96000
+            99: 99000
         spells:
             400:
-            - 12
-            - 4
-            420:
-            - 12
+            - 14
             - 4
             430:
             - 14
-            - 3
-            440:
-            - 12
             - 4
             450:
-            - 21
+            - 14
             - 4
-            700:
+            830:
+            - 14
+            - 4
+            840:
+            - 14
+            - 4
+            850:
+            - 14
+            - 4
+            900:
             - 14
             - 4
     schemaVersion: 1
 clash-tutorial:
     data:
-        captainInviteStep: true
-        captainLockinStep: true
-        captainRewardStep: true
-        captainRoleStep: true
-        captainTicketStep: true
         initialized: true
-        memberJoinTeamStep: true
-        memberLockinStep: true
-        memberRewardStep: true
-        memberRoleStep: true
-        memberTicketStep: true
-        rosterDetailsModalLogoStep: true
-        rosterDetailsModalNameTagStep: true
-        smsButtonStep: true
-        version: 2
+        version: 1
     schemaVersion: 1
-custom-spell-selections:
-    data:
-        custom-spell-selections:
-            spell1: 12
-            spell2: 4
-    schemaVersion: 0
 emotes:
     data:
-        newEmotes: []
+        newEmotes:
+        - 3000
     schemaVersion: 1
-lol-chat:
+lol-champ-select:
     data:
-        chatFilterDisabled: true
+        favorites:
+            bottom:
+            - 31
     schemaVersion: 1
 lol-collection-champions:
     data:
-        lastVisitTime: 1570600928825
+        lastVisitTime: 1570038589301
+    schemaVersion: 1
+lol-collection-chromas:
+    data:
+        lastVisitTime: 1553093899727
     schemaVersion: 1
 lol-collection-summoner-icons:
     data:
-        lastVisitTime: 1566630124114
+        lastVisitTime: 1553958046063
+    schemaVersion: 1
+lol-collection-ward-skins:
+    data:
+        lastVisitTime: 1552128173605
+    schemaVersion: 1
+lol-notifications:
+    data:
+        rgmNotificationTimestamp: 1548780416357
+    schemaVersion: 1
+lol-npe-how-to-win:
+    data:
+        creepScore:
+            championId: 103
+            gameId: 2106807313
+            goldEarned: 15918
+            jungleKills: 4
+            laneKills: 92
+            newRecord: false
+            totalKills: 96
+        objectives:
+            barons: 0
+            championId: 103
+            dragons: 1
+            gameId: 2106807313
+            heralds: 0
+            inhibitors: 4
+            newRecord: false
+            nexus: 1
+            objectives: 17
+            towers: 11
+        ready: true
+        takedowns:
+            assists: 14
+            championId: 103
+            gameId: 2107222605
+            kills: 12
+            largestMulti: 2
+            largestSpree: 6
+            newRecord: false
+            takedowns: 26
     schemaVersion: 1
 lol-npe-tutorial-path:
     data:
-        hasSeenTutorialPath: false
-        hasSkippedTutorialPath: false
-        shouldSeeNewPlayerExperience: false
+        hasSeenTutorialPath: true
+        hasSkippedTutorialPath: true
+        shouldSeeNewPlayerExperience: true
     schemaVersion: 1
 lol-parties:
     data:
@@ -148,11 +196,11 @@ lol-parties:
     schemaVersion: 1
 lol-premade-voice:
     data:
-        autoJoin: false
+        autoJoin: true
         inputMode: "voiceActivity"
-        muteOnConnect: true
+        muteOnConnect: false
         pushToTalkKey: "[<Unbound>]"
-        showFirstExperienceInGame: true
+        showFirstExperienceInGame: false
         showFirstExperienceInLCU: false
     schemaVersion: 1
 lol-revivals:
@@ -162,15 +210,15 @@ lol-revivals:
     schemaVersion: 0
 lol-skins-viewer:
     data:
-        lastVisitTime: 1566792438813
+        lastVisitTime: 1553093880519
     schemaVersion: 1
 lol-tutorial:
     data:
+        Map11_URF_TutorialSeen: true
+        Map21_GAMEMODEX_TutorialSeen: true
         Map22_TFT_TutorialSeen: true
         championSelectRunesTooltipSeenCount: 9
+        garenaOrangeEssenceTutorialDisplayed: true
+        perksCreateNewPageSeen: true
+        perksPresetPagesSeen: true
     schemaVersion: 1
-parties-settings:
-    data:
-        Parties:
-            defaultPartyType: "open"
-    schemaVersion: 0

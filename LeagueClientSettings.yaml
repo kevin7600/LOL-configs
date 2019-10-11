@@ -1,23 +1,24 @@
 install:
     game-settings:
-        accountId: 212090967
+        accountId: 2113820778345408
         modified: false
-        timestamp: 1570685201781
-    gameflow-patcher-lock: 1570689292819
+        timestamp: 1570384394491
+    gameflow-patcher-lock: null
     gameflow-process-info: null
     gameflow-spectate-reconnect-info: null
     globals:
-        locale: "en_US"
-        region: "NA"
+        locale: "en_GB"
+        region: "EUNE"
     last-valid-login-splash:
         theme: "worlds2019"
         version: "1.60"
     lcu-settings:
-        accountId: 212090967
+        accountId: 2113820778345408
         modified: false
-        timestamp: 1570678620623
+        timestamp: 1570821854133
     licensesAgreedTo:
         576F00F89F0C6BED5C0B5166E2D6D1F7: null
+        C316223E0402D00F535E0E41CAD27ECE: null
     login-remember-me:
         rememberMe: false
         username: ""
@@ -31,20 +32,21 @@ install:
         game_patcher_available: true
         game_patcher_migrated_time: "2019-09-28T05:55:09Z"
         locales:
+        - "en_GB"
         - "en_US"
         toggles:
             new_client_patcher: 4051976166
             new_game_patcher: 2333226970
     perks-settings:
-        accountId: 212090967
+        accountId: 2113820778345408
         modified: false
-        timestamp: 1570683964786
+        timestamp: 1570382569702
     riotclient-upgrade:
         aux-environment: "live"
         installer-decrypt-key: "ZuV40vGHTGYoUCpx"
         installer-filename: "rc-win.enc"
-        seq-success-count: 49
-        success-count: 49
+        seq-success-count: 56
+        success-count: 56
         uninstaller-repaired: true
         upgrade-ready: true
     rso-auth:
