@@ -11,6 +11,8 @@ champ-select:
     data:
         skins:
             10: 10000
+            105: 105000
+            106: 106000
             110: 110000
             115: 115000
             117: 117015
@@ -33,8 +35,9 @@ champ-select:
             202: 202000
             203: 203000
             21: 21014
-            22: 22009
+            22: 22000
             222: 222004
+            23: 23000
             24: 24000
             25: 25002
             26: 26000
@@ -46,6 +49,7 @@ champ-select:
             31: 31000
             34: 34000
             350: 350000
+            36: 36000
             37: 37009
             39: 39000
             40: 40013
@@ -63,7 +67,7 @@ champ-select:
             53: 53000
             55: 55002
             555: 555000
-            57: 57006
+            57: 57007
             59: 59000
             6: 6003
             60: 60000
@@ -71,6 +75,7 @@ champ-select:
             67: 67000
             72: 72000
             77: 77003
+            8: 8000
             86: 86013
             9: 9000
             90: 90000
@@ -129,7 +134,7 @@ lol-chat:
     schemaVersion: 1
 lol-collection-champions:
     data:
-        lastVisitTime: 1570600928825
+        lastVisitTime: 1571103169388
     schemaVersion: 1
 lol-collection-summoner-icons:
     data:
@@ -150,9 +155,9 @@ lol-premade-voice:
     data:
         autoJoin: false
         inputMode: "voiceActivity"
-        muteOnConnect: true
+        muteOnConnect: false
         pushToTalkKey: "[<Unbound>]"
-        showFirstExperienceInGame: true
+        showFirstExperienceInGame: false
         showFirstExperienceInLCU: false
     schemaVersion: 1
 lol-revivals:
