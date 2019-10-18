@@ -65,6 +65,7 @@ champ-select:
             51: 51011
             518: 518001
             53: 53000
+            54: 54006
             55: 55002
             555: 555000
             57: 57007
@@ -85,13 +86,13 @@ champ-select:
             - 12
             - 4
             420:
-            - 12
+            - 14
             - 4
             430:
             - 14
             - 3
             440:
-            - 12
+            - 14
             - 4
             450:
             - 21
@@ -134,7 +135,7 @@ lol-chat:
     schemaVersion: 1
 lol-collection-champions:
     data:
-        lastVisitTime: 1571103169388
+        lastVisitTime: 1571369989537
     schemaVersion: 1
 lol-collection-summoner-icons:
     data:
@@ -167,7 +168,7 @@ lol-revivals:
     schemaVersion: 0
 lol-skins-viewer:
     data:
-        lastVisitTime: 1566792438813
+        lastVisitTime: 1571281047946
     schemaVersion: 1
 lol-tutorial:
     data:
@@ -179,3 +180,7 @@ parties-settings:
         Parties:
             defaultPartyType: "open"
     schemaVersion: 0
+personalized-offers:
+    data:
+        lastViewedTimestamp: "2019-10-18T03:37:24.435Z"
+    schemaVersion: 1

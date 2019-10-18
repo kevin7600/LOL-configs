@@ -349,7 +349,7 @@
                         },
                         {
                             "name": "ItemShopPrevY",
-                            "value": "28"
+                            "value": "32"
                         },
                         {
                             "name": "ItemShopResizeHeight",
@@ -361,7 +361,7 @@
                         },
                         {
                             "name": "ItemShopStartPane",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "KeyboardScrollSpeed",
