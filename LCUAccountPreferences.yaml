@@ -11,6 +11,7 @@ champ-select:
     data:
         skins:
             10: 10000
+            101: 101000
             105: 105000
             106: 106000
             110: 110000
@@ -65,7 +66,7 @@ champ-select:
             51: 51011
             518: 518001
             53: 53000
-            54: 54006
+            54: 54000
             55: 55002
             555: 555000
             57: 57007
@@ -80,19 +81,20 @@ champ-select:
             86: 86013
             9: 9000
             90: 90000
-            99: 99016
+            96: 96000
+            99: 99000
         spells:
             400:
             - 12
             - 4
             420:
-            - 14
+            - 12
             - 4
             430:
             - 14
             - 3
             440:
-            - 14
+            - 12
             - 4
             450:
             - 21
@@ -127,7 +129,8 @@ custom-spell-selections:
     schemaVersion: 0
 emotes:
     data:
-        newEmotes: []
+        newEmotes:
+        - 3409
     schemaVersion: 1
 lol-chat:
     data:
@@ -135,7 +138,7 @@ lol-chat:
     schemaVersion: 1
 lol-collection-champions:
     data:
-        lastVisitTime: 1571369989537
+        lastVisitTime: 1571454945137
     schemaVersion: 1
 lol-collection-summoner-icons:
     data:

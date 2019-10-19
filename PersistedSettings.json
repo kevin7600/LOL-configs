@@ -361,7 +361,7 @@
                         },
                         {
                             "name": "ItemShopStartPane",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "KeyboardScrollSpeed",
