@@ -21,6 +21,7 @@ champ-select:
             12: 12000
             122: 122004
             127: 127000
+            13: 13000
             133: 133000
             14: 14000
             142: 142000
@@ -42,6 +43,7 @@ champ-select:
             24: 24000
             25: 25002
             26: 26000
+            266: 266000
             267: 267005
             27: 27000
             28: 28003
@@ -57,7 +59,7 @@ champ-select:
             420: 420000
             43: 43000
             432: 432001
-            44: 44003
+            44: 44000
             45: 45013
             497: 497000
             498: 498000
@@ -94,8 +96,8 @@ champ-select:
             - 14
             - 3
             440:
-            - 12
-            - 4
+            - 14
+            - 3
             450:
             - 21
             - 4
@@ -138,7 +140,7 @@ lol-chat:
     schemaVersion: 1
 lol-collection-champions:
     data:
-        lastVisitTime: 1571454945137
+        lastVisitTime: 1571767795048
     schemaVersion: 1
 lol-collection-summoner-icons:
     data:
@@ -177,6 +179,8 @@ lol-tutorial:
     data:
         Map22_TFT_TutorialSeen: true
         championSelectRunesTooltipSeenCount: 9
+        perksCreateNewPageSeen: true
+        perksPresetPagesSeen: true
     schemaVersion: 1
 parties-settings:
     data:
