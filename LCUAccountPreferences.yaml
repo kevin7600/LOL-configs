@@ -61,6 +61,7 @@ champ-select:
             432: 432001
             44: 44000
             45: 45013
+            48: 48000
             497: 497000
             498: 498000
             5: 5000
@@ -96,8 +97,8 @@ champ-select:
             - 14
             - 3
             440:
-            - 14
-            - 3
+            - 12
+            - 4
             450:
             - 21
             - 4
@@ -132,7 +133,12 @@ custom-spell-selections:
 emotes:
     data:
         newEmotes:
+        - 3346
         - 3409
+    schemaVersion: 1
+eos-2019-bell-notification_TFT_1:
+    data:
+        notificationShown: true
     schemaVersion: 1
 lol-chat:
     data:
@@ -140,11 +146,11 @@ lol-chat:
     schemaVersion: 1
 lol-collection-champions:
     data:
-        lastVisitTime: 1571767795048
+        lastVisitTime: 1571972204542
     schemaVersion: 1
 lol-collection-summoner-icons:
     data:
-        lastVisitTime: 1566630124114
+        lastVisitTime: 1571812056612
     schemaVersion: 1
 lol-npe-tutorial-path:
     data:
@@ -189,5 +195,5 @@ parties-settings:
     schemaVersion: 0
 personalized-offers:
     data:
-        lastViewedTimestamp: "2019-10-18T03:37:24.435Z"
+        lastViewedTimestamp: "2019-10-23T06:27:46.714Z"
     schemaVersion: 1

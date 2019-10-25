@@ -204,7 +204,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "9.20.351"
+                            "value": "9.21.813"
                         },
                         {
                             "name": "CursorOverride",
@@ -361,7 +361,7 @@
                         },
                         {
                             "name": "ItemShopStartPane",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "KeyboardScrollSpeed",
