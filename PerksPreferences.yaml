@@ -3,23 +3,23 @@ page-settings:
         pages:
         -   autoModifiedSelections: []
             current: true
-            id: 703830050
+            id: 367336435
             isActive: false
             isDeletable: true
             isEditable: true
             isValid: true
             lastModified: 0
-            name: "anything"
+            name: "Use This Page"
             order: 0
-            primaryStyleId: 8000
+            primaryStyleId: 8100
             selectedPerkIds:
-            - 8021
-            - 9111
+            - 8124
+            - 8126
+            - 8136
+            - 8105
             - 9104
             - 8014
-            - 8226
-            - 8210
-            subStyleId: 8200
+            subStyleId: 8000
         -   autoModifiedSelections: []
             current: false
             id: 54
@@ -117,67 +117,111 @@ page-settings:
             subStyleId: 8200
         perShardPerkBooks:
             na1:
-                currentPageId: 703830050
+                currentPageId: 367336435
                 pages:
                 -   autoModifiedSelections: []
                     current: true
-                    id: 703830050
+                    id: 367336435
                     isActive: false
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1571898239704
-                    name: "anything"
+                    lastModified: 1572488609821
+                    name: "Use This Page"
                     order: 0
                     primaryStyleId: 8100
                     selectedPerkIds:
-                    - 8124
-                    - 8126
-                    - 8136
-                    - 8105
+                    - 8128
+                    - 8139
+                    - 8138
+                    - 8135
                     - 9111
+                    - 8014
+                    - 5008
+                    - 5008
+                    - 5002
+                    subStyleId: 8000
+                -   autoModifiedSelections: []
+                    current: false
+                    id: 1166253005
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isValid: true
+                    lastModified: 1572485887947
+                    name: "Yuumi"
+                    order: 1
+                    primaryStyleId: 8400
+                    selectedPerkIds:
+                    - 8465
+                    - 8401
+                    - 8473
+                    - 8453
+                    - 8017
                     - 9105
                     - 5005
+                    - 5008
                     - 5002
-                    - 5003
+                    subStyleId: 8000
+                -   autoModifiedSelections: []
+                    current: false
+                    id: 514708065
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isValid: true
+                    lastModified: 1572227856363
+                    name: "Rengar"
+                    order: 2
+                    primaryStyleId: 8100
+                    selectedPerkIds:
+                    - 8112
+                    - 8143
+                    - 8138
+                    - 8105
+                    - 9111
+                    - 9104
+                    - 5005
+                    - 5008
+                    - 5002
                     subStyleId: 8000
         settings:
             gameplayPatchVersionSeen: "9.9"
             gameplayUpdatedPerksSeen:
+            - 8234
+            - 8237
+            - 8304
             - 8126
             - 8120
             - 8105
             - 8106
-            - 8234
-            - 8237
-            - 8439
             - 8429
             - 8473
-            - 8304
+            - 8439
             gridModeEnabled: true
             showLongDescriptions: true
-            showPresetPages: false
+            showPresetPages: true
     schemaVersion: 5
 pages:
 -   autoModifiedSelections: []
     current: true
     formatVersion: 4
-    id: 703830050
+    id: 367336435
     isActive: false
     isDeletable: true
     isEditable: true
     isValid: true
-    name: "anything"
+    name: "Use This Page"
     order: 0
-    primaryStyleId: 8000
+    primaryStyleId: 8100
     selectedPerkIds:
-    - 8021
-    - 9111
+    - 8124
+    - 8126
+    - 8136
+    - 8105
     - 9104
     - 8014
-    - 8226
-    - 8210
-    subStyleId: 8200
+    subStyleId: 8000
 -   autoModifiedSelections: []
     current: false
     formatVersion: 4
@@ -276,4 +320,4 @@ pages:
 settings:
     gridModeEnabled: true
     showLongDescriptions: true
-    showPresetPages: true
+    showPresetPages: false

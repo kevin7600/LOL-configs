@@ -10,101 +10,179 @@ champ-grid-settings:
 champ-select:
     data:
         skins:
-            10: 10000
+            1: 1005
+            10: 10005
             101: 101000
-            105: 105000
+            102: 102003
+            103: 103000
+            104: 104004
+            105: 105009
             106: 106000
-            110: 110000
-            115: 115000
-            117: 117015
-            119: 119003
-            12: 12000
-            122: 122004
-            127: 127000
+            107: 107015
+            11: 11009
+            110: 110003
+            111: 111003
+            112: 112000
+            113: 113008
+            114: 114000
+            115: 115004
+            117: 117008
+            119: 119007
+            12: 12010
+            120: 120003
+            121: 121006
+            122: 122011
+            126: 126004
+            127: 127002
             13: 13000
+            131: 131001
             133: 133000
-            14: 14000
-            142: 142000
-            143: 143000
+            134: 134000
+            136: 136000
+            14: 14001
+            141: 141001
+            142: 142001
+            143: 143004
             145: 145000
-            15: 15015
-            16: 16007
+            15: 15008
+            150: 150014
+            154: 154000
+            157: 157009
+            16: 16004
+            161: 161002
             163: 163000
-            17: 17006
-            18: 18000
-            2: 2000
-            201: 201000
-            202: 202000
-            203: 203000
-            21: 21014
-            22: 22000
-            222: 222004
-            23: 23000
-            24: 24000
-            25: 25002
-            26: 26000
-            266: 266000
-            267: 267005
-            27: 27000
+            164: 164001
+            17: 17004
+            18: 18002
+            19: 19018
+            2: 2002
+            20: 20000
+            201: 201002
+            202: 202004
+            203: 203002
+            21: 21003
+            22: 22002
+            222: 222001
+            223: 223000
+            23: 23002
+            236: 236008
+            238: 238007
+            24: 24005
+            240: 240000
+            245: 245003
+            246: 246000
+            25: 25005
+            254: 254001
+            26: 26001
+            266: 266001
+            267: 267000
+            268: 268000
+            27: 27003
             28: 28003
             29: 29002
-            3: 3006
-            31: 31000
-            34: 34000
+            3: 3004
+            30: 30009
+            31: 31006
+            32: 32002
+            33: 33000
+            34: 34007
+            35: 35004
             350: 350000
             36: 36000
             37: 37009
-            39: 39000
-            40: 40013
-            420: 420000
-            43: 43000
+            38: 38005
+            39: 39001
+            4: 4002
+            40: 40008
+            41: 41001
+            412: 412003
+            42: 42002
+            420: 420001
+            421: 421001
+            427: 427000
+            429: 429000
+            43: 43004
             432: 432001
-            44: 44000
-            45: 45013
-            48: 48000
+            44: 44002
+            45: 45004
+            48: 48001
             497: 497000
             498: 498000
-            5: 5000
+            5: 5002
             50: 50000
-            51: 51011
-            518: 518001
-            53: 53000
-            54: 54000
-            55: 55002
-            555: 555000
+            51: 51004
+            516: 516000
+            517: 517000
+            518: 518000
+            53: 53006
+            54: 54004
+            55: 55011
+            555: 555009
+            56: 56005
             57: 57007
-            59: 59000
-            6: 6003
-            60: 60000
-            61: 61000
-            67: 67000
+            58: 58006
+            59: 59007
+            6: 6008
+            60: 60005
+            61: 61004
+            62: 62000
+            63: 63004
+            64: 64004
+            67: 67011
+            68: 68003
+            69: 69008
+            7: 7000
             72: 72000
+            74: 74004
+            75: 75004
+            76: 76009
             77: 77003
-            8: 8000
+            78: 78001
+            79: 79004
+            8: 8006
+            80: 80010
+            81: 81005
+            82: 82003
+            83: 83001
+            84: 84005
+            85: 85006
             86: 86013
-            9: 9000
-            90: 90000
-            96: 96000
-            99: 99000
+            89: 89004
+            9: 9006
+            90: 90003
+            91: 91000
+            92: 92005
+            96: 96006
+            98: 98000
+            99: 99007
         spells:
+            1200:
+            - 4
+            - 11
             400:
-            - 12
             - 4
+            - 11
             420:
-            - 12
             - 4
+            - 14
             430:
-            - 14
-            - 3
+            - 4
+            - 11
             440:
-            - 12
             - 4
+            - 11
             450:
-            - 21
             - 4
+            - 7
+            470:
+            - 4
+            - 11
             700:
-            - 14
             - 4
+            - 11
+            900:
+            - 4
+            - 3
     schemaVersion: 1
 clash-tutorial:
     data:
@@ -124,33 +202,96 @@ clash-tutorial:
         smsButtonStep: true
         version: 2
     schemaVersion: 1
+closed-conversations:
+    data:
+        closed-conversations: "{\r\n    \"1372d3bc-cc79-4277-b1e3-39709921ab6b\": 1487229144515,\r\n    \"20239519\": 1482509322232,\r\n    \"245b20dd-afdf-49a0-a25a-6dadf156783c\": 1482807736193,\r\n    \"91a1eb24-71c1-493f-9aa7-9fce9d7b807c\": 1482807786351\r\n}"
+        closedJson: "{\r\n    \"20712611\": 1479600384603,\r\n    \"22342130\": 1479600387177,\r\n    \"23659367\": 1479600385834,\r\n    \"35003063\": 1479600390992,\r\n    \"45670042\": 1479600388450,\r\n    \"49331082\": 1479600390091,\r\n    \"55963230\": 1479600389232\r\n}"
+    schemaVersion: 0
 custom-spell-selections:
     data:
         custom-spell-selections:
-            spell1: 12
-            spell2: 4
+            spell1: 4
+            spell2: 14
     schemaVersion: 0
 emotes:
     data:
-        newEmotes:
-        - 3346
-        - 3409
+        newEmotes: []
+    schemaVersion: 1
+eos-2018-bell-notification:
+    data:
+        notificationShown: 2
+    schemaVersion: 1
+eos-2018-tooltip:
+    data:
+        shown: "Y"
     schemaVersion: 1
 eos-2019-bell-notification_TFT_1:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+eos-2019-bell-notification_TFT_2:
     data:
         notificationShown: true
     schemaVersion: 1
 lol-chat:
     data:
         chatFilterDisabled: true
+        friendRequestToastsDisabled: false
+        linkClickWarningEnabled: false
+    schemaVersion: 1
+lol-clash:
+    data:
+        clash-login-modal-seen: true
     schemaVersion: 1
 lol-collection-champions:
     data:
-        lastVisitTime: 1571972204542
+        groupingDropdownKey: "allChampions"
+        lastVisitTime: 1572489709602
+        sortingDropdownKey: "championMastery"
+    schemaVersion: 1
+lol-collection-chromas:
+    data:
+        lastVisitTime: 1571891891228
+        unownedFilter: "owned"
     schemaVersion: 1
 lol-collection-summoner-icons:
     data:
-        lastVisitTime: 1571812056612
+        groupingDropdownKey: "myCollection"
+        lastVisitTime: 1572309167440
+        sortingDropdownKey: "purchaseDateDescending"
+        unavailableFilter: true
+        unownedFilter: "owned"
+    schemaVersion: 1
+lol-collection-ward-skins:
+    data:
+        groupingDropdownKey: "myCollection"
+        lastVisitTime: 1572309170981
+        sortingDropdownKey: "purchaseDateDescending"
+        unownedFilter: "owned"
+    schemaVersion: 1
+lol-honor:
+    data:
+        dayOneSeen: true
+    schemaVersion: 1
+lol-karma:
+    data:
+        chosen2017Charity: 1
+        votedWorlds2017: true
+    schemaVersion: 1
+lol-leagues:
+    data:
+        betterRewardsDayOneSeen: true
+        last-end-of-split-notification: 9.200000
+        last-split-end-notification: 9.200000
+    schemaVersion: 1
+lol-loot:
+    data:
+        betterRewardsDayOneSeen: true
+    schemaVersion: 1
+lol-notifications:
+    data:
+        disableEsportsNotifications: true
+        rgmNotificationTimestamp: 1572307583112
     schemaVersion: 1
 lol-npe-tutorial-path:
     data:
@@ -167,10 +308,14 @@ lol-premade-voice:
     data:
         autoJoin: false
         inputMode: "voiceActivity"
-        muteOnConnect: false
-        pushToTalkKey: "[<Unbound>]"
+        muteOnConnect: true
+        pushToTalkKey: "[Button 4]"
         showFirstExperienceInGame: false
         showFirstExperienceInLCU: false
+    schemaVersion: 1
+lol-regalia:
+    data:
+        regalia-login-modal-seen: true
     schemaVersion: 1
 lol-revivals:
     data:
@@ -179,21 +324,34 @@ lol-revivals:
     schemaVersion: 0
 lol-skins-viewer:
     data:
-        lastVisitTime: 1571281047946
+        groupingDropdownKey: "myCollection"
+        lastVisitTime: 1572485854507
+        sortingDropdownKey: "purchaseDateDescending"
+        unownedFilter: "owned"
     schemaVersion: 1
 lol-tutorial:
     data:
+        GAMEMODEXTutorialSeen: true
+        Map11_URF_TutorialSeen: true
+        Map20_ODYSSEY_TutorialSeen: true
+        Map21_GAMEMODEX_TutorialSeen: true
         Map22_TFT_TutorialSeen: true
         championSelectRunesTooltipSeenCount: 9
+        championSelectSkinPurchaseNotificationDisplayed: true
+        emotesTutotorialModalDisplayed: true
         perksCreateNewPageSeen: true
         perksPresetPagesSeen: true
+        perksPrimaryPathSeen: true
+        perksSecondaryPathSeen: true
+        perksStatModsSeen: true
+        thirdArcadeEventNotificationDisplayed: true
     schemaVersion: 1
 parties-settings:
     data:
         Parties:
-            defaultPartyType: "open"
+            defaultPartyType: "closed"
     schemaVersion: 0
 personalized-offers:
     data:
-        lastViewedTimestamp: "2019-10-23T06:27:46.714Z"
+        lastViewedTimestamp: "2019-10-31T02:21:19.807Z"
     schemaVersion: 1
