@@ -10,53 +10,73 @@ champ-grid-settings:
 champ-select:
     data:
         skins:
+            1: 1000
             10: 10000
             101: 101000
+            102: 102000
+            103: 103000
+            104: 104000
             105: 105000
             106: 106000
+            11: 11000
             110: 110000
-            115: 115000
-            117: 117015
+            111: 111000
+            114: 114000
+            115: 115007
+            117: 117000
             119: 119003
             12: 12000
+            121: 121000
             122: 122004
             127: 127000
             13: 13000
             133: 133000
+            136: 136000
             14: 14000
+            141: 141000
             142: 142000
             143: 143000
             145: 145000
-            15: 15015
+            15: 15002
+            157: 157000
             16: 16007
             163: 163000
-            17: 17006
+            17: 17000
             18: 18000
+            19: 19009
             2: 2000
             201: 201000
             202: 202000
             203: 203000
-            21: 21014
+            21: 21000
             22: 22000
-            222: 222004
+            222: 222000
             23: 23000
+            236: 236000
             24: 24000
+            245: 245000
             25: 25002
             26: 26000
             266: 266000
-            267: 267005
+            267: 267000
             27: 27000
-            28: 28003
+            28: 28000
             29: 29002
-            3: 3006
+            3: 3000
             31: 31000
             34: 34000
             350: 350000
             36: 36000
             37: 37009
+            38: 38000
             39: 39000
+            4: 4000
             40: 40013
+            41: 41000
+            412: 412002
             420: 420000
+            427: 427000
+            429: 429000
             43: 43000
             432: 432001
             44: 44000
@@ -66,8 +86,9 @@ champ-select:
             498: 498000
             5: 5000
             50: 50000
-            51: 51011
+            51: 51000
             518: 518001
+            523: 523000
             53: 53000
             54: 54000
             55: 55002
@@ -77,34 +98,48 @@ champ-select:
             6: 6003
             60: 60000
             61: 61000
+            62: 62000
+            63: 63000
+            64: 64000
             67: 67000
+            68: 68000
             72: 72000
-            77: 77003
+            74: 74000
+            75: 75011
+            77: 77000
             8: 8000
             86: 86013
+            89: 89000
             9: 9000
             90: 90000
+            92: 92000
             96: 96000
             99: 99000
         spells:
             400:
-            - 12
+            - 14
             - 4
             420:
-            - 12
+            - 7
             - 4
             430:
-            - 14
-            - 3
-            440:
             - 12
             - 4
-            450:
-            - 21
-            - 4
-            700:
+            440:
             - 14
             - 4
+            450:
+            - 32
+            - 4
+            700:
+            - 12
+            - 4
+            900:
+            - 3
+            - 4
+            920:
+            - 30
+            - 31
     schemaVersion: 1
 clash-tutorial:
     data:
@@ -122,35 +157,74 @@ clash-tutorial:
         rosterDetailsModalLogoStep: true
         rosterDetailsModalNameTagStep: true
         smsButtonStep: true
-        version: 2
+        version: 1
     schemaVersion: 1
 custom-spell-selections:
     data:
         custom-spell-selections:
-            spell1: 12
+            spell1: 14
             spell2: 4
     schemaVersion: 0
 emotes:
     data:
         newEmotes:
+        - 3425
+        - 3424
+        - 3423
+        - 1498
+        - 3009
+        - 3008
+        - 3347
         - 3346
         - 3409
     schemaVersion: 1
+eos-2019-bell-notification_SR_1:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+eos-2019-bell-notification_SR_2:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+eos-2019-bell-notification_SR_3:
+    data:
+        notificationShown: true
+    schemaVersion: 1
 eos-2019-bell-notification_TFT_1:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+eos-2019-bell-notification_TFT_2:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+eos-2019-bell-notification_TFT_3:
     data:
         notificationShown: true
     schemaVersion: 1
 lol-chat:
     data:
         chatFilterDisabled: true
+        groupByProductShown: true
     schemaVersion: 1
 lol-collection-champions:
     data:
-        lastVisitTime: 1571972204542
+        lastVisitTime: 1578860900958
     schemaVersion: 1
 lol-collection-summoner-icons:
     data:
-        lastVisitTime: 1571812056612
+        lastVisitTime: 1572401838575
+    schemaVersion: 1
+lol-leagues:
+    data:
+        last-split-end-notification: 9.300000
+        season-memorial-modal: 9
+        season-start-takeover:
+            season: 10
+    schemaVersion: 1
+lol-notifications:
+    data:
+        rgmNotificationTimestamp: 1576210132955
     schemaVersion: 1
 lol-npe-tutorial-path:
     data:
@@ -179,14 +253,22 @@ lol-revivals:
     schemaVersion: 0
 lol-skins-viewer:
     data:
-        lastVisitTime: 1571281047946
+        lastVisitTime: 1574546058022
+    schemaVersion: 1
+lol-tft:
+    data:
+        previouslySeenSeasons: "S2_WarOfElements"
     schemaVersion: 1
 lol-tutorial:
     data:
+        Map11_URF_TutorialSeen: true
         Map22_TFT_TutorialSeen: true
         championSelectRunesTooltipSeenCount: 9
         perksCreateNewPageSeen: true
         perksPresetPagesSeen: true
+        perksPrimaryPathSeen: true
+        perksStatModsSeen: true
+        rpChangeEatDisplayed: true
     schemaVersion: 1
 parties-settings:
     data:
@@ -195,5 +277,5 @@ parties-settings:
     schemaVersion: 0
 personalized-offers:
     data:
-        lastViewedTimestamp: "2019-10-23T06:27:46.714Z"
+        lastViewedTimestamp: "2019-12-31T02:51:32.290Z"
     schemaVersion: 1
