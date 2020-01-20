@@ -345,11 +345,11 @@
                         },
                         {
                             "name": "ItemShopPrevX",
-                            "value": "303"
+                            "value": "299"
                         },
                         {
                             "name": "ItemShopPrevY",
-                            "value": "36"
+                            "value": "64"
                         },
                         {
                             "name": "ItemShopResizeHeight",
