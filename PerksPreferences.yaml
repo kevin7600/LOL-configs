@@ -12,17 +12,39 @@ page-settings:
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1579552196909
+                    lastModified: 1580065382871
                     name: "Anything"
                     order: 0
+                    primaryStyleId: 8200
+                    selectedPerkIds:
+                    - 8214
+                    - 8226
+                    - 8210
+                    - 8236
+                    - 8009
+                    - 8017
+                    - 5008
+                    - 5008
+                    - 5002
+                    subStyleId: 8000
+                -   autoModifiedSelections: []
+                    current: false
+                    id: 2096361181
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isValid: true
+                    lastModified: 1579932713961
+                    name: "Copy of Resolve: The Colossus"
+                    order: 1
                     primaryStyleId: 8100
                     selectedPerkIds:
-                    - 8124
-                    - 8139
+                    - 9923
+                    - 8126
                     - 8138
                     - 8135
-                    - 8299
-                    - 9105
+                    - 9103
+                    - 8014
                     - 5005
                     - 5008
                     - 5002
@@ -32,6 +54,6 @@ page-settings:
             gameplayUpdatedPerksSeen:
             - 8358
             gridModeEnabled: true
-            showLongDescriptions: false
+            showLongDescriptions: true
             showPresetPages: true
     schemaVersion: 5
