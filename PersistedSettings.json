@@ -204,7 +204,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "10.2.4739"
+                            "value": "10.4.9400"
                         },
                         {
                             "name": "CursorOverride",
@@ -345,11 +345,11 @@
                         },
                         {
                             "name": "ItemShopPrevX",
-                            "value": "300"
+                            "value": "317"
                         },
                         {
                             "name": "ItemShopPrevY",
-                            "value": "74"
+                            "value": "9"
                         },
                         {
                             "name": "ItemShopResizeHeight",
@@ -843,23 +843,23 @@
                         },
                         {
                             "name": "evtSelectAlly1",
-                            "value": "[F2]"
+                            "value": "[F1],[<Unbound>]"
                         },
                         {
                             "name": "evtSelectAlly2",
-                            "value": "[F3]"
+                            "value": "[F2],[<Unbound>]"
                         },
                         {
                             "name": "evtSelectAlly3",
-                            "value": "[F4]"
+                            "value": "[F3],[<Unbound>]"
                         },
                         {
                             "name": "evtSelectAlly4",
-                            "value": "[F5]"
+                            "value": "[F4],[<Unbound>]"
                         },
                         {
                             "name": "evtSelectSelf",
-                            "value": "[F1]"
+                            "value": "[F5]"
                         },
                         {
                             "name": "evtSelfCastAvatarSpell1",
@@ -943,15 +943,15 @@
                         },
                         {
                             "name": "evtSmartCastItem1",
-                            "value": "[Shift][1]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastItem2",
-                            "value": "[Shift][2]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastItem3",
-                            "value": "[Shift][3]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastItem4",
@@ -983,7 +983,7 @@
                         },
                         {
                             "name": "evtSmartCastVisionItem",
-                            "value": "[Shift][4]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastWithIndicatorAvatarSpell1",

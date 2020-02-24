@@ -12,21 +12,21 @@ page-settings:
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1580065382871
+                    lastModified: 1582586604243
                     name: "Anything"
                     order: 0
-                    primaryStyleId: 8200
+                    primaryStyleId: 8300
                     selectedPerkIds:
-                    - 8214
-                    - 8226
-                    - 8210
-                    - 8236
-                    - 8009
-                    - 8017
-                    - 5008
+                    - 8351
+                    - 8304
+                    - 8345
+                    - 8352
+                    - 8135
+                    - 8126
+                    - 5007
                     - 5008
                     - 5002
-                    subStyleId: 8000
+                    subStyleId: 8100
                 -   autoModifiedSelections: []
                     current: false
                     id: 2096361181
