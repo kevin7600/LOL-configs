@@ -3,52 +3,30 @@ page-settings:
         pages: []
         perShardPerkBooks:
             na1:
-                currentPageId: 1837256582
+                currentPageId: 2096361181
                 pages:
                 -   autoModifiedSelections: []
                     current: true
-                    id: 1837256582
-                    isActive: false
-                    isDeletable: true
-                    isEditable: true
-                    isValid: true
-                    lastModified: 1582586604243
-                    name: "Anything"
-                    order: 0
-                    primaryStyleId: 8300
-                    selectedPerkIds:
-                    - 8351
-                    - 8304
-                    - 8345
-                    - 8352
-                    - 8135
-                    - 8126
-                    - 5007
-                    - 5008
-                    - 5002
-                    subStyleId: 8100
-                -   autoModifiedSelections: []
-                    current: false
                     id: 2096361181
                     isActive: false
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1579932713961
-                    name: "Copy of Resolve: The Colossus"
+                    lastModified: 1587762780965
+                    name: "anything"
                     order: 1
-                    primaryStyleId: 8100
+                    primaryStyleId: 8400
                     selectedPerkIds:
-                    - 9923
-                    - 8126
-                    - 8138
-                    - 8135
-                    - 9103
-                    - 8014
-                    - 5005
-                    - 5008
+                    - 8465
+                    - 8463
+                    - 8429
+                    - 8453
+                    - 8136
+                    - 8134
+                    - 5007
                     - 5002
-                    subStyleId: 8000
+                    - 5003
+                    subStyleId: 8100
         settings:
             gameplayPatchVersionSeen: "9.23"
             gameplayUpdatedPerksSeen:

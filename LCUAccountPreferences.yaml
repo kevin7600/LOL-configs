@@ -21,6 +21,7 @@ champ-select:
             11: 11000
             110: 110000
             111: 111000
+            112: 112000
             113: 113000
             114: 114000
             115: 115007
@@ -45,7 +46,7 @@ champ-select:
             161: 161000
             163: 163000
             164: 164000
-            17: 17000
+            17: 17007
             18: 18000
             19: 19009
             2: 2000
@@ -56,7 +57,9 @@ champ-select:
             21: 21000
             22: 22000
             222: 222000
+            223: 223000
             23: 23000
+            235: 235000
             236: 236000
             24: 24008
             245: 245000
@@ -70,6 +73,7 @@ champ-select:
             3: 3000
             30: 30000
             31: 31000
+            32: 32000
             33: 33000
             34: 34000
             35: 35000
@@ -89,7 +93,7 @@ champ-select:
             429: 429000
             43: 43000
             432: 432001
-            44: 44003
+            44: 44000
             45: 45013
             48: 48000
             497: 497005
@@ -112,24 +116,24 @@ champ-select:
             60: 60000
             61: 61000
             62: 62000
-            63: 63000
+            63: 63002
             64: 64000
             67: 67000
             68: 68000
             72: 72000
             74: 74000
-            75: 75011
+            75: 75000
             76: 76000
             77: 77000
             78: 78000
             79: 79000
             8: 8000
             80: 80000
-            81: 81003
+            81: 81002
             82: 82000
             84: 84000
             85: 85000
-            86: 86013
+            86: 86000
             875: 875000
             89: 89000
             9: 9000
@@ -138,23 +142,26 @@ champ-select:
             96: 96000
             99: 99000
         spells:
+            1020:
+            - 3
+            - 4
             400:
-            - 14
-            - 4
-            420:
-            - 14
-            - 4
-            430:
             - 12
             - 4
+            420:
+            - 3
+            - 4
+            430:
+            - 7
+            - 4
             440:
-            - 14
+            - 3
             - 4
             450:
-            - 21
+            - 32
             - 4
             700:
-            - 6
+            - 12
             - 4
             900:
             - 3
@@ -179,17 +186,18 @@ clash-tutorial:
         rosterDetailsModalLogoStep: true
         rosterDetailsModalNameTagStep: true
         smsButtonStep: true
-        version: 2
+        version: 1
     schemaVersion: 1
 custom-spell-selections:
     data:
         custom-spell-selections:
-            spell1: 14
+            spell1: 3
             spell2: 4
     schemaVersion: 0
 emotes:
     data:
         newEmotes:
+        - 3444
         - 3443
         - 3425
         - 3424
@@ -225,6 +233,22 @@ eos-2019-bell-notification_TFT_3:
     data:
         notificationShown: true
     schemaVersion: 1
+lol-champ-select:
+    data:
+        favorites:
+            bottom:
+            - 86
+            jungle:
+            - 86
+            middle:
+            - 86
+            - 50
+            support:
+            - 50
+            - 44
+            top:
+            - 86
+    schemaVersion: 0
 lol-chat:
     data:
         chatFilterDisabled: true
@@ -237,7 +261,7 @@ lol-clash:
 lol-collection-champions:
     data:
         groupingDropdownKey: "allChampions"
-        lastVisitTime: 1582393826037
+        lastVisitTime: 1587764507416
         sortingDropdownKey: "firstLetterAscending"
         unownedFilter: "none"
     schemaVersion: 1
@@ -245,16 +269,27 @@ lol-collection-summoner-icons:
     data:
         lastVisitTime: 1580065934907
     schemaVersion: 1
+lol-eternals:
+    data:
+        firstTouchModalSeen: true
+    schemaVersion: 0
+lol-home-hubs:
+    data:
+        galaxies-2020:
+            watchedIntro: true
+        karma-2020:
+            voteCast: "code_org"
+    schemaVersion: 1
 lol-leagues:
     data:
-        last-split-end-notification: 9.300000
+        last-split-end-notification: 10.100000
         season-memorial-modal: 9
         season-start-takeover:
             season: 10
     schemaVersion: 1
 lol-notifications:
     data:
-        rgmNotificationTimestamp: 1579142890443
+        rgmNotificationTimestamp: 1585265019496
     schemaVersion: 1
 lol-npe-tutorial-path:
     data:
@@ -287,7 +322,7 @@ lol-skins-viewer:
     schemaVersion: 1
 lol-tft:
     data:
-        previouslySeenSeasons: "S2_WarOfElements"
+        previouslySeenSeasons: "S2_WarOfElements,S3_Galaxies-parties"
     schemaVersion: 1
 lol-tutorial:
     data:
@@ -300,12 +335,16 @@ lol-tutorial:
         perksStatModsSeen: true
         rpChangeEatDisplayed: true
     schemaVersion: 1
+missions-settings:
+    data:
+        selected_series: "all_missions"
+    schemaVersion: 0
 parties-settings:
     data:
         Parties:
-            defaultPartyType: "open"
+            defaultPartyType: "closed"
     schemaVersion: 0
 personalized-offers:
     data:
-        lastViewedTimestamp: "2020-02-23T06:08:55.243Z"
+        lastViewedTimestamp: "2020-04-12T02:48:01.416Z"
     schemaVersion: 1
