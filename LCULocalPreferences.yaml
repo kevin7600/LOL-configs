@@ -8,6 +8,8 @@ lol-audio:
     data:
         masterVolume: 11
         musicEnabled: false
+        sfxVolume: 44
+        voiceVolume: 22
     schemaVersion: 5
 lol-clash:
     data:

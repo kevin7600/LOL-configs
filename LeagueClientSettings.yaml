@@ -5,7 +5,7 @@ install:
         accountId: 212090967
         modified: false
         timestamp: 1589575661255
-    gameflow-patcher-lock: 1589577446877
+    gameflow-patcher-lock: 1589577626997
     gameflow-process-info: null
     gameflow-spectate-reconnect-info: null
     globals:
@@ -45,7 +45,7 @@ install:
     perks-settings:
         accountId: 212090967
         modified: false
-        timestamp: 1589576481419
+        timestamp: 1589576726430
     riotclient-upgrade:
         seq-success-count: 260
         success-count: 260
