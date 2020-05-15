@@ -204,7 +204,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "10.8.8137"
+                            "value": "10.10.3039"
                         },
                         {
                             "name": "CursorOverride",
@@ -345,11 +345,11 @@
                         },
                         {
                             "name": "ItemShopPrevX",
-                            "value": "319"
+                            "value": "247"
                         },
                         {
                             "name": "ItemShopPrevY",
-                            "value": "32"
+                            "value": "3"
                         },
                         {
                             "name": "ItemShopResizeHeight",

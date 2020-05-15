@@ -1,7 +1,7 @@
 career-stats-settings:
     data:
         initialVisited: true
-        welcomedSeason: 9
+        welcomedSeason: 10
     schemaVersion: 1
 champ-grid-settings:
     data:
@@ -146,25 +146,25 @@ champ-select:
             - 3
             - 4
             400:
-            - 12
+            - 21
             - 4
             420:
-            - 3
+            - 14
             - 4
             430:
             - 7
             - 4
             440:
-            - 3
+            - 14
             - 4
             450:
             - 32
             - 4
             700:
-            - 12
+            - 21
             - 4
             900:
-            - 3
+            - 1
             - 4
             920:
             - 30
@@ -186,28 +186,22 @@ clash-tutorial:
         rosterDetailsModalLogoStep: true
         rosterDetailsModalNameTagStep: true
         smsButtonStep: true
-        version: 1
+        version: 4
     schemaVersion: 1
 custom-spell-selections:
     data:
         custom-spell-selections:
-            spell1: 3
+            spell1: 21
             spell2: 4
     schemaVersion: 0
 emotes:
     data:
         newEmotes:
+        - 3477
         - 3444
         - 3443
         - 3425
-        - 3424
-        - 3423
-        - 1498
-        - 3009
-        - 3008
-        - 3347
         - 3346
-        - 3409
     schemaVersion: 1
 eos-2019-bell-notification_SR_1:
     data:
@@ -261,14 +255,18 @@ lol-clash:
 lol-collection-champions:
     data:
         groupingDropdownKey: "allChampions"
-        lastVisitTime: 1587764507416
+        lastVisitTime: 1589167855618
         sortingDropdownKey: "firstLetterAscending"
         unownedFilter: "none"
     schemaVersion: 1
 lol-collection-summoner-icons:
     data:
-        lastVisitTime: 1580065934907
-    schemaVersion: 1
+        groupingDropdownKey: "myCollection"
+        lastVisitTime: 1588365744584
+        sortingDropdownKey: "acquisitionDate"
+        unavailableFilter: false
+        unownedFilter: false
+    schemaVersion: 2
 lol-eternals:
     data:
         firstTouchModalSeen: true
@@ -279,17 +277,20 @@ lol-home-hubs:
             watchedIntro: true
         karma-2020:
             voteCast: "code_org"
+        pulsefire-2020:
+            watchedIntro: true
     schemaVersion: 1
 lol-leagues:
     data:
         last-split-end-notification: 10.100000
+        last-split-start-modal: 10.200000
         season-memorial-modal: 9
         season-start-takeover:
             season: 10
     schemaVersion: 1
 lol-notifications:
     data:
-        rgmNotificationTimestamp: 1585265019496
+        rgmNotificationTimestamp: 1589522986474
     schemaVersion: 1
 lol-npe-tutorial-path:
     data:
@@ -322,13 +323,13 @@ lol-skins-viewer:
     schemaVersion: 1
 lol-tft:
     data:
-        previouslySeenSeasons: "S2_WarOfElements,S3_Galaxies-parties"
+        previouslySeenSeasons: "S2_WarOfElements,S3_Galaxies-parties,S3_Galaxies-pass"
     schemaVersion: 1
 lol-tutorial:
     data:
         Map11_URF_TutorialSeen: true
         Map22_TFT_TutorialSeen: true
-        championSelectRunesTooltipSeenCount: 9
+        championSelectRunesTooltipSeenCount: 10
         perksCreateNewPageSeen: true
         perksPresetPagesSeen: true
         perksPrimaryPathSeen: true

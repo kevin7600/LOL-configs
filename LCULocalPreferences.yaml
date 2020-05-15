@@ -1,12 +1,12 @@
 GeoInfo:
     data:
-        city: "carlsbad"
+        city: "escondido"
         country: "usa"
         region: "ca"
     schemaVersion: 1
 lol-audio:
     data:
-        masterVolume: 19
+        masterVolume: 11
         musicEnabled: false
     schemaVersion: 5
 lol-clash:
@@ -59,7 +59,7 @@ lol-replays:
 lol-skins-viewer:
     data:
         completeSetIdMap: null
-        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiWFdVRkh6RjBpMzlfNWZIZkJ6VWFNdyIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImNvdW50cnkiOiJ1c2EiLCJwbGF5ZXJfcGxvY2FsZSI6ImVuLVVTIiwiYW1yIjpbInBhc3N3b3JkIl0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7ImN1aWQiOjIxMjA5MDk2NywiY3BpZCI6Ik5BMSIsInVpZCI6MjEyMDkwOTY3LCJ1bmFtZSI6InRhbmtldmluNzYwMCIsInB0cmlkIjpudWxsLCJwaWQiOiJOQTEiLCJzdGF0ZSI6IkVOQUJMRUQifV0sImxvY2FsZSI6ImVuX1VTIiwibm9uY2UiOiI2S1dFRWh2TmZFRWx5S3NkR1FfWi1RIiwiYXVkIjoibG9sIiwiYWNyIjoidXJuOnJpb3Q6YnJvbnplIiwicGxheWVyX2xvY2FsZSI6ImVuLVVTIiwiZXhwIjoxNTg3ODUwODg4LCJpYXQiOjE1ODc3NjQ0ODgsImFjY3QiOnsiZ2FtZV9uYW1lIjoiU3F1YXJlIEFjY2VsIiwidGFnX2xpbmUiOiJOQTEifSwianRpIjoickJyUTItZ09kYzgiLCJsb2dpbl9jb3VudHJ5IjoidXNhIn0.EtpS9e_z0JFtnNQeoCKb50ZtpIed9UB_LkqA9xYbsrA1X8gKwmsG-eYlklkm3UkwRSHL0v9DUyYXJQkjSnaf7lvrFuFVuvfClQ_g0m25ICq6aaj4-vWUaKuZxZUwk_aKvxVORIQ8duta7rjzOB9qcsxYhh86pKfo3pSOX4NwxeY"
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiLUlHczJ6M3l5NU9CRDliV05xdFhaQSIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImNvdW50cnkiOiJ1c2EiLCJwbGF5ZXJfcGxvY2FsZSI6ImVuLVVTIiwiYW1yIjpbInBhc3N3b3JkIl0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7ImN1aWQiOjIxMjA5MDk2NywiY3BpZCI6Ik5BMSIsInVpZCI6MjEyMDkwOTY3LCJ1bmFtZSI6InRhbmtldmluNzYwMCIsInB0cmlkIjpudWxsLCJwaWQiOiJOQTEiLCJzdGF0ZSI6IkVOQUJMRUQifV0sImxvY2FsZSI6ImVuX1VTIiwibm9uY2UiOiJLZEpWYXFSbGRDcjNVYWhfbHVGc2tRIiwiYXVkIjoibG9sIiwiYWNyIjoidXJuOnJpb3Q6YnJvbnplIiwicGxheWVyX2xvY2FsZSI6ImVuLVVTIiwiZXhwIjoxNTg5NjUzMjE3LCJpYXQiOjE1ODk1NjY4MTcsImFjY3QiOnsiZ2FtZV9uYW1lIjoiS2V2aW43NjAwIiwidGFnX2xpbmUiOiJOQTEifSwianRpIjoiMFFzMndVM3h1SGciLCJsb2dpbl9jb3VudHJ5IjoidXNhIn0.V1fwUpr5DtISUlhAd_GtJSsuE2jppVjNvgvzgIz-tdtwsO0Tc3H6gNzwBGLiJq6eAgxzX2uF--1BA2K6B2Egncf7056gOZBULUevLJvYzzrNHny6HAPFSE8sQ_ZDBiW3eI98W8KYYhhGts1Q9T39LNI831USvd_Dz7Uxbfy85Is"
         lastVisitTime: 1581801213050
         visitedSkinList: []
     schemaVersion: 1
