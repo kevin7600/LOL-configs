@@ -8,25 +8,25 @@ page-settings:
                 -   autoModifiedSelections: []
                     current: true
                     id: 2096361181
-                    isActive: false
+                    isActive: true
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1590630970299
+                    lastModified: 1590781970024
                     name: "anything"
                     order: 1
-                    primaryStyleId: 8200
+                    primaryStyleId: 8400
                     selectedPerkIds:
-                    - 8230
-                    - 8275
-                    - 8210
-                    - 8236
-                    - 8009
-                    - 9105
-                    - 5005
+                    - 8465
+                    - 8463
+                    - 8429
+                    - 8453
+                    - 8134
+                    - 8136
+                    - 5007
+                    - 5002
                     - 5003
-                    - 5003
-                    subStyleId: 8000
+                    subStyleId: 8100
         settings:
             gameplayPatchVersionSeen: "9.23"
             gameplayUpdatedPerksSeen:

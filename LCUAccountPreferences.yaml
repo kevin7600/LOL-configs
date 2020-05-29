@@ -155,7 +155,7 @@ champ-select:
             - 7
             - 4
             440:
-            - 12
+            - 3
             - 4
             450:
             - 32
@@ -249,6 +249,8 @@ lol-chat:
     data:
         chatFilterDisabled: true
         groupByProductShown: true
+        linkClickWarningEnabled: false
+        moreUnreadsEnabled: false
     schemaVersion: 1
 lol-clash:
     data:
@@ -257,7 +259,7 @@ lol-clash:
 lol-collection-champions:
     data:
         groupingDropdownKey: "allChampions"
-        lastVisitTime: 1590636429047
+        lastVisitTime: 1590733613085
         sortingDropdownKey: "firstLetterAscending"
         unownedFilter: "none"
     schemaVersion: 1
@@ -349,5 +351,5 @@ parties-settings:
     schemaVersion: 0
 personalized-offers:
     data:
-        lastViewedTimestamp: "2020-05-27T02:57:34.259Z"
+        lastViewedTimestamp: "2020-05-28T22:34:31.997Z"
     schemaVersion: 1
