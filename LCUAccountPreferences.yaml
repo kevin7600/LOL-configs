@@ -26,7 +26,7 @@ champ-select:
             114: 114000
             115: 115007
             117: 117000
-            119: 119003
+            119: 119000
             12: 12000
             121: 121000
             122: 122004
@@ -83,7 +83,7 @@ champ-select:
             38: 38000
             39: 39000
             4: 4002
-            40: 40001
+            40: 40000
             41: 41000
             412: 412002
             42: 42000
@@ -146,22 +146,22 @@ champ-select:
             - 3
             - 4
             400:
-            - 21
+            - 14
             - 4
             420:
-            - 12
-            - 4
+            - 3
+            - 7
             430:
             - 7
             - 4
             440:
-            - 3
+            - 14
             - 4
             450:
-            - 32
+            - 21
             - 4
             700:
-            - 21
+            - 14
             - 4
             900:
             - 3
@@ -191,17 +191,15 @@ clash-tutorial:
 custom-spell-selections:
     data:
         custom-spell-selections:
-            spell1: 12
-            spell2: 4
+            spell1: 3
+            spell2: 7
     schemaVersion: 0
 emotes:
     data:
         newEmotes:
-        - 3465
-        - 3477
+        - 3478
         - 3444
         - 3443
-        - 3425
         - 3346
     schemaVersion: 1
 eos-2019-bell-notification_SR_1:
@@ -239,11 +237,14 @@ lol-champ-select:
             - 86
             - 50
             - 48
+            - 44
             support:
             - 50
             - 44
             top:
             - 86
+            - 48
+        reportAndMutingTooltipShown: true
     schemaVersion: 0
 lol-chat:
     data:
@@ -259,7 +260,7 @@ lol-clash:
 lol-collection-champions:
     data:
         groupingDropdownKey: "allChampions"
-        lastVisitTime: 1590733613085
+        lastVisitTime: 1592349652301
         sortingDropdownKey: "firstLetterAscending"
         unownedFilter: "none"
     schemaVersion: 1
@@ -351,5 +352,5 @@ parties-settings:
     schemaVersion: 0
 personalized-offers:
     data:
-        lastViewedTimestamp: "2020-05-28T22:34:31.997Z"
+        lastViewedTimestamp: "2020-06-09T22:56:26.700Z"
     schemaVersion: 1

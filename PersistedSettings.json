@@ -204,7 +204,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "10.11.2991"
+                            "value": "10.13.4870"
                         },
                         {
                             "name": "CursorOverride",
@@ -220,7 +220,7 @@
                         },
                         {
                             "name": "EnableLeftMouseButtonAttackMove",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "EnableScreenShake",
@@ -345,11 +345,11 @@
                         },
                         {
                             "name": "ItemShopPrevX",
-                            "value": "219"
+                            "value": "283"
                         },
                         {
                             "name": "ItemShopPrevY",
-                            "value": "28"
+                            "value": "48"
                         },
                         {
                             "name": "ItemShopResizeHeight",

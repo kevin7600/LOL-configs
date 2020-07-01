@@ -8,23 +8,23 @@ page-settings:
                 -   autoModifiedSelections: []
                     current: true
                     id: 2096361181
-                    isActive: true
+                    isActive: false
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1590781970024
+                    lastModified: 1593578715058
                     name: "anything"
                     order: 1
-                    primaryStyleId: 8400
+                    primaryStyleId: 8300
                     selectedPerkIds:
-                    - 8465
-                    - 8463
-                    - 8429
-                    - 8453
-                    - 8134
-                    - 8136
+                    - 8351
+                    - 8304
+                    - 8345
+                    - 8352
+                    - 8135
+                    - 8139
                     - 5007
-                    - 5002
+                    - 5008
                     - 5003
                     subStyleId: 8100
         settings:
@@ -32,6 +32,6 @@ page-settings:
             gameplayUpdatedPerksSeen:
             - 8358
             gridModeEnabled: true
-            showLongDescriptions: true
+            showLongDescriptions: false
             showPresetPages: true
     schemaVersion: 5

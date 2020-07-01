@@ -14,7 +14,11 @@ lol-audio:
 lol-clash:
     data:
         simpleStateFlagIds:
+        - "registration_open_tournament_2281"
         - "registration_open_tournament_2201"
+        - "registration_open_tournament_2261"
+        - "lock_in_open_tournament_2281_phase_2321"
+        - "lock_in_open_tournament_2261_phase_2301"
     schemaVersion: 1
 lol-collection-champions:
     data:
