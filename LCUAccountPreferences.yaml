@@ -41,12 +41,13 @@ champ-select:
             143: 143000
             145: 145000
             15: 15002
-            157: 157001
+            154: 154000
+            157: 157000
             16: 16007
             161: 161000
             163: 163000
             164: 164000
-            17: 17007
+            17: 17000
             18: 18000
             19: 19009
             2: 2000
@@ -79,13 +80,13 @@ champ-select:
             35: 35000
             350: 350000
             36: 36000
-            37: 37009
+            37: 37000
             38: 38000
             39: 39000
             4: 4002
             40: 40000
             41: 41000
-            412: 412002
+            412: 412000
             42: 42000
             420: 420000
             421: 421000
@@ -106,7 +107,7 @@ champ-select:
             518: 518000
             523: 523000
             53: 53000
-            54: 54006
+            54: 54000
             55: 55002
             555: 555000
             57: 57007
@@ -135,6 +136,7 @@ champ-select:
             85: 85000
             86: 86000
             875: 875000
+            876: 876000
             89: 89000
             9: 9000
             90: 90000
@@ -145,20 +147,23 @@ champ-select:
             1020:
             - 3
             - 4
+            1300:
+            - 3
+            - 4
             400:
             - 14
             - 4
             420:
-            - 3
-            - 7
-            430:
-            - 7
+            - 12
             - 4
+            430:
+            - 21
+            - 6
             440:
-            - 14
+            - 12
             - 4
             450:
-            - 21
+            - 32
             - 4
             700:
             - 14
@@ -191,8 +196,8 @@ clash-tutorial:
 custom-spell-selections:
     data:
         custom-spell-selections:
-            spell1: 3
-            spell2: 7
+            spell1: 12
+            spell2: 4
     schemaVersion: 0
 emotes:
     data:
@@ -244,6 +249,7 @@ lol-champ-select:
             top:
             - 86
             - 48
+            - 876
         reportAndMutingTooltipShown: true
     schemaVersion: 0
 lol-chat:
@@ -259,9 +265,9 @@ lol-clash:
     schemaVersion: 1
 lol-collection-champions:
     data:
-        groupingDropdownKey: "allChampions"
-        lastVisitTime: 1592349652301
-        sortingDropdownKey: "firstLetterAscending"
+        groupingDropdownKey: ""
+        lastVisitTime: 1596309914195
+        sortingDropdownKey: ""
         unownedFilter: "none"
     schemaVersion: 1
 lol-collection-summoner-icons:
@@ -284,18 +290,26 @@ lol-home-hubs:
             voteCast: "code_org"
         pulsefire-2020:
             watchedIntro: true
+        spirit-bonds-2020:
+            contentPip: 3
+            petalStateBySequence:
+                1: 2
+            viewedHelp: true
+            viewedTreeIntro: true
+            watchedIntro: true
     schemaVersion: 1
 lol-leagues:
     data:
-        last-split-end-notification: 10.100000
-        last-split-start-modal: 10.200000
+        hasSeenFlexRestrictionModal: true
+        last-split-end-notification: 10.200000
+        last-split-start-modal: 10.300000
         season-memorial-modal: 9
         season-start-takeover:
             season: 10
     schemaVersion: 1
 lol-notifications:
     data:
-        rgmNotificationTimestamp: 1589522986474
+        rgmNotificationTimestamp: 1595978122686
     schemaVersion: 1
 lol-npe-tutorial-path:
     data:
@@ -328,11 +342,12 @@ lol-skins-viewer:
     schemaVersion: 1
 lol-tft:
     data:
-        previouslySeenSeasons: "S2_WarOfElements,S3_Galaxies-parties,S3_Galaxies-pass"
+        previouslySeenSeasons: "S2_WarOfElements,S3_Galaxies-parties,S3_Galaxies-pass,S3_5_Galaxies-pass"
     schemaVersion: 1
 lol-tutorial:
     data:
         Map11_URF_TutorialSeen: true
+        Map21_NEXUSBLITZ_TutorialSeen: true
         Map22_TFT_TutorialSeen: true
         championSelectRunesTooltipSeenCount: 10
         perksCreateNewPageSeen: true
@@ -352,5 +367,5 @@ parties-settings:
     schemaVersion: 0
 personalized-offers:
     data:
-        lastViewedTimestamp: "2020-06-09T22:56:26.700Z"
+        lastViewedTimestamp: "2020-07-24T03:43:37.744Z"
     schemaVersion: 1

@@ -17,8 +17,10 @@ lol-clash:
         - "registration_open_tournament_2281"
         - "registration_open_tournament_2201"
         - "registration_open_tournament_2261"
+        - "registration_open_tournament_2441"
         - "lock_in_open_tournament_2281_phase_2321"
         - "lock_in_open_tournament_2261_phase_2301"
+        - "lock_in_open_tournament_2461_phase_2501"
     schemaVersion: 1
 lol-collection-champions:
     data:

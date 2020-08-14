@@ -47,6 +47,15 @@
                     ]
                 },
                 {
+                    "name": "ColorPalette",
+                    "settings": [
+                        {
+                            "name": "ColorPalette",
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
                     "name": "FloatingText",
                     "settings": [
                         {
@@ -204,7 +213,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "10.13.4870"
+                            "value": "10.16.330.9186"
                         },
                         {
                             "name": "CursorOverride",
@@ -345,11 +354,11 @@
                         },
                         {
                             "name": "ItemShopPrevX",
-                            "value": "283"
+                            "value": "494"
                         },
                         {
                             "name": "ItemShopPrevY",
-                            "value": "48"
+                            "value": "63"
                         },
                         {
                             "name": "ItemShopResizeHeight",
@@ -436,6 +445,10 @@
                             "value": "1"
                         },
                         {
+                            "name": "ShowHealthBarShake",
+                            "value": "1"
+                        },
+                        {
                             "name": "ShowNeutralCamps",
                             "value": "1"
                         },
@@ -500,6 +513,15 @@
                     ]
                 },
                 {
+                    "name": "TFTHUD",
+                    "settings": [
+                        {
+                            "name": "EnableChat",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
                     "name": "Voice",
                     "settings": [
                         {
@@ -537,7 +559,7 @@
                         },
                         {
                             "name": "MasterVolume",
-                            "value": "1.0000"
+                            "value": "0.29"
                         },
                         {
                             "name": "MusicMute",
