@@ -342,7 +342,7 @@
                         },
                         {
                             "name": "ItemShopItemDisplayMode",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ItemShopPrevResizeHeight",
@@ -354,11 +354,11 @@
                         },
                         {
                             "name": "ItemShopPrevX",
-                            "value": "494"
+                            "value": "290"
                         },
                         {
                             "name": "ItemShopPrevY",
-                            "value": "63"
+                            "value": "64"
                         },
                         {
                             "name": "ItemShopResizeHeight",
@@ -559,7 +559,7 @@
                         },
                         {
                             "name": "MasterVolume",
-                            "value": "0.29"
+                            "value": "0.41"
                         },
                         {
                             "name": "MusicMute",

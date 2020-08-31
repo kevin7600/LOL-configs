@@ -42,7 +42,7 @@ champ-select:
             145: 145000
             15: 15002
             154: 154000
-            157: 157000
+            157: 157001
             16: 16007
             161: 161000
             163: 163000
@@ -62,6 +62,7 @@ champ-select:
             23: 23000
             235: 235000
             236: 236000
+            238: 238000
             24: 24008
             245: 245000
             25: 25002
@@ -148,13 +149,13 @@ champ-select:
             - 3
             - 4
             1300:
-            - 3
+            - 21
             - 4
             400:
             - 14
             - 4
             420:
-            - 12
+            - 6
             - 4
             430:
             - 21
@@ -163,7 +164,7 @@ champ-select:
             - 12
             - 4
             450:
-            - 32
+            - 13
             - 4
             700:
             - 14
@@ -196,12 +197,13 @@ clash-tutorial:
 custom-spell-selections:
     data:
         custom-spell-selections:
-            spell1: 12
+            spell1: 14
             spell2: 4
     schemaVersion: 0
 emotes:
     data:
         newEmotes:
+        - 3510
         - 3478
         - 3444
         - 3443
@@ -248,6 +250,7 @@ lol-champ-select:
             - 44
             top:
             - 86
+            - 10
             - 48
             - 876
         reportAndMutingTooltipShown: true
@@ -266,7 +269,7 @@ lol-clash:
 lol-collection-champions:
     data:
         groupingDropdownKey: ""
-        lastVisitTime: 1596309914195
+        lastVisitTime: 1598850926022
         sortingDropdownKey: ""
         unownedFilter: "none"
     schemaVersion: 1
@@ -291,7 +294,7 @@ lol-home-hubs:
         pulsefire-2020:
             watchedIntro: true
         spirit-bonds-2020:
-            contentPip: 3
+            contentPip: 7
             petalStateBySequence:
                 1: 2
             viewedHelp: true

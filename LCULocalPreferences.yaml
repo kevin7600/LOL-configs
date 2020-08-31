@@ -55,6 +55,10 @@ lol-leagues:
         season-start-takeover:
             season: 9
     schemaVersion: 1
+lol-parties:
+    data:
+        permanentHideAutofillModal: false
+    schemaVersion: 1
 lol-premade-voice:
     data:
         currentCaptureDeviceHandle: "Default System Device"
