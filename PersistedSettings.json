@@ -41,6 +41,22 @@
                             "value": "0"
                         },
                         {
+                            "name": "NativeOffsetX",
+                            "value": "0.0000"
+                        },
+                        {
+                            "name": "NativeOffsetY",
+                            "value": "0.0000"
+                        },
+                        {
+                            "name": "ReplayNativeOffsetX",
+                            "value": "0.0000"
+                        },
+                        {
+                            "name": "ReplayNativeOffsetY",
+                            "value": "0.0000"
+                        },
+                        {
                             "name": "Transparency",
                             "value": "0.0000"
                         }
@@ -213,7 +229,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "10.16.330.9186"
+                            "value": "10.23.343.2581"
                         },
                         {
                             "name": "CursorOverride",
@@ -306,6 +322,10 @@
                         },
                         {
                             "name": "EmotePopupUIDisplayMode",
+                            "value": "0"
+                        },
+                        {
+                            "name": "EmoteSize",
                             "value": "0"
                         },
                         {
@@ -491,6 +511,15 @@
                     ]
                 },
                 {
+                    "name": "ItemShop",
+                    "settings": [
+                        {
+                            "name": "InvertDisplayOrder",
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
                     "name": "LossOfControl",
                     "settings": [
                         {
@@ -509,6 +538,19 @@
                         {
                             "name": "EnableHUDAnimations",
                             "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "name": "TFTChat",
+                    "settings": [
+                        {
+                            "name": "NativeOffsetX",
+                            "value": "0.0000"
+                        },
+                        {
+                            "name": "NativeOffsetY",
+                            "value": "0.0000"
                         }
                     ]
                 },

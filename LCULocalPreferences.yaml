@@ -1,53 +1,60 @@
 GeoInfo:
     data:
-        city: "escondido"
+        city: "carlsbad"
         country: "usa"
         region: "ca"
     schemaVersion: 1
 lol-audio:
     data:
-        masterVolume: 11
+        loginMusicEnabled: true
+        masterVolume: 23
         musicEnabled: false
-        sfxVolume: 44
-        voiceVolume: 22
+        sfxVolume: 27
+        voiceVolume: 13.500000
     schemaVersion: 5
 lol-clash:
     data:
         simpleStateFlagIds:
-        - "registration_open_tournament_2281"
-        - "registration_open_tournament_2201"
-        - "registration_open_tournament_2261"
-        - "registration_open_tournament_2441"
-        - "lock_in_open_tournament_2281_phase_2321"
-        - "lock_in_open_tournament_2261_phase_2301"
-        - "lock_in_open_tournament_2461_phase_2501"
+        - "registration_open_tournament_501"
+        - "lock_in_open_tournament_501_phase_481"
+        - "lock_in_open_tournament_481_phase_461"
+        - "registration_open_tournament_481"
+        - "registration_open_tournament_2601"
+        - "registration_open_tournament_381"
+        - "lock_in_open_tournament_2581_phase_2661"
+        - "registration_open_tournament_2581"
+        - "lock_in_open_tournament_2601_phase_2681"
+        - "registration_open_tournament_2761"
+        - "lock_in_open_tournament_2761_phase_2881"
+        - "registration_open_tournament_2781"
+        - "lock_in_open_tournament_2781_phase_2901"
     schemaVersion: 1
 lol-collection-champions:
     data:
         completeSetIdMap: null
-        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiblJ3YXBxMElLSThDamJqQmdHcVdmUSIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImNvdW50cnkiOiJ1c2EiLCJwbGF5ZXJfcGxvY2FsZSI6ImVuLVVTIiwiYW1yIjpbInBhc3N3b3JkIl0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7ImN1aWQiOjIxMjA5MDk2NywiY3BpZCI6Ik5BMSIsInVpZCI6MjEyMDkwOTY3LCJ1bmFtZSI6InRhbmtldmluNzYwMCIsInB0cmlkIjpudWxsLCJwaWQiOiJOQTEiLCJzdGF0ZSI6IkVOQUJMRUQifV0sImxvY2FsZSI6ImVuX1VTIiwibm9uY2UiOiJlVWE3SlVLOFUwNUZDWlF4VDRVaGtnIiwiYXVkIjoibG9sIiwiYWNyIjoidXJuOnJpb3Q6YnJvbnplIiwicGxheWVyX2xvY2FsZSI6ImVuLVVTIiwiZXhwIjoxNTgwMTUwNDkxLCJpYXQiOjE1ODAwNjQwOTEsImFjY3QiOnsiZ2FtZV9uYW1lIjoiS2V2aW43NjAwIiwidGFnX2xpbmUiOiJOQTEifSwianRpIjoicjl3bnY1NXVyNWMiLCJsb2dpbl9jb3VudHJ5IjoidXNhIn0.dmw-ELUrGR_w8uOCFgYFCs7PNCZVZYl_CPSBKNgzZwBwURt4CIJxPwgcfFehi6zekua4Wto7v1Bq9JmAhLxZV_Bz_tQkqT3F7Djr4EyVMJNw8W27jiDvgSPLS--swRQZ8yQZ0h0BaQf4n1J3-C8MLEMnAkOEI7b7hVbw_EQx35U"
-        lastVisitTime: 1579552800661
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoia3BDbHRlVXFLUXY1Z0ZrRXNCZXo2USIsInN1YiI6IjY5ZmI3NTQ3LTlkYWYtNWNhMC1iOWM3LTJhZmYxN2RjZDBhOSIsImF1ZCI6ImxvbCIsImNvdW50cnkiOiJ1c2EiLCJhbXIiOlsicGFzc3dvcmQiXSwiaXNzIjoiaHR0cHM6XC9cL2F1dGgucmlvdGdhbWVzLmNvbSIsImxvbCI6W3sidWlkIjoyMjk5MDE3OTQsImN1aWQiOjIyOTkwMTc5NCwidW5hbWUiOiJjZXNpY2EiLCJjcGlkIjoiTkExIiwicGlkIjoiTkExIiwic3RhdGUiOiJFTkFCTEVEIn1dLCJleHAiOjE1NjcyMjAzMzYsImlhdCI6MTU2NzEzMzkzNiwiYWNjdCI6eyJnYW1lX25hbWUiOm51bGwsInRhZ19saW5lIjpudWxsfSwibG9naW5fY291bnRyeSI6InVzYSJ9.LGc1_GE6NTnRdcW_TKhK29rkbQbr35C7q1crv3fcvMIEtL2cURNMLC4NCh7Zt8RRPWLc3rqAHHCMBpgsOOXYjeW545b0hGFVcbAIjra3KhKLMRSON0JPkSR84iHUv_Lb6GIdHYYuhxl2uNEIZpmOLQZQUF-VWzd47iIytbUYEKE"
+        lastVisitTime: 1567133944235
         visitedCollectibleList: []
     schemaVersion: 1
 lol-collection-chromas:
     data:
         completeSetIdMap: null
-        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoicVJqZjBXVF84RHdPMGFLM1hSUGpvZyIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImNvdW50cnkiOiJ1c2EiLCJwbGF5ZXJfcGxvY2FsZSI6ImVuLVVTIiwiYW1yIjpbInBhc3N3b3JkIl0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7ImN1aWQiOjIxMjA5MDk2NywiY3BpZCI6Ik5BMSIsInVpZCI6MjEyMDkwOTY3LCJ1bmFtZSI6InRhbmtldmluNzYwMCIsInB0cmlkIjpudWxsLCJwaWQiOiJOQTEiLCJzdGF0ZSI6IkVOQUJMRUQifV0sImxvY2FsZSI6ImVuX1VTIiwibm9uY2UiOiJjb2dmMDV1M1JUWGhfaHhDSEEtTVhBIiwiYXVkIjoibG9sIiwiYWNyIjoidXJuOnJpb3Q6YnJvbnplIiwicGxheWVyX2xvY2FsZSI6ImVuLVVTIiwiZXhwIjoxNTgyNjcxMTM0LCJpYXQiOjE1ODI1ODQ3MzQsImFjY3QiOnsiZ2FtZV9uYW1lIjoiU3F1YXJlIEFjY2VsIiwidGFnX2xpbmUiOiJOQTEifSwianRpIjoia2JkSWE2eDJDRlkiLCJsb2dpbl9jb3VudHJ5IjoidXNhIn0.iVJ-3O-aK0hMTrsWVn-dGebxKScnctJdF9xIRCfoWcB0u7KRKbJv1pUam_6UH93zNnSl0wPuo5KicaUA9l2cMPOoXWFFQtHdmLQhNHqHIUfteJ020v4VLzAw8a8SyAE13PSrj_9WXokBcbX--0_jUMZa2-a5t5Trdbn32wFLcXA"
-        lastVisitTime: 1582584740856
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoia3BDbHRlVXFLUXY1Z0ZrRXNCZXo2USIsInN1YiI6IjY5ZmI3NTQ3LTlkYWYtNWNhMC1iOWM3LTJhZmYxN2RjZDBhOSIsImF1ZCI6ImxvbCIsImNvdW50cnkiOiJ1c2EiLCJhbXIiOlsicGFzc3dvcmQiXSwiaXNzIjoiaHR0cHM6XC9cL2F1dGgucmlvdGdhbWVzLmNvbSIsImxvbCI6W3sidWlkIjoyMjk5MDE3OTQsImN1aWQiOjIyOTkwMTc5NCwidW5hbWUiOiJjZXNpY2EiLCJjcGlkIjoiTkExIiwicGlkIjoiTkExIiwic3RhdGUiOiJFTkFCTEVEIn1dLCJleHAiOjE1NjcyMjAzMzYsImlhdCI6MTU2NzEzMzkzNiwiYWNjdCI6eyJnYW1lX25hbWUiOm51bGwsInRhZ19saW5lIjpudWxsfSwibG9naW5fY291bnRyeSI6InVzYSJ9.LGc1_GE6NTnRdcW_TKhK29rkbQbr35C7q1crv3fcvMIEtL2cURNMLC4NCh7Zt8RRPWLc3rqAHHCMBpgsOOXYjeW545b0hGFVcbAIjra3KhKLMRSON0JPkSR84iHUv_Lb6GIdHYYuhxl2uNEIZpmOLQZQUF-VWzd47iIytbUYEKE"
+        lastVisitTime: 1567133944233
         visitedCollectibleList: []
     schemaVersion: 1
 lol-collection-summoner-icons:
     data:
         completeSetIdMap: null
-        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoicVJqZjBXVF84RHdPMGFLM1hSUGpvZyIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImNvdW50cnkiOiJ1c2EiLCJwbGF5ZXJfcGxvY2FsZSI6ImVuLVVTIiwiYW1yIjpbInBhc3N3b3JkIl0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7ImN1aWQiOjIxMjA5MDk2NywiY3BpZCI6Ik5BMSIsInVpZCI6MjEyMDkwOTY3LCJ1bmFtZSI6InRhbmtldmluNzYwMCIsInB0cmlkIjpudWxsLCJwaWQiOiJOQTEiLCJzdGF0ZSI6IkVOQUJMRUQifV0sImxvY2FsZSI6ImVuX1VTIiwibm9uY2UiOiJjb2dmMDV1M1JUWGhfaHhDSEEtTVhBIiwiYXVkIjoibG9sIiwiYWNyIjoidXJuOnJpb3Q6YnJvbnplIiwicGxheWVyX2xvY2FsZSI6ImVuLVVTIiwiZXhwIjoxNTgyNjcxMTM0LCJpYXQiOjE1ODI1ODQ3MzQsImFjY3QiOnsiZ2FtZV9uYW1lIjoiU3F1YXJlIEFjY2VsIiwidGFnX2xpbmUiOiJOQTEifSwianRpIjoia2JkSWE2eDJDRlkiLCJsb2dpbl9jb3VudHJ5IjoidXNhIn0.iVJ-3O-aK0hMTrsWVn-dGebxKScnctJdF9xIRCfoWcB0u7KRKbJv1pUam_6UH93zNnSl0wPuo5KicaUA9l2cMPOoXWFFQtHdmLQhNHqHIUfteJ020v4VLzAw8a8SyAE13PSrj_9WXokBcbX--0_jUMZa2-a5t5Trdbn32wFLcXA"
-        lastVisitTime: 1580065934907
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoia3BDbHRlVXFLUXY1Z0ZrRXNCZXo2USIsInN1YiI6IjY5ZmI3NTQ3LTlkYWYtNWNhMC1iOWM3LTJhZmYxN2RjZDBhOSIsImF1ZCI6ImxvbCIsImNvdW50cnkiOiJ1c2EiLCJhbXIiOlsicGFzc3dvcmQiXSwiaXNzIjoiaHR0cHM6XC9cL2F1dGgucmlvdGdhbWVzLmNvbSIsImxvbCI6W3sidWlkIjoyMjk5MDE3OTQsImN1aWQiOjIyOTkwMTc5NCwidW5hbWUiOiJjZXNpY2EiLCJjcGlkIjoiTkExIiwicGlkIjoiTkExIiwic3RhdGUiOiJFTkFCTEVEIn1dLCJleHAiOjE1NjcyMjAzMzYsImlhdCI6MTU2NzEzMzkzNiwiYWNjdCI6eyJnYW1lX25hbWUiOm51bGwsInRhZ19saW5lIjpudWxsfSwibG9naW5fY291bnRyeSI6InVzYSJ9.LGc1_GE6NTnRdcW_TKhK29rkbQbr35C7q1crv3fcvMIEtL2cURNMLC4NCh7Zt8RRPWLc3rqAHHCMBpgsOOXYjeW545b0hGFVcbAIjra3KhKLMRSON0JPkSR84iHUv_Lb6GIdHYYuhxl2uNEIZpmOLQZQUF-VWzd47iIytbUYEKE"
+        lastVisitTime: 1566630124114
         visitedCollectibleList: []
     schemaVersion: 1
 lol-collection-ward-skins:
     data:
         completeSetIdMap: null
-        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoicVJqZjBXVF84RHdPMGFLM1hSUGpvZyIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImNvdW50cnkiOiJ1c2EiLCJwbGF5ZXJfcGxvY2FsZSI6ImVuLVVTIiwiYW1yIjpbInBhc3N3b3JkIl0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7ImN1aWQiOjIxMjA5MDk2NywiY3BpZCI6Ik5BMSIsInVpZCI6MjEyMDkwOTY3LCJ1bmFtZSI6InRhbmtldmluNzYwMCIsInB0cmlkIjpudWxsLCJwaWQiOiJOQTEiLCJzdGF0ZSI6IkVOQUJMRUQifV0sImxvY2FsZSI6ImVuX1VTIiwibm9uY2UiOiJjb2dmMDV1M1JUWGhfaHhDSEEtTVhBIiwiYXVkIjoibG9sIiwiYWNyIjoidXJuOnJpb3Q6YnJvbnplIiwicGxheWVyX2xvY2FsZSI6ImVuLVVTIiwiZXhwIjoxNTgyNjcxMTM0LCJpYXQiOjE1ODI1ODQ3MzQsImFjY3QiOnsiZ2FtZV9uYW1lIjoiU3F1YXJlIEFjY2VsIiwidGFnX2xpbmUiOiJOQTEifSwianRpIjoia2JkSWE2eDJDRlkiLCJsb2dpbl9jb3VudHJ5IjoidXNhIn0.iVJ-3O-aK0hMTrsWVn-dGebxKScnctJdF9xIRCfoWcB0u7KRKbJv1pUam_6UH93zNnSl0wPuo5KicaUA9l2cMPOoXWFFQtHdmLQhNHqHIUfteJ020v4VLzAw8a8SyAE13PSrj_9WXokBcbX--0_jUMZa2-a5t5Trdbn32wFLcXA"
-        lastVisitTime: 1582584740856
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoia3BDbHRlVXFLUXY1Z0ZrRXNCZXo2USIsInN1YiI6IjY5ZmI3NTQ3LTlkYWYtNWNhMC1iOWM3LTJhZmYxN2RjZDBhOSIsImF1ZCI6ImxvbCIsImNvdW50cnkiOiJ1c2EiLCJhbXIiOlsicGFzc3dvcmQiXSwiaXNzIjoiaHR0cHM6XC9cL2F1dGgucmlvdGdhbWVzLmNvbSIsImxvbCI6W3sidWlkIjoyMjk5MDE3OTQsImN1aWQiOjIyOTkwMTc5NCwidW5hbWUiOiJjZXNpY2EiLCJjcGlkIjoiTkExIiwicGlkIjoiTkExIiwic3RhdGUiOiJFTkFCTEVEIn1dLCJleHAiOjE1NjcyMjAzMzYsImlhdCI6MTU2NzEzMzkzNiwiYWNjdCI6eyJnYW1lX25hbWUiOm51bGwsInRhZ19saW5lIjpudWxsfSwibG9naW5fY291bnRyeSI6InVzYSJ9.LGc1_GE6NTnRdcW_TKhK29rkbQbr35C7q1crv3fcvMIEtL2cURNMLC4NCh7Zt8RRPWLc3rqAHHCMBpgsOOXYjeW545b0hGFVcbAIjra3KhKLMRSON0JPkSR84iHUv_Lb6GIdHYYuhxl2uNEIZpmOLQZQUF-VWzd47iIytbUYEKE"
+        lastVisitTime: 1567133944232
         visitedCollectibleList: []
     schemaVersion: 1
 lol-leagues:
@@ -55,13 +62,9 @@ lol-leagues:
         season-start-takeover:
             season: 9
     schemaVersion: 1
-lol-parties:
-    data:
-        permanentHideAutofillModal: false
-    schemaVersion: 1
 lol-premade-voice:
     data:
-        currentCaptureDeviceHandle: "Default System Device"
+        currentCaptureDeviceHandle: ""
         inputVolume: 50
         vadSensitivity: 65
     schemaVersion: 1
@@ -72,15 +75,20 @@ lol-replays:
 lol-skins-viewer:
     data:
         completeSetIdMap: null
-        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoia0pEWEsxT195SmJZbkFsLUdJSm5RZyIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImNvdW50cnkiOiJ1c2EiLCJwbGF5ZXJfcGxvY2FsZSI6ImVuLVVTIiwiYW1yIjpbInBhc3N3b3JkIl0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7ImN1aWQiOjIxMjA5MDk2NywiY3BpZCI6Ik5BMSIsInVpZCI6MjEyMDkwOTY3LCJ1bmFtZSI6InRhbmtldmluNzYwMCIsInB0cmlkIjpudWxsLCJwaWQiOiJOQTEiLCJzdGF0ZSI6IkVOQUJMRUQifV0sImxvY2FsZSI6ImVuX1VTIiwibm9uY2UiOiItblNqVG9rOVA0dHJaRzZaVkI3dHRBIiwiYXVkIjoibG9sIiwiYWNyIjoidXJuOnJpb3Q6YnJvbnplIiwicGxheWVyX2xvY2FsZSI6ImVuLVVTIiwiZXhwIjoxNTkwNzIyNjM1LCJpYXQiOjE1OTA2MzYyMzUsImFjY3QiOnsiZ2FtZV9uYW1lIjoiS2V2aW43NjAwIiwidGFnX2xpbmUiOiJOQTEifSwianRpIjoiaFRodFJkT3hhbHMiLCJsb2dpbl9jb3VudHJ5IjoidXNhIn0.Kj_fugbhQVLhtsNjD_lxdtSP2beWiBPZO-3P5B-hQpnq0bfeV9s0GkUXeo8qIE364P3bOpJUp57JTWXvkuciwlAxWc3m8oVePHeeeJfgVxbhrFJxTx9x8nR_fyDhYEpJ1dyVRiP-hDp_KNoZ6k2Thaje_VwwjRlzjSUKdKQoW5E"
-        lastVisitTime: 1581801213050
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoia3BDbHRlVXFLUXY1Z0ZrRXNCZXo2USIsInN1YiI6IjY5ZmI3NTQ3LTlkYWYtNWNhMC1iOWM3LTJhZmYxN2RjZDBhOSIsImF1ZCI6ImxvbCIsImNvdW50cnkiOiJ1c2EiLCJhbXIiOlsicGFzc3dvcmQiXSwiaXNzIjoiaHR0cHM6XC9cL2F1dGgucmlvdGdhbWVzLmNvbSIsImxvbCI6W3sidWlkIjoyMjk5MDE3OTQsImN1aWQiOjIyOTkwMTc5NCwidW5hbWUiOiJjZXNpY2EiLCJjcGlkIjoiTkExIiwicGlkIjoiTkExIiwic3RhdGUiOiJFTkFCTEVEIn1dLCJleHAiOjE1NjcyMjAzMzYsImlhdCI6MTU2NzEzMzkzNiwiYWNjdCI6eyJnYW1lX25hbWUiOm51bGwsInRhZ19saW5lIjpudWxsfSwibG9naW5fY291bnRyeSI6InVzYSJ9.LGc1_GE6NTnRdcW_TKhK29rkbQbr35C7q1crv3fcvMIEtL2cURNMLC4NCh7Zt8RRPWLc3rqAHHCMBpgsOOXYjeW545b0hGFVcbAIjra3KhKLMRSON0JPkSR84iHUv_Lb6GIdHYYuhxl2uNEIZpmOLQZQUF-VWzd47iIytbUYEKE"
+        lastVisitTime: 1566792438813
         visitedSkinList: []
     schemaVersion: 1
 lol-user-experience:
     data:
-        hasBeenPromptedForPotatoMode: true
         lastKnownMachineSpec: 5
+        potatoModeEnabled: true
+        unloadUxInGameEnabled: false
     schemaVersion: 2
+personalized-offers:
+    data:
+        lastViewedTimestamp: "2019-07-18T03:27:10.224Z"
+    schemaVersion: 1
 video:
     data:
         ZoomScale: 1.250000
