@@ -83,6 +83,10 @@
                             "value": "1"
                         },
                         {
+                            "name": "Damage_Enabled",
+                            "value": "1"
+                        },
+                        {
                             "name": "Debug_Enabled",
                             "value": "1"
                         },
@@ -92,6 +96,10 @@
                         },
                         {
                             "name": "Dodge_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "EnemyDamage_Enabled",
                             "value": "1"
                         },
                         {
@@ -229,7 +237,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "10.23.343.2581"
+                            "value": "11.1.352.5559"
                         },
                         {
                             "name": "CursorOverride",
@@ -441,6 +449,10 @@
                             "value": "0"
                         },
                         {
+                            "name": "ShopScale",
+                            "value": "0.4444"
+                        },
+                        {
                             "name": "ShowAllChannelChat",
                             "value": "1"
                         },
@@ -514,8 +526,32 @@
                     "name": "ItemShop",
                     "settings": [
                         {
+                            "name": "BootsPanelPinned",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ConsumablesPanelPinned",
+                            "value": "0"
+                        },
+                        {
+                            "name": "CurrentTab",
+                            "value": "0"
+                        },
+                        {
+                            "name": "InventoryPanelPinned",
+                            "value": "0"
+                        },
+                        {
                             "name": "InvertDisplayOrder",
                             "value": "0"
+                        },
+                        {
+                            "name": "NativeOffsetX",
+                            "value": "0.0000"
+                        },
+                        {
+                            "name": "NativeOffsetY",
+                            "value": "0.0000"
                         }
                     ]
                 },
