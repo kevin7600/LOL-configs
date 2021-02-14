@@ -10,7 +10,8 @@ champ-select:
             10: 10006
             103: 103007
             104: 104025
-            105: 105002
+            105: 105000
+            107: 107000
             110: 110003
             111: 111000
             112: 112000
@@ -19,13 +20,17 @@ champ-select:
             119: 119000
             12: 12000
             120: 120000
+            121: 121000
             122: 122004
+            127: 127001
             134: 134000
             141: 141000
             142: 142000
             143: 143002
+            145: 145000
             147: 147003
             15: 15010
+            157: 157000
             16: 16000
             163: 163000
             164: 164000
@@ -40,17 +45,21 @@ champ-select:
             235: 235000
             236: 236000
             238: 238013
+            24: 24000
             245: 245019
             246: 246000
             25: 25004
             26: 26000
+            266: 266000
             267: 267001
             27: 27000
             28: 28000
             29: 29000
+            30: 30000
             32: 32000
             34: 34005
             350: 350000
+            36: 36000
             360: 360000
             37: 37000
             40: 40000
@@ -64,7 +73,8 @@ champ-select:
             50: 50000
             54: 54000
             55: 55004
-            57: 57000
+            56: 56000
+            57: 57007
             60: 60000
             61: 61007
             62: 62000
@@ -95,19 +105,19 @@ champ-select:
             - 12
             - 4
             420:
-            - 12
+            - 14
             - 4
             430:
             - 7
             - 4
             440:
-            - 21
+            - 14
             - 4
             450:
             - 32
             - 4
             900:
-            - 1
+            - 6
             - 4
     schemaVersion: 1
 cosmetics-last-viewed-date:
@@ -126,6 +136,8 @@ custom-spell-selections:
 emotes:
     data:
         newEmotes:
+        - 3577
+        - 3576
         - 3581
         - 3567
         - 3563
@@ -164,7 +176,7 @@ lol-clash:
 lol-collection-champions:
     data:
         groupingDropdownKey: ""
-        lastVisitTime: 1611028939873
+        lastVisitTime: 1613189925566
         sortingDropdownKey: ""
         unownedFilter: "none"
     schemaVersion: 1
@@ -213,7 +225,7 @@ lol-leagues:
     schemaVersion: 1
 lol-notifications:
     data:
-        rgmNotificationTimestamp: 1607736759273
+        rgmNotificationTimestamp: 1612497601268
     schemaVersion: 1
 lol-npe-tutorial-path:
     data:
@@ -252,7 +264,7 @@ lol-skins-viewer:
     schemaVersion: 2
 lol-tft:
     data:
-        previouslySeenSeasons: "S3_5_Galaxies-pass,S4_Fates-pass"
+        previouslySeenSeasons: "S3_5_Galaxies-pass,S4_Fates-pass,S4_5_Fates,TFTBattlepass_Fates2_Series"
     schemaVersion: 1
 lol-tutorial:
     data:

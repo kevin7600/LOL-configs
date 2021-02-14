@@ -64,7 +64,7 @@ lol-leagues:
     schemaVersion: 1
 lol-premade-voice:
     data:
-        currentCaptureDeviceHandle: ""
+        currentCaptureDeviceHandle: "Default System Device"
         inputVolume: 50
         vadSensitivity: 65
     schemaVersion: 1

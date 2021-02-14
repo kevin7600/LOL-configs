@@ -143,17 +143,17 @@ page-settings:
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1610950098109
+                    lastModified: 1613260347234
                     name: "anything"
                     order: 0
                     primaryStyleId: 8000
                     selectedPerkIds:
-                    - 8008
+                    - 8010
                     - 8009
-                    - 9103
-                    - 8014
+                    - 9105
+                    - 8299
                     - 8453
-                    - 8473
+                    - 8444
                     - 5005
                     - 5008
                     - 5002
@@ -165,21 +165,21 @@ page-settings:
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1605594282362
+                    lastModified: 1611350340661
                     name: "Blitz: Zilean"
                     order: 1
-                    primaryStyleId: 8200
+                    primaryStyleId: 8100
                     selectedPerkIds:
-                    - 8214
-                    - 8226
-                    - 8234
-                    - 8232
-                    - 8126
-                    - 8105
-                    - 5007
+                    - 8112
+                    - 8139
+                    - 8138
+                    - 8135
+                    - 8473
+                    - 8451
+                    - 5008
                     - 5008
                     - 5003
-                    subStyleId: 8100
+                    subStyleId: 8400
         settings:
             gameplayPatchVersionSeen: "9.23"
             gameplayUpdatedPerksSeen:

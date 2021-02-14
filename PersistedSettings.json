@@ -237,7 +237,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "11.1.352.5559"
+                            "value": "11.3.357.5376"
                         },
                         {
                             "name": "CursorOverride",
@@ -497,6 +497,10 @@
                             "value": "1"
                         },
                         {
+                            "name": "ShowStatsPanel_StatStones",
+                            "value": "0"
+                        },
+                        {
                             "name": "ShowSummonerNames",
                             "value": "1"
                         },
@@ -535,7 +539,7 @@
                         },
                         {
                             "name": "CurrentTab",
-                            "value": "0"
+                            "value": "2"
                         },
                         {
                             "name": "InventoryPanelPinned",
@@ -547,11 +551,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.0000"
+                            "value": "0.0094"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "0.0000"
+                            "value": "-0.0231"
                         }
                     ]
                 },
