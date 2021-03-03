@@ -8,6 +8,7 @@ champ-select:
         skins:
             1: 1000
             10: 10006
+            102: 102000
             103: 103007
             104: 104025
             105: 105000
@@ -48,7 +49,7 @@ champ-select:
             24: 24000
             245: 245019
             246: 246000
-            25: 25004
+            25: 25000
             26: 26000
             266: 266000
             267: 267001
@@ -57,7 +58,9 @@ champ-select:
             29: 29000
             30: 30000
             32: 32000
+            33: 33000
             34: 34005
+            35: 35000
             350: 350000
             36: 36000
             360: 360000
@@ -75,12 +78,15 @@ champ-select:
             55: 55004
             56: 56000
             57: 57007
+            59: 59000
             60: 60000
             61: 61007
             62: 62000
+            63: 63000
             64: 64000
             67: 67000
             69: 69002
+            7: 7002
             75: 75000
             76: 76000
             777: 777000
@@ -111,13 +117,13 @@ champ-select:
             - 7
             - 4
             440:
-            - 14
+            - 12
             - 4
             450:
             - 32
             - 4
             900:
-            - 6
+            - 14
             - 4
     schemaVersion: 1
 cosmetics-last-viewed-date:
@@ -130,7 +136,7 @@ cosmetics-last-viewed-date:
 custom-spell-selections:
     data:
         custom-spell-selections:
-            spell1: 21
+            spell1: 14
             spell2: 4
     schemaVersion: 0
 emotes:
@@ -163,9 +169,12 @@ lol-champ-select:
         favorites:
             middle:
             - 26
+            - 86
+            - 48
             support:
             - 26
             top:
+            - 86
             - 48
         reportAndMutingTooltipShown: true
     schemaVersion: 0
@@ -176,7 +185,7 @@ lol-clash:
 lol-collection-champions:
     data:
         groupingDropdownKey: ""
-        lastVisitTime: 1613189925566
+        lastVisitTime: 1614737849138
         sortingDropdownKey: ""
         unownedFilter: "none"
     schemaVersion: 1

@@ -143,7 +143,7 @@ page-settings:
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1613260347234
+                    lastModified: 1614719387081
                     name: "anything"
                     order: 0
                     primaryStyleId: 8000
@@ -152,8 +152,8 @@ page-settings:
                     - 8009
                     - 9105
                     - 8299
-                    - 8453
                     - 8444
+                    - 8453
                     - 5005
                     - 5008
                     - 5002

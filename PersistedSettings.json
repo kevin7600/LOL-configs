@@ -237,7 +237,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "11.3.357.5376"
+                            "value": "11.4.360.513"
                         },
                         {
                             "name": "CursorOverride",
@@ -445,6 +445,14 @@
                             "value": "1.0000"
                         },
                         {
+                            "name": "ReplayMiddleMouseScrollSpeed",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "ReplayScrollSmoothingEnabled",
+                            "value": "1"
+                        },
+                        {
                             "name": "ScrollSmoothingEnabled",
                             "value": "0"
                         },
@@ -551,11 +559,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.0094"
+                            "value": "0.0130"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.0231"
+                            "value": "-0.0278"
                         }
                     ]
                 },
