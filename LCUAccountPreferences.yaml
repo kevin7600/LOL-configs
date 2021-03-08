@@ -69,6 +69,7 @@ champ-select:
             412: 412000
             427: 427000
             429: 429001
+            43: 43000
             44: 44000
             45: 45008
             48: 48000
@@ -117,7 +118,7 @@ champ-select:
             - 7
             - 4
             440:
-            - 12
+            - 14
             - 4
             450:
             - 32
@@ -145,7 +146,6 @@ emotes:
         - 3577
         - 3576
         - 3581
-        - 3567
         - 3563
         - 1460
         - 3136
@@ -185,14 +185,14 @@ lol-clash:
 lol-collection-champions:
     data:
         groupingDropdownKey: ""
-        lastVisitTime: 1614737849138
+        lastVisitTime: 1615159226584
         sortingDropdownKey: ""
         unownedFilter: "none"
     schemaVersion: 1
 lol-collection-summoner-icons:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1609480258434
+        lastVisitTime: 1615159226585
         sortingDropdownKey: "acquisitionDate"
         unavailableFilter: false
         unownedFilter: false
@@ -288,7 +288,7 @@ missions-settings:
     schemaVersion: 0
 personalized-offers:
     data:
-        lastViewedTimestamp: "2021-01-01T05:46:22.725Z"
+        lastViewedTimestamp: "2021-03-07T23:20:00.219Z"
     schemaVersion: 1
 ranked-eos-notification-10-RANKED_SOLO_5x5-SEASON_ENDED:
     data:

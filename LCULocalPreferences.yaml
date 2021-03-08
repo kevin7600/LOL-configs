@@ -6,15 +6,18 @@ GeoInfo:
     schemaVersion: 1
 lol-audio:
     data:
-        masterVolume: 19
+        masterVolume: 16
         musicEnabled: false
     schemaVersion: 5
 lol-clash:
     data:
         simpleStateFlagIds:
+        - "registration_open_tournament_3021"
         - "registration_open_tournament_2981"
         - "lock_in_open_tournament_2981_phase_3101"
         - "registration_open_tournament_3002"
+        - "lock_in_open_tournament_3002_phase_3122"
+        - "lock_in_open_tournament_3021_phase_3141"
     schemaVersion: 1
 lol-collection-champions:
     data:
