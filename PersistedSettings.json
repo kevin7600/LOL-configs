@@ -42,11 +42,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.0000"
+                            "value": "0.0365"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "0.0000"
+                            "value": "0.6574"
                         },
                         {
                             "name": "ReplayNativeOffsetX",
@@ -237,7 +237,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "11.5.361.3108"
+                            "value": "11.15.388.2387"
                         },
                         {
                             "name": "CursorOverride",
@@ -310,7 +310,7 @@
                         },
                         {
                             "name": "ChatScale",
-                            "value": "50"
+                            "value": "40"
                         },
                         {
                             "name": "DeathRecapScale",
@@ -547,11 +547,11 @@
                         },
                         {
                             "name": "CurrentTab",
-                            "value": "2"
+                            "value": "0"
                         },
                         {
                             "name": "InventoryPanelPinned",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "InvertDisplayOrder",
@@ -559,11 +559,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.0073"
+                            "value": "0.0469"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.0231"
+                            "value": "-0.0324"
                         }
                     ]
                 },
@@ -975,11 +975,11 @@
                         },
                         {
                             "name": "evtSelfCastAvatarSpell1",
-                            "value": "[<Unbound>]"
+                            "value": "[<Unbound>],[Shift][d]"
                         },
                         {
                             "name": "evtSelfCastAvatarSpell2",
-                            "value": "[Alt][f],"
+                            "value": "[Alt][f],[Shift][f]"
                         },
                         {
                             "name": "evtSelfCastItem1",
@@ -1047,11 +1047,11 @@
                         },
                         {
                             "name": "evtSmartCastAvatarSpell1",
-                            "value": "[Shift][d]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastAvatarSpell2",
-                            "value": "[Shift][f]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastItem1",

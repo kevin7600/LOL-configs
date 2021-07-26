@@ -134,52 +134,30 @@ page-settings:
             subStyleId: 8200
         perShardPerkBooks:
             na1:
-                currentPageId: 341516264
+                currentPageId: 1960950880
                 pages:
                 -   autoModifiedSelections: []
                     current: true
-                    id: 341516264
+                    id: 1960950880
                     isActive: false
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1615187292243
+                    lastModified: 1627277929162
                     name: "anything"
-                    order: 0
-                    primaryStyleId: 8000
+                    order: 1
+                    primaryStyleId: 8300
                     selectedPerkIds:
-                    - 8008
-                    - 8009
-                    - 9105
-                    - 8299
-                    - 8473
-                    - 8453
+                    - 8351
+                    - 8304
+                    - 8345
+                    - 8410
+                    - 8136
+                    - 8134
                     - 5005
                     - 5008
                     - 5002
-                    subStyleId: 8400
-                -   autoModifiedSelections: []
-                    current: false
-                    id: 16847062
-                    isActive: false
-                    isDeletable: true
-                    isEditable: true
-                    isValid: true
-                    lastModified: 1611350340661
-                    name: "Blitz: Zilean"
-                    order: 1
-                    primaryStyleId: 8100
-                    selectedPerkIds:
-                    - 8112
-                    - 8139
-                    - 8138
-                    - 8135
-                    - 8473
-                    - 8451
-                    - 5008
-                    - 5008
-                    - 5003
-                    subStyleId: 8400
+                    subStyleId: 8100
         settings:
             gameplayPatchVersionSeen: "9.23"
             gameplayUpdatedPerksSeen:

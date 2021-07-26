@@ -1,12 +1,12 @@
 GeoInfo:
     data:
-        city: "carlsbad"
+        city: "downey"
         country: "usa"
         region: "ca"
     schemaVersion: 1
 lol-audio:
     data:
-        masterVolume: 16
+        masterVolume: 49
         musicEnabled: false
     schemaVersion: 5
 lol-clash:
@@ -14,10 +14,43 @@ lol-clash:
         simpleStateFlagIds:
         - "registration_open_tournament_3021"
         - "registration_open_tournament_2981"
+        - "lock_in_open_tournament_3101_phase_3221"
+        - "registration_open_tournament_3621"
         - "lock_in_open_tournament_2981_phase_3101"
+        - "registration_open_tournament_3381"
         - "registration_open_tournament_3002"
         - "lock_in_open_tournament_3002_phase_3122"
+        - "lock_in_open_tournament_3121_phase_3241"
         - "lock_in_open_tournament_3021_phase_3141"
+        - "registration_open_tournament_3101"
+        - "registration_open_tournament_3121"
+        - "registration_open_tournament_3141"
+        - "lock_in_open_tournament_3141_phase_3261"
+        - "registration_open_tournament_3481"
+        - "registration_open_tournament_3161"
+        - "lock_in_open_tournament_3161_phase_3281"
+        - "registration_open_tournament_3321"
+        - "lock_in_open_tournament_3321_phase_3441"
+        - "registration_open_tournament_3341"
+        - "lock_in_open_tournament_3341_phase_3461"
+        - "registration_open_tournament_3361"
+        - "lock_in_open_tournament_3361_phase_3481"
+        - "registration_open_tournament_3421"
+        - "registration_open_tournament_3441"
+        - "lock_in_open_tournament_3421_phase_3541"
+        - "lock_in_open_tournament_3441_phase_3561"
+        - "lock_in_open_tournament_3541_phase_3681"
+        - "lock_in_open_tournament_3521_phase_3661"
+        - "registration_open_tournament_3461"
+        - "lock_in_open_tournament_3461_phase_3581"
+        - "lock_in_open_tournament_3481_phase_3601"
+        - "registration_open_tournament_3521"
+        - "registration_open_tournament_3541"
+        - "registration_open_tournament_3561"
+        - "registration_open_tournament_3581"
+        - "lock_in_open_tournament_3621_phase_3761"
+        - "registration_open_tournament_3641"
+        - "lock_in_open_tournament_3641_phase_3781"
     schemaVersion: 1
 lol-collection-champions:
     data:
@@ -47,10 +80,18 @@ lol-collection-ward-skins:
         lastVisitTime: 1572309170981
         visitedCollectibleList: []
     schemaVersion: 1
+lol-home:
+    data:
+        useTFTOverride: false
+    schemaVersion: 0
 lol-leagues:
     data:
         season-start-takeover:
             season: 9
+    schemaVersion: 1
+lol-parties:
+    data:
+        permanentHideAutofillModal: true
     schemaVersion: 1
 lol-premade-voice:
     data:

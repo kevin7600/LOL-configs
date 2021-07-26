@@ -6,17 +6,19 @@ career-stats-settings:
 champ-select:
     data:
         skins:
-            1: 1000
-            10: 10006
+            1: 1012
+            10: 10007
             102: 102000
             103: 103007
             104: 104025
-            105: 105000
+            105: 105002
+            106: 106000
             107: 107000
             110: 110003
             111: 111000
             112: 112000
             113: 113005
+            114: 114005
             117: 117000
             119: 119000
             12: 12000
@@ -24,39 +26,49 @@ champ-select:
             121: 121000
             122: 122004
             127: 127001
+            131: 131000
             134: 134000
+            136: 136000
+            14: 14000
             141: 141000
             142: 142000
-            143: 143002
+            143: 143000
             145: 145000
             147: 147003
             15: 15010
-            157: 157000
-            16: 16000
+            154: 154002
+            157: 157002
+            16: 16001
+            161: 161000
             163: 163000
             164: 164000
-            17: 17014
+            17: 17007
             18: 18000
-            19: 19000
+            19: 19016
             2: 2000
             202: 202005
+            203: 203000
             21: 21016
             22: 22008
-            222: 222004
+            222: 222002
+            23: 23000
             235: 235000
-            236: 236000
+            236: 236025
             238: 238013
             24: 24000
             245: 245019
             246: 246000
             25: 25000
+            254: 254000
             26: 26000
             266: 266000
             267: 267001
+            268: 268000
             27: 27000
             28: 28000
             29: 29000
             30: 30000
+            31: 31000
             32: 32000
             33: 33000
             34: 34005
@@ -65,6 +77,8 @@ champ-select:
             36: 36000
             360: 360000
             37: 37000
+            38: 38000
+            39: 39000
             40: 40000
             412: 412000
             427: 427000
@@ -75,8 +89,13 @@ champ-select:
             48: 48000
             497: 497000
             50: 50000
+            51: 51000
+            517: 517000
+            523: 523000
+            53: 53000
             54: 54000
             55: 55004
+            555: 555000
             56: 56000
             57: 57007
             59: 59000
@@ -91,23 +110,29 @@ champ-select:
             75: 75000
             76: 76000
             777: 777000
+            78: 78000
             79: 79000
             80: 80000
             81: 81021
-            86: 86000
+            84: 84000
+            86: 86013
             875: 875000
             876: 876000
             89: 89000
+            9: 9000
             90: 90005
             92: 92000
             99: 99000
         spells:
             1020:
-            - 12
+            - 14
             - 4
             1300:
-            - 11
+            - 21
             - 4
+            1400:
+            - 54
+            - 12
             400:
             - 12
             - 4
@@ -118,7 +143,7 @@ champ-select:
             - 7
             - 4
             440:
-            - 14
+            - 12
             - 4
             450:
             - 32
@@ -130,19 +155,23 @@ champ-select:
 cosmetics-last-viewed-date:
     data:
         typeToLastOpenedDate:
-            COMPANION: 1602064445
+            COMPANION: 1617258436
             TFT_DAMAGE_SKIN: 1602059245
             TFT_MAP_SKIN: 1602059245
     schemaVersion: 1
 custom-spell-selections:
     data:
         custom-spell-selections:
-            spell1: 14
+            spell1: 21
             spell2: 4
     schemaVersion: 0
 emotes:
     data:
         newEmotes:
+        - 3622
+        - 3623
+        - 3612
+        - 3578
         - 3577
         - 3576
         - 3581
@@ -167,15 +196,24 @@ eos-2020-bell-notification_SR_2:
 lol-champ-select:
     data:
         favorites:
+            jungle:
+            - 19
             middle:
+            - 19
             - 26
             - 86
+            - 54
             - 48
+            - 23
             support:
+            - 34
             - 26
             top:
+            - 19
             - 86
+            - 54
             - 48
+            - 23
         reportAndMutingTooltipShown: true
     schemaVersion: 0
 lol-clash:
@@ -185,7 +223,7 @@ lol-clash:
 lol-collection-champions:
     data:
         groupingDropdownKey: ""
-        lastVisitTime: 1615159226584
+        lastVisitTime: 1626449471132
         sortingDropdownKey: ""
         unownedFilter: "none"
     schemaVersion: 1
@@ -205,19 +243,32 @@ lol-home-hubs:
     data:
         all-star-2020:
             watchedIntro: true
+        mundo-hub-2021:
+            watchedIntro: true
         preseason-2021:
             motionDisabled: false
             watchedRuinedKingIntro: true
             watchedWildRiftIntro: true
+        project-hub-2021:
+            watchedIntro: true
         season-start-2021:
             esportsViewed: true
             lolViewed: true
             lorViewed: true
             s21Viewed: true
             tftViewed: true
+        sentinels-hub-2021:
+            chapterPosterViewed: 2
+            watchedIntro: true
+        sol-event-hub-2021:
+            chapterPosterViewed: true
+        space-groove-hub-2021:
+            watchedIntro: true
         spirit-bonds-2020:
             petalStateBySequence: null
             viewedHelp: true
+            watchedIntro: true
+        tft-set-5-hub-2021:
             watchedIntro: true
         worlds-2020:
             watchedKdaIntro: true
@@ -226,15 +277,15 @@ lol-leagues:
     data:
         FIRST_CHALLENGER_OF_SEASON-RANKED_SOLO_5x5: 11
         hasSeenFlexRestrictionModal: true
-        last-split-end-notification: 10.300000
-        last-split-start-modal: 11.100000
+        last-split-end-notification: 11.100000
+        last-split-start-modal: 11.200000
         season-memorial-modal: 10
         season-start-takeover:
             season: 11
     schemaVersion: 1
 lol-notifications:
     data:
-        rgmNotificationTimestamp: 1612497601268
+        rgmNotificationTimestamp: 1625787476356
     schemaVersion: 1
 lol-npe-tutorial-path:
     data:
@@ -267,19 +318,24 @@ lol-profiles:
 lol-skins-viewer:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1605343817845
+        lastVisitTime: 1622410388774
         sortingDropdownKey: "acquisitionDate"
         unownedFilter: false
     schemaVersion: 2
 lol-tft:
     data:
-        previouslySeenSeasons: "S3_5_Galaxies-pass,S4_Fates-pass,S4_5_Fates,TFTBattlepass_Fates2_Series"
+        previouslySeenSeasons: "S3_5_Galaxies-pass,S4_Fates-pass,S4_5_Fates,TFTBattlepass_Fates2_Series,TFTBattlepass_Reckoning1_Series,TFT5_5_Series"
     schemaVersion: 1
 lol-tutorial:
     data:
+        Map11_ULTBOOK_TutorialSeen: true
         Map21_NEXUSBLITZ_TutorialSeen: true
         Map22_TFT_TutorialSeen: true
         championSelectRunesTooltipSeenCount: 9
+        perksCreateNewPageSeen: true
+        perksPresetPagesSeen: true
+        perksPrimaryPathSeen: true
+        perksStatModsSeen: true
         rpChangeEatDisplayed: true
     schemaVersion: 1
 missions-settings:
@@ -288,7 +344,7 @@ missions-settings:
     schemaVersion: 0
 personalized-offers:
     data:
-        lastViewedTimestamp: "2021-03-07T23:20:00.219Z"
+        lastViewedTimestamp: "2021-07-26T01:03:23.085Z"
     schemaVersion: 1
 ranked-eos-notification-10-RANKED_SOLO_5x5-SEASON_ENDED:
     data:
