@@ -1,304 +1,37 @@
 page-settings:
     data:
-        pages:
-        -   autoModifiedSelections: []
-            current: false
-            id: 341516264
-            isActive: false
-            isDeletable: true
-            isEditable: true
-            isValid: true
-            lastModified: 0
-            name: "anything"
-            order: 0
-            primaryStyleId: 8200
-            selectedPerkIds:
-            - 8230
-            - 8226
-            - 8210
-            - 8236
-            - 8347
-            - 8304
-            subStyleId: 8300
-        -   autoModifiedSelections: []
-            current: false
-            id: 2038184085
-            isActive: false
-            isDeletable: true
-            isEditable: true
-            isValid: false
-            lastModified: 0
-            name: "New Runes Page 2"
-            order: 1
-            primaryStyleId: 8200
-            selectedPerkIds:
-            - 0
-            - 0
-            - 0
-            - 0
-            subStyleId: -1
-        -   autoModifiedSelections: []
-            current: false
-            id: 54
-            isActive: false
-            isDeletable: false
-            isEditable: false
-            isValid: true
-            lastModified: 0
-            name: "Inspiration: The Timeless"
-            order: 2147483638
-            primaryStyleId: 8300
-            selectedPerkIds:
-            - 8326
-            - 8313
-            - 8345
-            - 8347
-            - 8451
-            - 8430
-            subStyleId: 8400
-        -   autoModifiedSelections: []
-            current: true
-            id: 53
-            isActive: false
-            isDeletable: false
-            isEditable: false
-            isValid: true
-            lastModified: 0
-            name: "Sorcery: The Calamity"
-            order: 2147483639
-            primaryStyleId: 8200
-            selectedPerkIds:
-            - 8229
-            - 8226
-            - 8210
-            - 8236
-            - 8138
-            - 8105
-            subStyleId: 8100
-        -   autoModifiedSelections: []
-            current: false
-            id: 52
-            isActive: false
-            isDeletable: false
-            isEditable: false
-            isValid: true
-            lastModified: 0
-            name: "Precision: The Perfect"
-            order: 2147483640
-            primaryStyleId: 8000
-            selectedPerkIds:
-            - 8005
-            - 9111
-            - 9104
-            - 8014
-            - 8234
-            - 8236
-            subStyleId: 8200
-        -   autoModifiedSelections: []
-            current: false
-            id: 51
-            isActive: false
-            isDeletable: false
-            isEditable: false
-            isValid: true
-            lastModified: 0
-            name: "Domination: The Executioner"
-            order: 2147483641
-            primaryStyleId: 8100
-            selectedPerkIds:
-            - 8112
-            - 8126
-            - 8120
-            - 8135
-            - 9111
-            - 8014
-            subStyleId: 8000
-        -   autoModifiedSelections: []
-            current: false
-            id: 50
-            isActive: false
-            isDeletable: false
-            isEditable: false
-            isValid: true
-            lastModified: 0
-            name: "Resolve: The Colossus"
-            order: 2147483642
-            primaryStyleId: 8400
-            selectedPerkIds:
-            - 8437
-            - 8473
-            - 8430
-            - 8451
-            - 8224
-            - 8237
-            subStyleId: 8200
+        pages: []
         perShardPerkBooks:
             na1:
-                currentPageId: 1960950880
+                currentPageId: 2096361181
                 pages:
                 -   autoModifiedSelections: []
                     current: true
-                    id: 1960950880
+                    id: 2096361181
                     isActive: false
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1627277929162
+                    lastModified: 1651617854294
                     name: "anything"
                     order: 1
-                    primaryStyleId: 8300
+                    primaryStyleId: 8200
                     selectedPerkIds:
-                    - 8351
-                    - 8304
-                    - 8345
-                    - 8410
-                    - 8136
-                    - 8134
+                    - 8230
+                    - 8275
+                    - 8234
+                    - 8236
+                    - 8242
+                    - 8429
                     - 5005
                     - 5008
                     - 5002
-                    subStyleId: 8100
+                    subStyleId: 8400
         settings:
-            gameplayPatchVersionSeen: "9.23"
+            gameplayPatchVersionSeen: "11.23"
             gameplayUpdatedPerksSeen:
-            - 8358
+            - 8369
             gridModeEnabled: true
             showLongDescriptions: true
             showPresetPages: true
     schemaVersion: 5
-pages:
--   autoModifiedSelections: []
-    current: false
-    formatVersion: 4
-    id: 341516264
-    isActive: false
-    isDeletable: true
-    isEditable: true
-    isValid: true
-    name: "anything"
-    order: 0
-    primaryStyleId: 8200
-    selectedPerkIds:
-    - 8230
-    - 8226
-    - 8210
-    - 8236
-    - 8347
-    - 8304
-    subStyleId: 8300
--   autoModifiedSelections: []
-    current: false
-    formatVersion: 4
-    id: 2038184085
-    isActive: false
-    isDeletable: true
-    isEditable: true
-    isValid: false
-    name: "New Runes Page 2"
-    order: 1
-    primaryStyleId: 8200
-    selectedPerkIds:
-    - 0
-    - 0
-    - 0
-    - 0
-    subStyleId: -1
--   autoModifiedSelections: []
-    current: false
-    formatVersion: 4
-    id: 54
-    isActive: false
-    isDeletable: false
-    isEditable: false
-    isValid: true
-    name: "Inspiration: The Timeless"
-    order: 2147483638
-    primaryStyleId: 8300
-    selectedPerkIds:
-    - 8326
-    - 8313
-    - 8345
-    - 8347
-    - 8451
-    - 8430
-    subStyleId: 8400
--   autoModifiedSelections: []
-    current: true
-    formatVersion: 4
-    id: 53
-    isActive: false
-    isDeletable: false
-    isEditable: false
-    isValid: true
-    name: "Sorcery: The Calamity"
-    order: 2147483639
-    primaryStyleId: 8200
-    selectedPerkIds:
-    - 8229
-    - 8226
-    - 8210
-    - 8236
-    - 8138
-    - 8105
-    subStyleId: 8100
--   autoModifiedSelections: []
-    current: false
-    formatVersion: 4
-    id: 52
-    isActive: false
-    isDeletable: false
-    isEditable: false
-    isValid: true
-    name: "Precision: The Perfect"
-    order: 2147483640
-    primaryStyleId: 8000
-    selectedPerkIds:
-    - 8005
-    - 9111
-    - 9104
-    - 8014
-    - 8234
-    - 8236
-    subStyleId: 8200
--   autoModifiedSelections: []
-    current: false
-    formatVersion: 4
-    id: 51
-    isActive: false
-    isDeletable: false
-    isEditable: false
-    isValid: true
-    name: "Domination: The Executioner"
-    order: 2147483641
-    primaryStyleId: 8100
-    selectedPerkIds:
-    - 8112
-    - 8126
-    - 8120
-    - 8135
-    - 9111
-    - 8014
-    subStyleId: 8000
--   autoModifiedSelections: []
-    current: false
-    formatVersion: 4
-    id: 50
-    isActive: false
-    isDeletable: false
-    isEditable: false
-    isValid: true
-    name: "Resolve: The Colossus"
-    order: 2147483642
-    primaryStyleId: 8400
-    selectedPerkIds:
-    - 8437
-    - 8473
-    - 8430
-    - 8451
-    - 8224
-    - 8237
-    subStyleId: 8200
-settings:
-    gridModeEnabled: true
-    showLongDescriptions: true
-    showPresetPages: true

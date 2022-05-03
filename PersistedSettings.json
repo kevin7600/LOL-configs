@@ -237,7 +237,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "11.15.388.2387"
+                            "value": "12.8.437.6765"
                         },
                         {
                             "name": "CursorOverride",
@@ -458,7 +458,7 @@
                         },
                         {
                             "name": "ShopScale",
-                            "value": "0.4444"
+                            "value": "0.3988"
                         },
                         {
                             "name": "ShowAllChannelChat",
@@ -551,7 +551,7 @@
                         },
                         {
                             "name": "InventoryPanelPinned",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "InvertDisplayOrder",
@@ -559,11 +559,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.0469"
+                            "value": "0.0661"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.0324"
+                            "value": "-0.0306"
                         }
                     ]
                 },
@@ -649,7 +649,7 @@
                         },
                         {
                             "name": "MasterVolume",
-                            "value": "0.41"
+                            "value": "0.5300"
                         },
                         {
                             "name": "MusicMute",
@@ -681,7 +681,7 @@
                         },
                         {
                             "name": "VoiceVolume",
-                            "value": "0.2900"
+                            "value": "0.0900"
                         }
                     ]
                 }
@@ -747,7 +747,7 @@
                         },
                         {
                             "name": "evtChampionOnly",
-                            "value": "[`]"
+                            "value": "[g]"
                         },
                         {
                             "name": "evtChatHistory",
