@@ -237,7 +237,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "12.8.437.6765"
+                            "value": "12.17.467.4767"
                         },
                         {
                             "name": "CursorOverride",
@@ -559,11 +559,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.0661"
+                            "value": "-0.0042"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.0306"
+                            "value": "-0.1352"
                         }
                     ]
                 },
@@ -1139,7 +1139,7 @@
                         },
                         {
                             "name": "evtSmartCastWithIndicatorSpell3",
-                            "value": ""
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastWithIndicatorSpell4",

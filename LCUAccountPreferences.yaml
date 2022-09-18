@@ -18,6 +18,7 @@ champ-select:
             104: 104000
             105: 105000
             106: 106000
+            107: 107000
             11: 11000
             110: 110000
             111: 111000
@@ -42,6 +43,8 @@ champ-select:
             150: 150000
             154: 154000
             16: 16007
+            161: 161000
+            163: 163000
             164: 164000
             17: 17000
             18: 18000
@@ -53,9 +56,11 @@ champ-select:
             22: 22000
             221: 221000
             222: 222002
+            223: 223000
             23: 23000
             235: 235000
             236: 236025
+            238: 238000
             24: 24000
             246: 246000
             25: 25000
@@ -66,7 +71,7 @@ champ-select:
             268: 268000
             27: 27000
             28: 28000
-            29: 29002
+            29: 29000
             3: 3000
             30: 30000
             31: 31000
@@ -80,8 +85,10 @@ champ-select:
             38: 38000
             39: 39000
             4: 4003
-            40: 40000
+            40: 40001
+            41: 41000
             412: 412000
+            42: 42000
             420: 420000
             421: 421000
             427: 427000
@@ -93,15 +100,17 @@ champ-select:
             498: 498000
             5: 5000
             50: 50000
+            51: 51000
             516: 516000
             518: 518000
             523: 523000
             53: 53036
             54: 54000
-            55: 55009
+            55: 55000
             555: 555000
             57: 57000
             58: 58000
+            59: 59000
             6: 6000
             61: 61000
             62: 62000
@@ -115,6 +124,7 @@ champ-select:
             79: 79000
             8: 8000
             81: 81002
+            83: 83000
             84: 84000
             85: 85000
             86: 86000
@@ -123,6 +133,7 @@ champ-select:
             887: 887000
             89: 89000
             90: 90000
+            91: 91000
             96: 96000
             99: 99000
         spells:
@@ -133,20 +144,20 @@ champ-select:
             - 54
             - 4
             420:
+            - 3
             - 14
-            - 6
             440:
             - 14
-            - 6
+            - 7
             450:
+            - 32
             - 6
-            - 4
             700:
-            - 3
-            - 4
+            - 14
+            - 6
             900:
-            - 3
-            - 4
+            - 14
+            - 6
     schemaVersion: 1
 clash-tutorial:
     data:
@@ -164,7 +175,7 @@ clash-tutorial:
         rosterDetailsModalLogoStep: true
         rosterDetailsModalNameTagStep: true
         smsButtonStep: true
-        version: 1
+        version: 2
     schemaVersion: 1
 closed-conversations:
     data:
@@ -174,19 +185,45 @@ closed-conversations:
 custom-spell-selections:
     data:
         custom-spell-selections:
-            spell1: 14
-            spell2: 6
+            spell1: 3
+            spell2: 4
     schemaVersion: 0
 emotes:
     data:
         newEmotes:
-        - 3823
+        - 3950
+        - 3917
+        - 3918
+        - 3933
+        - 3932
+        - 3940
+        - 3939
+        - 3943
+        - 3949
+        - 3931
         - 3822
+        - 3823
+        - 3935
+        - 3824
+        - 3812
+        - 3810
+        - 3811
+        - 3898
+        - 3897
+        - 3896
         - 3777
         - 3745
         - 3781
         - 3776
         - 3746
+    schemaVersion: 1
+lol-challenges:
+    data:
+        introModalShown: true
+    schemaVersion: 1
+lol-challenges-latest-level-up:
+    data:
+        lastLevelUpTime: 1663460780717
     schemaVersion: 1
 lol-champ-select:
     data:
@@ -198,14 +235,18 @@ lol-champ-select:
             - 48
             - 86
             middle:
+            - 34
             - 26
             - 104
             - 48
             - 86
             support:
+            - 34
             - 26
             - 16
             - 44
+            - 50
+            - 37
             top:
             - 221
             - 26
@@ -226,9 +267,21 @@ lol-clash:
 lol-collection-champions:
     data:
         groupingDropdownKey: ""
-        lastVisitTime: 1651348071226
-        sortingDropdownKey: ""
+        lastVisitTime: 1663461029351
+        sortingDropdownKey: "championMastery"
         unownedFilter: "none"
+    schemaVersion: 1
+lol-customizer-icons:
+    data:
+        lastVisitTime: 1662410360267
+    schemaVersion: 1
+lol-customizer-titles:
+    data:
+        lastVisitTime: 1660275461772
+    schemaVersion: 1
+lol-customizer-tokens:
+    data:
+        lastVisitTime: 1658284382427
     schemaVersion: 1
 lol-general:
     data:
@@ -245,16 +298,27 @@ lol-home-hubs:
             watchedTencentPorcIntro: false
         season-start-hub-2022:
             watchedIntro: true
+        star-guardians-metagame-hub-2022:
+            0: "[]"
+            1: "39"
+            2: "5"
+            ambientAudioDisabled: "false"
+            fallbackSaved: "true"
+            fellback: "false"
+            introWatched: "true"
+            motionDisabled: "false"
+            tutorialWatched: "false"
     schemaVersion: 1
 lol-honor:
     data:
         dayOneSeen: true
+        recallReleaseNotified: true
     schemaVersion: 1
 lol-leagues:
     data:
         hasSeenFlexRestrictionModal: true
-        last-split-end-notification: 12.100000
-        last-split-start-modal: 12.200000
+        last-split-end-notification: 12.200000
+        last-split-start-modal: 12.300000
         season-memorial-modal: 11
     schemaVersion: 1
 lol-loot:
@@ -264,7 +328,7 @@ lol-loot:
     schemaVersion: 1
 lol-notifications:
     data:
-        rgmNotificationTimestamp: 1648866593618
+        rgmNotificationTimestamp: 1660966668094
     schemaVersion: 1
 lol-npe-tutorial-path:
     data:
@@ -297,13 +361,13 @@ lol-profiles:
 lol-tft:
     data:
         lastTftGameQueueId: 1090
-        previouslySeenSeasons: "TFT6_Series,TFT6_Act2_Series"
+        previouslySeenSeasons: "TFT6_Series,TFT6_Act2_Series,TFT7_Series,TFT7_5_Series"
         seenOfferIds:
             storeOfferIds:
-            - "f34ed470-015d-428f-b290-c1a285636ec4"
-            - "484c2f9c-21db-4e03-8f22-acf6cbca1648"
+            - "d0f96f77-c2ef-430e-a0d3-e1ae673ee14a"
+            - "930c65a2-a4a9-42ad-9fb6-05c202764e3a"
             tacticianOfferIds:
-            - "2bc19a3c-4c70-4d82-9881-4f958113f39a"
+            - "c01af17f-690a-4289-854b-e215716a3539"
     schemaVersion: 1
 lol-tutorial:
     data:

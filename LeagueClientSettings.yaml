@@ -5,56 +5,33 @@ install:
     game-settings:
         accountId: 212090967
         modified: false
-        timestamp: 1651618391721
-    gameflow-patcher-lock: null
-    gameflow-process-info: null
+        timestamp: 0
+    gameflow-patcher-lock: 1663462159246
+    gameflow-process-info:
+        pid: 12076
+        rawArgs:
+        - "192.64.173.81 5349 knRer27gUCHQhEBmfRDA7g== 49331082"
+        - "-PlayerID=49331082"
+        - "-GameID=4435849589"
     gameflow-spectate-reconnect-info: null
     globals:
         locale: "en_US"
         region: "NA"
-    last-valid-login-splash:
-        theme: "worlds2019"
-        version: "1.60"
     lcu-settings:
         accountId: 212090967
         modified: false
-        timestamp: 1651614484491
-    licensesAgreedTo:
-        576F00F89F0C6BED5C0B5166E2D6D1F7: null
-    login-remember-me:
-        rememberMe: false
-        username: ""
-    npe-splash:
-        enableNewPlayerSplash: false
+        timestamp: 0
     patcher:
-        client_migrated: true
-        client_patcher_available: true
-        client_patcher_migrated_time: "2019-09-28T05:55:09Z"
-        game_migrated: true
         game_patcher_available: true
-        game_patcher_migrated_time: "2019-09-28T05:55:09Z"
         locales:
         - "en_US"
-        toggles:
-            new_client_patcher: 4051976166
-            new_game_patcher: 2333226970
     perks-settings:
         accountId: 212090967
         modified: false
-        timestamp: 1651617874663
+        timestamp: 0
     riotclient-upgrade:
-        aux-environment: "live"
-        installer-decrypt-key: "ZuV40vGHTGYoUCpx"
-        installer-filename: "rc-win.enc"
-        recovery-failures: 1
-        recovery-successes: 1
-        seq-success-count: 651
-        success-count: 651
-        uninstaller-repaired: true
+        seq-success-count: 16
+        success-count: 16
         uninstaller-updated: true
-        upgrade-ready: true
     rso-auth:
-        install-identifier: "ae3aca674e01ed44996da526796f8f92"
-    telemetry:
-        fresh_installation: false
-        installation_id: "Q6f1ew=="
+        install-identifier: "1842f3868d364e42ad1bd2a4a6cb88c4"
