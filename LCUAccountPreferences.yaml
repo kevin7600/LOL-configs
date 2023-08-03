@@ -23,14 +23,17 @@ champ-select:
             110: 110000
             111: 111000
             112: 112000
+            113: 113000
             114: 114000
             115: 115000
+            117: 117000
             119: 119000
             12: 12000
             121: 121000
             127: 127000
             13: 13000
             131: 131000
+            133: 133000
             134: 134000
             136: 136000
             14: 14000
@@ -53,15 +56,18 @@ champ-select:
             201: 201000
             202: 202000
             203: 203000
+            21: 21000
             22: 22000
             221: 221000
             222: 222002
-            223: 223000
+            223: 223002
             23: 23000
             235: 235000
             236: 236025
             238: 238000
             24: 24000
+            240: 240000
+            245: 245000
             246: 246000
             25: 25000
             254: 254000
@@ -71,7 +77,7 @@ champ-select:
             268: 268000
             27: 27000
             28: 28000
-            29: 29000
+            29: 29002
             3: 3000
             30: 30000
             31: 31000
@@ -80,12 +86,13 @@ champ-select:
             34: 34005
             35: 35000
             350: 350000
+            36: 36000
             360: 360000
             37: 37000
             38: 38000
             39: 39000
             4: 4003
-            40: 40001
+            40: 40000
             41: 41000
             412: 412000
             42: 42000
@@ -93,6 +100,7 @@ champ-select:
             421: 421000
             427: 427000
             43: 43000
+            432: 432000
             44: 44000
             45: 45000
             48: 48006
@@ -108,21 +116,27 @@ champ-select:
             54: 54000
             55: 55000
             555: 555000
+            56: 56000
             57: 57000
             58: 58000
             59: 59000
             6: 6000
+            60: 60000
             61: 61000
             62: 62000
             63: 63000
+            64: 64000
             67: 67000
             68: 68000
+            69: 69000
             7: 7000
+            72: 72000
             74: 74000
             75: 75000
             777: 777000
             79: 79000
             8: 8000
+            80: 80000
             81: 81002
             83: 83000
             84: 84000
@@ -132,9 +146,12 @@ champ-select:
             876: 876000
             887: 887000
             89: 89000
+            9: 9000
             90: 90000
             91: 91000
+            92: 92000
             96: 96000
+            98: 98000
             99: 99000
         spells:
             1020:
@@ -142,22 +159,34 @@ champ-select:
             - 4
             1400:
             - 54
+            - 3
+            1900:
+            - 1
+            - 4
+            400:
+            - 3
             - 4
             420:
-            - 3
-            - 14
+            - 12
+            - 4
+            430:
+            - 1
+            - 4
             440:
-            - 14
-            - 7
+            - 6
+            - 4
             450:
-            - 32
-            - 6
+            - 3
+            - 4
             700:
-            - 14
-            - 6
+            - 3
+            - 4
+            720:
+            - 13
+            - 3
             900:
-            - 14
-            - 6
+            - 3
+            - 4
     schemaVersion: 1
 clash-tutorial:
     data:
@@ -185,12 +214,23 @@ closed-conversations:
 custom-spell-selections:
     data:
         custom-spell-selections:
-            spell1: 3
+            spell1: 14
             spell2: 4
     schemaVersion: 0
 emotes:
     data:
         newEmotes:
+        - 4286
+        - 4223
+        - 4225
+        - 4234
+        - 4224
+        - 4165
+        - 4229
+        - 4045
+        - 4079
+        - 4078
+        - 3983
         - 3950
         - 3917
         - 3918
@@ -217,42 +257,54 @@ emotes:
         - 3776
         - 3746
     schemaVersion: 1
+event-shop:
+    data:
+        lastSeenTokenBalance: 0
+        lastSeenTokenShopOffersVersion: 4032089935
+        lastTimeSeen: "2023-08-03T00:52:35.281Z"
+    schemaVersion: 1
 lol-challenges:
     data:
         introModalShown: true
     schemaVersion: 1
 lol-challenges-latest-level-up:
     data:
-        lastLevelUpTime: 1663460780717
+        lastLevelUpTime: 1690855247577
     schemaVersion: 1
 lol-champ-select:
     data:
+        championTradeToggleTooltipSeen: true
         favorites:
             bottom:
-            - 221
             - 26
+            - 50
+            - 22
+            - 222
             jungle:
-            - 48
             - 86
+            - 48
             middle:
             - 34
             - 26
-            - 104
-            - 48
             - 86
+            - 48
             support:
             - 34
             - 26
+            - 50
+            - 22
             - 16
             - 44
-            - 50
             - 37
+            - 143
+            - 350
             top:
-            - 221
             - 26
-            - 48
             - 86
+            - 48
+        positionSwapToggleTooltipSeen: true
         reportAndMutingTooltipShown: true
+        runeRecommenderTutorialTipSeen: true
     schemaVersion: 0
 lol-chat:
     data:
@@ -261,27 +313,29 @@ lol-chat:
     schemaVersion: 1
 lol-clash:
     data:
+        clash-aram2022-modal-shown: true
+        clash-eos-celebration-2022-seen: true
         lftPlayerToggleTooltipSeen: true
         openTeamToggleTooltipSeen: true
-    schemaVersion: 0
+    schemaVersion: 1
 lol-collection-champions:
     data:
         groupingDropdownKey: ""
-        lastVisitTime: 1663461029351
+        lastVisitTime: 1691025340347
         sortingDropdownKey: "championMastery"
         unownedFilter: "none"
     schemaVersion: 1
 lol-customizer-icons:
     data:
-        lastVisitTime: 1662410360267
+        lastVisitTime: 1680653905198
     schemaVersion: 1
 lol-customizer-titles:
     data:
-        lastVisitTime: 1660275461772
+        lastVisitTime: 1680134861667
     schemaVersion: 1
 lol-customizer-tokens:
     data:
-        lastVisitTime: 1658284382427
+        lastVisitTime: 1680134838677
     schemaVersion: 1
 lol-general:
     data:
@@ -291,11 +345,15 @@ lol-home-hubs:
     data:
         anima-squad-hub-2022:
             watchedIntro: true
+        lunar-revel-embed-2023:
+            introWatched: "true"
         lunar-revel-hub-2022:
             ambientAudioDisabled: false
             currentTheme: "fire"
             watchedTencentFireIntro: false
             watchedTencentPorcIntro: false
+        msi-embed-2023:
+            introWatched: "true"
         season-start-hub-2022:
             watchedIntro: true
         star-guardians-metagame-hub-2022:
@@ -308,6 +366,12 @@ lol-home-hubs:
             introWatched: "true"
             motionDisabled: "false"
             tutorialWatched: "false"
+        winterblessed-embed-2022:
+            introWatched: "true"
+        worlds-hub-2022:
+            ambientAudioDisabled: "true"
+            introSkinLineWatched: "true"
+            introWorldsEventPassWatched: "true"
     schemaVersion: 1
 lol-honor:
     data:
@@ -316,10 +380,14 @@ lol-honor:
     schemaVersion: 1
 lol-leagues:
     data:
+        FINAL_RANK_ONE_OF_SEASON-RANKED_FLEX_SR: 14
+        FINAL_RANK_ONE_OF_SEASON-RANKED_SOLO_5x5: 14
+        FIRST_CHALLENGER_OF_SEASON-RANKED_FLEX_SR: 14
+        FIRST_CHALLENGER_OF_SEASON-RANKED_SOLO_5x5: 14
         hasSeenFlexRestrictionModal: true
-        last-split-end-notification: 12.200000
-        last-split-start-modal: 12.300000
-        season-memorial-modal: 11
+        last-split-end-notification: 13.100000
+        last-split-start-modal: 13.100000
+        season-memorial-modal: 13
     schemaVersion: 1
 lol-loot:
     data:
@@ -328,7 +396,7 @@ lol-loot:
     schemaVersion: 1
 lol-notifications:
     data:
-        rgmNotificationTimestamp: 1660966668094
+        rgmNotificationTimestamp: 1689980549674
     schemaVersion: 1
 lol-npe-tutorial-path:
     data:
@@ -356,22 +424,23 @@ lol-premade-voice:
     schemaVersion: 1
 lol-profiles:
     data:
-        ranked-reference-modal-login-seen-for-season: 12
+        ranked-reference-modal-login-seen-for-season: 14
     schemaVersion: 0
 lol-tft:
     data:
         lastTftGameQueueId: 1090
-        previouslySeenSeasons: "TFT6_Series,TFT6_Act2_Series,TFT7_Series,TFT7_5_Series"
+        previouslySeenSeasons: "TFT6_Series,TFT6_Act2_Series,TFT7_Series,TFT7_5_Series,TFT8_Series,TFT8_5_Series,1686765600000"
         seenOfferIds:
             storeOfferIds:
-            - "d0f96f77-c2ef-430e-a0d3-e1ae673ee14a"
-            - "930c65a2-a4a9-42ad-9fb6-05c202764e3a"
+            - "3dd06259-0805-40a5-87b7-c66ff8aaf14c"
+            - "10d94ace-65bb-427e-bc9a-363b21c29b08"
             tacticianOfferIds:
-            - "c01af17f-690a-4289-854b-e215716a3539"
+            - "3180555c-19e9-481f-9715-06a884d6e239"
     schemaVersion: 1
 lol-tutorial:
     data:
         Map11_ULTBOOK_TutorialSeen: true
+        Map22_TFT_TFT_Event_SF_TutorialSeen: true
         Map22_TFT_TutorialSeen: true
         championSelectRunesTooltipSeenCount: 9
         championSelectSkinPurchaseNotificationDisplayed: true
@@ -385,6 +454,11 @@ parties-settings:
         Parties:
             defaultPartyType: "open"
     schemaVersion: 0
+partiesPositionPreferences:
+    data:
+        firstPreference: "MIDDLE"
+        secondPreference: "UTILITY"
+    schemaVersion: 0
 personalized-offers:
     data:
         lastViewedTimestamp: "2022-05-01T19:01:07.442Z"
@@ -392,4 +466,24 @@ personalized-offers:
 ranked-eos-notification-11-RANKED_SOLO_5x5-SEASON_ENDED:
     data:
         notificationShown: true
+    schemaVersion: 1
+ranked-eos-notification-12-RANKED_SOLO_5x5-FIRST_WARNING:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+ranked-eos-notification-12-RANKED_SOLO_5x5-SEASON_ENDED:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+ranked-eos-notification-13-RANKED_SOLO_5x5-FIRST_WARNING:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+ranked-eos-notification-13-RANKED_SOLO_5x5-SECOND_WARNING:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+yourshop:
+    data:
+        lastViewedTimestamp: "2023-08-03T00:52:34.018Z"
     schemaVersion: 1

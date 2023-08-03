@@ -1,212 +1,41 @@
-GeoInfo:
-    data:
-        city: "round rock"
-        country: "usa"
-        region: "tx"
-    schemaVersion: 1
 lol-audio:
     data:
-        masterSoundEnabled: true
-        masterVolume: 8
-        musicEnabled: false
-        sfxVolume: 52
-        voiceVolume: 26
+        masterVolume: 11
+        musicEnabled: true
+        musicVolume: 26
     schemaVersion: 5
 lol-clash:
     data:
         simpleStateFlagIds:
-        - "lock_in_open_tournament_3981_phase_4161"
-        - "lock_in_open_tournament_3721_phase_3861"
-        - "registration_open_tournament_3021"
-        - "registration_open_tournament_2981"
-        - "registration_open_tournament_3821"
-        - "lock_in_open_tournament_2981_phase_3101"
-        - "lock_in_open_tournament_4201_phase_4381"
-        - "registration_open_tournament_3621"
-        - "lock_in_open_tournament_3101_phase_3221"
-        - "registration_open_tournament_3381"
-        - "registration_open_tournament_4182"
-        - "registration_open_tournament_3002"
-        - "lock_in_open_tournament_3002_phase_3122"
-        - "lock_in_open_tournament_3121_phase_3241"
-        - "lock_in_open_tournament_3021_phase_3141"
-        - "registration_open_tournament_3101"
-        - "lock_in_open_tournament_4222_phase_4402"
-        - "lock_in_open_tournament_3901_phase_4061"
-        - "registration_open_tournament_3121"
-        - "lock_in_open_tournament_3782_phase_3942"
-        - "registration_open_tournament_3141"
-        - "lock_in_open_tournament_3141_phase_3261"
-        - "registration_open_tournament_3481"
-        - "registration_open_tournament_3161"
-        - "lock_in_open_tournament_3161_phase_3281"
-        - "registration_open_tournament_4303"
-        - "registration_open_tournament_3962"
-        - "registration_open_tournament_3321"
-        - "lock_in_open_tournament_3321_phase_3441"
-        - "lock_in_open_tournament_3681_phase_3821"
-        - "registration_open_tournament_3341"
-        - "lock_in_open_tournament_3341_phase_3461"
-        - "registration_open_tournament_3361"
-        - "lock_in_open_tournament_3361_phase_3481"
-        - "registration_open_tournament_3421"
-        - "registration_open_tournament_3441"
-        - "lock_in_open_tournament_3421_phase_3541"
-        - "lock_in_open_tournament_3801_phase_3961"
-        - "lock_in_open_tournament_3441_phase_3561"
-        - "lock_in_open_tournament_4303_phase_4483"
-        - "registration_open_tournament_3841"
-        - "lock_in_open_tournament_4001_phase_4181"
-        - "lock_in_open_tournament_3961_phase_4141"
-        - "lock_in_open_tournament_3541_phase_3681"
-        - "registration_open_tournament_3461"
-        - "lock_in_open_tournament_3521_phase_3661"
-        - "lock_in_open_tournament_3461_phase_3581"
-        - "registration_open_tournament_3881"
-        - "lock_in_open_tournament_3481_phase_3601"
-        - "registration_open_tournament_3521"
-        - "registration_open_tournament_3541"
-        - "registration_open_tournament_3981"
-        - "registration_open_tournament_3561"
-        - "registration_open_tournament_4401"
-        - "registration_open_tournament_3581"
-        - "lock_in_open_tournament_3621_phase_3761"
-        - "registration_open_tournament_3641"
-        - "lock_in_open_tournament_3641_phase_3781"
-        - "registration_open_tournament_3681"
-        - "registration_open_tournament_3701"
-        - "lock_in_open_tournament_3701_phase_3841"
-        - "lock_in_open_tournament_4281_phase_4461"
-        - "registration_open_tournament_3721"
-        - "registration_open_tournament_3741"
-        - "registration_open_tournament_3781"
-        - "lock_in_open_tournament_4282_phase_4462"
-        - "lock_in_open_tournament_3781_phase_3941"
-        - "registration_open_tournament_3801"
-        - "lock_in_open_tournament_3821_phase_3981"
-        - "lock_in_open_tournament_3881_phase_4041"
-        - "registration_open_tournament_3961"
-        - "registration_open_tournament_4001"
-        - "registration_open_tournament_4181"
-        - "lock_in_open_tournament_4181_phase_4361"
-        - "lock_in_open_tournament_4381_phase_4561"
-        - "lock_in_open_tournament_4324_phase_4504"
-        - "lock_in_open_tournament_4182_phase_4362"
-        - "registration_open_tournament_4201"
-        - "registration_open_tournament_4221"
-        - "lock_in_open_tournament_4342_phase_4522"
-        - "lock_in_open_tournament_4221_phase_4401"
-        - "registration_open_tournament_4241"
-        - "registration_open_tournament_4222"
-        - "registration_open_tournament_4281"
-        - "registration_open_tournament_4301"
-        - "lock_in_open_tournament_4301_phase_4481"
-        - "registration_open_tournament_4302"
-        - "lock_in_open_tournament_4302_phase_4482"
-        - "registration_open_tournament_4321"
-        - "lock_in_open_tournament_4321_phase_4501"
-        - "registration_open_tournament_4341"
-        - "lock_in_open_tournament_4341_phase_4521"
-        - "registration_open_tournament_4322"
-        - "lock_in_open_tournament_4322_phase_4502"
-        - "registration_open_tournament_4342"
-        - "registration_open_tournament_4441"
-        - "lock_in_open_tournament_4441_phase_4621"
-        - "registration_open_tournament_4461"
-        - "lock_in_open_tournament_4461_phase_4641"
-        - "lock_in_open_tournament_4382_phase_4562"
-        - "registration_open_tournament_4481"
-        - "lock_in_open_tournament_4481_phase_4661"
-        - "registration_open_tournament_4501"
-        - "lock_in_open_tournament_4501_phase_4681"
-        - "registration_open_tournament_4323"
-        - "lock_in_open_tournament_4323_phase_4503"
-        - "registration_open_tournament_4421"
-        - "registration_open_tournament_4282"
-        - "registration_open_tournament_4343"
-        - "lock_in_open_tournament_4343_phase_4523"
-        - "registration_open_tournament_4361"
-        - "lock_in_open_tournament_4361_phase_4541"
-        - "registration_open_tournament_4381"
-        - "lock_in_open_tournament_4421_phase_4601"
-        - "registration_open_tournament_4402"
-        - "lock_in_open_tournament_4402_phase_4582"
-        - "registration_open_tournament_4324"
-        - "registration_open_tournament_4344"
-        - "lock_in_open_tournament_4344_phase_4524"
-        - "registration_open_tournament_4382"
-        - "registration_open_tournament_4325"
-        - "lock_in_open_tournament_4325_phase_4505"
-        - "registration_open_tournament_4383"
-        - "lock_in_open_tournament_4383_phase_4563"
-        - "registration_open_tournament_4422"
-        - "lock_in_open_tournament_4422_phase_4602"
-        - "registration_open_tournament_4283"
-        - "lock_in_open_tournament_4283_phase_4463"
-    schemaVersion: 1
-lol-collection-champions:
-    data:
-        completeSetIdMap: null
-        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiODB2QnZkOGkxWHpRYkZEdjdHSUVGQSIsInN1YiI6ImQ5MDVkZTNlLTNhNzUtNWFkMi1iZTQ2LTEwOTI4NWZjMTE4MSIsImNvdW50cnkiOiJ1c2EiLCJhbXIiOlsicGFzc3dvcmQiXSwiaXNzIjoiaHR0cHM6XC9cL2F1dGgucmlvdGdhbWVzLmNvbSIsImxvbCI6W3siY3VpZCI6MzQ0Mjk0NzEsImNwaWQiOiJOQTEiLCJ1aWQiOjM0NDI5NDcxLCJ1bmFtZSI6InBzdHlsZSIsInB0cmlkIjpudWxsLCJwaWQiOiJOQSIsInN0YXRlIjoiRU5BQkxFRCJ9XSwibG9jYWxlIjoiZW5fVVMiLCJub25jZSI6IllsY3U0aWpGNm1ISG1BV01HVDJyZ3ciLCJhdWQiOiJsb2wiLCJhY3IiOiJ1cm46cmlvdDpicm9uemUiLCJsb2xfcmVnaW9uIjpbeyJhY3RpdmUiOnRydWUsImNwaWQiOiJOQTEiLCJjdWlkIjozNDQyOTQ3MSwibHAiOmZhbHNlLCJwaWQiOiJOQSIsInVpZCI6MzQ0Mjk0NzF9XSwiZXhwIjoxNTcyNTgyNDM3LCJpYXQiOjE1NzI0OTYwMzcsImFjY3QiOnsiZ2FtZV9uYW1lIjoiRG91YmxlIEFjY2VsIiwidGFnX2xpbmUiOiJOQSJ9LCJqdGkiOiI4QnB6ZUxGNkNnTSIsImxvZ2luX2NvdW50cnkiOiJ1c2EifQ.E1TJm4StkpnU2GB4rhe6LTHp1f2B-CV959LagF1U7cY4guU3JyMCB2aR0lbkKbpHI9vAtUra-kxI3WCu1fOh0EnYVbrEhff8_zRh-RWhoXtnAN8ypg0IKQHSd5gXPOH7MQhynmkQrFfzI_vnvNpgyLoZ9BWwPdc0Z0tFI7td75M"
-        lastVisitTime: 1572489709602
-        visitedCollectibleList: []
-    schemaVersion: 1
-lol-collection-chromas:
-    data:
-        completeSetIdMap: null
-        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiODB2QnZkOGkxWHpRYkZEdjdHSUVGQSIsInN1YiI6ImQ5MDVkZTNlLTNhNzUtNWFkMi1iZTQ2LTEwOTI4NWZjMTE4MSIsImNvdW50cnkiOiJ1c2EiLCJhbXIiOlsicGFzc3dvcmQiXSwiaXNzIjoiaHR0cHM6XC9cL2F1dGgucmlvdGdhbWVzLmNvbSIsImxvbCI6W3siY3VpZCI6MzQ0Mjk0NzEsImNwaWQiOiJOQTEiLCJ1aWQiOjM0NDI5NDcxLCJ1bmFtZSI6InBzdHlsZSIsInB0cmlkIjpudWxsLCJwaWQiOiJOQSIsInN0YXRlIjoiRU5BQkxFRCJ9XSwibG9jYWxlIjoiZW5fVVMiLCJub25jZSI6IllsY3U0aWpGNm1ISG1BV01HVDJyZ3ciLCJhdWQiOiJsb2wiLCJhY3IiOiJ1cm46cmlvdDpicm9uemUiLCJsb2xfcmVnaW9uIjpbeyJhY3RpdmUiOnRydWUsImNwaWQiOiJOQTEiLCJjdWlkIjozNDQyOTQ3MSwibHAiOmZhbHNlLCJwaWQiOiJOQSIsInVpZCI6MzQ0Mjk0NzF9XSwiZXhwIjoxNTcyNTgyNDM3LCJpYXQiOjE1NzI0OTYwMzcsImFjY3QiOnsiZ2FtZV9uYW1lIjoiRG91YmxlIEFjY2VsIiwidGFnX2xpbmUiOiJOQSJ9LCJqdGkiOiI4QnB6ZUxGNkNnTSIsImxvZ2luX2NvdW50cnkiOiJ1c2EifQ.E1TJm4StkpnU2GB4rhe6LTHp1f2B-CV959LagF1U7cY4guU3JyMCB2aR0lbkKbpHI9vAtUra-kxI3WCu1fOh0EnYVbrEhff8_zRh-RWhoXtnAN8ypg0IKQHSd5gXPOH7MQhynmkQrFfzI_vnvNpgyLoZ9BWwPdc0Z0tFI7td75M"
-        lastVisitTime: 1571891891228
-        visitedCollectibleList: []
-    schemaVersion: 1
-lol-collection-summoner-icons:
-    data:
-        completeSetIdMap: null
-        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiODB2QnZkOGkxWHpRYkZEdjdHSUVGQSIsInN1YiI6ImQ5MDVkZTNlLTNhNzUtNWFkMi1iZTQ2LTEwOTI4NWZjMTE4MSIsImNvdW50cnkiOiJ1c2EiLCJhbXIiOlsicGFzc3dvcmQiXSwiaXNzIjoiaHR0cHM6XC9cL2F1dGgucmlvdGdhbWVzLmNvbSIsImxvbCI6W3siY3VpZCI6MzQ0Mjk0NzEsImNwaWQiOiJOQTEiLCJ1aWQiOjM0NDI5NDcxLCJ1bmFtZSI6InBzdHlsZSIsInB0cmlkIjpudWxsLCJwaWQiOiJOQSIsInN0YXRlIjoiRU5BQkxFRCJ9XSwibG9jYWxlIjoiZW5fVVMiLCJub25jZSI6IllsY3U0aWpGNm1ISG1BV01HVDJyZ3ciLCJhdWQiOiJsb2wiLCJhY3IiOiJ1cm46cmlvdDpicm9uemUiLCJsb2xfcmVnaW9uIjpbeyJhY3RpdmUiOnRydWUsImNwaWQiOiJOQTEiLCJjdWlkIjozNDQyOTQ3MSwibHAiOmZhbHNlLCJwaWQiOiJOQSIsInVpZCI6MzQ0Mjk0NzF9XSwiZXhwIjoxNTcyNTgyNDM3LCJpYXQiOjE1NzI0OTYwMzcsImFjY3QiOnsiZ2FtZV9uYW1lIjoiRG91YmxlIEFjY2VsIiwidGFnX2xpbmUiOiJOQSJ9LCJqdGkiOiI4QnB6ZUxGNkNnTSIsImxvZ2luX2NvdW50cnkiOiJ1c2EifQ.E1TJm4StkpnU2GB4rhe6LTHp1f2B-CV959LagF1U7cY4guU3JyMCB2aR0lbkKbpHI9vAtUra-kxI3WCu1fOh0EnYVbrEhff8_zRh-RWhoXtnAN8ypg0IKQHSd5gXPOH7MQhynmkQrFfzI_vnvNpgyLoZ9BWwPdc0Z0tFI7td75M"
-        lastVisitTime: 1572309167440
-        visitedCollectibleList: []
-    schemaVersion: 1
-lol-collection-ward-skins:
-    data:
-        completeSetIdMap: null
-        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiODB2QnZkOGkxWHpRYkZEdjdHSUVGQSIsInN1YiI6ImQ5MDVkZTNlLTNhNzUtNWFkMi1iZTQ2LTEwOTI4NWZjMTE4MSIsImNvdW50cnkiOiJ1c2EiLCJhbXIiOlsicGFzc3dvcmQiXSwiaXNzIjoiaHR0cHM6XC9cL2F1dGgucmlvdGdhbWVzLmNvbSIsImxvbCI6W3siY3VpZCI6MzQ0Mjk0NzEsImNwaWQiOiJOQTEiLCJ1aWQiOjM0NDI5NDcxLCJ1bmFtZSI6InBzdHlsZSIsInB0cmlkIjpudWxsLCJwaWQiOiJOQSIsInN0YXRlIjoiRU5BQkxFRCJ9XSwibG9jYWxlIjoiZW5fVVMiLCJub25jZSI6IllsY3U0aWpGNm1ISG1BV01HVDJyZ3ciLCJhdWQiOiJsb2wiLCJhY3IiOiJ1cm46cmlvdDpicm9uemUiLCJsb2xfcmVnaW9uIjpbeyJhY3RpdmUiOnRydWUsImNwaWQiOiJOQTEiLCJjdWlkIjozNDQyOTQ3MSwibHAiOmZhbHNlLCJwaWQiOiJOQSIsInVpZCI6MzQ0Mjk0NzF9XSwiZXhwIjoxNTcyNTgyNDM3LCJpYXQiOjE1NzI0OTYwMzcsImFjY3QiOnsiZ2FtZV9uYW1lIjoiRG91YmxlIEFjY2VsIiwidGFnX2xpbmUiOiJOQSJ9LCJqdGkiOiI4QnB6ZUxGNkNnTSIsImxvZ2luX2NvdW50cnkiOiJ1c2EifQ.E1TJm4StkpnU2GB4rhe6LTHp1f2B-CV959LagF1U7cY4guU3JyMCB2aR0lbkKbpHI9vAtUra-kxI3WCu1fOh0EnYVbrEhff8_zRh-RWhoXtnAN8ypg0IKQHSd5gXPOH7MQhynmkQrFfzI_vnvNpgyLoZ9BWwPdc0Z0tFI7td75M"
-        lastVisitTime: 1572309170981
-        visitedCollectibleList: []
+        - "lock_in_open_tournament_134561_phase_126921"
+        - "registration_open_tournament_134541"
+        - "lock_in_open_tournament_134541_phase_126901"
+        - "registration_open_tournament_134561"
+        - "lock_in_open_tournament_134801_phase_127241"
+        - "lock_in_open_tournament_134821_phase_127261"
+        - "registration_open_tournament_134641"
+        - "registration_open_tournament_134681"
+        - "registration_open_tournament_134801"
+        - "registration_open_tournament_134821"
     schemaVersion: 1
 lol-home:
     data:
         useTFTOverride: false
     schemaVersion: 0
-lol-leagues:
-    data:
-        season-start-takeover:
-            season: 9
-    schemaVersion: 1
-lol-parties:
-    data:
-        permanentHideAutofillModal: true
-    schemaVersion: 1
 lol-premade-voice:
     data:
         currentCaptureDeviceHandle: "Default System Device"
-        inputVolume: 50
+        inputVolume: 59
         vadSensitivity: 65
     schemaVersion: 1
 lol-replays:
     data:
         dontShowEogUsageTip: true
     schemaVersion: 1
-lol-skins-viewer:
-    data:
-        completeSetIdMap: null
-        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoid1lDVjJVbklWSVRHX05BSjI0cnNCUSIsInN1YiI6ImMxMzdjYTBhLWMxNjgtNWIxMC1hNGQ3LTI0MTQ2ZjQ2MTQ4OSIsImNvdW50cnkiOiJ1c2EiLCJwbGF5ZXJfcGxvY2FsZSI6ImVuLVVTIiwiYW1yIjpbInBhc3N3b3JkIl0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7InVpZCI6MjEyMDkwOTY3LCJjdWlkIjoyMTIwOTA5NjcsInVuYW1lIjoidGFua2V2aW43NjAwIiwiY3BpZCI6Ik5BMSIsInB0cmlkIjpudWxsLCJwaWQiOiJOQTEiLCJzdGF0ZSI6IkVOQUJMRUQifV0sImxvY2FsZSI6ImVuX1VTIiwibm9uY2UiOiJhMGdxTk1haUlLeFQ0NGZ1YjFlYnN3IiwiYXVkIjoibG9sIiwiYWNyIjoidXJuOnJpb3Q6YnJvbnplIiwicGxheWVyX2xvY2FsZSI6ImVuLVVTIiwiZXhwIjoxNjMxNDE0NzQ1LCJpYXQiOjE2MzEzMjgzNDUsImFjY3QiOnsiZ2FtZV9uYW1lIjoiS2V2aW43NjAwIiwidGFnX2xpbmUiOiJOQTEifSwiYWdlIjoyOCwianRpIjoiSlZrQ3YweW1GQmsiLCJsb2dpbl9jb3VudHJ5IjoidXNhIn0.O3nC8wQEF0az-xqabR0hV1jxc3y47HlNq1pcIap5T9mstUWSJOl1pDjJL6Lg0fJKKr87mlwroMBC-thBdaYhup_7QqJUDEurqdtwPDCRDJ95Z2UfHxqVmze91KFvQAK9PTUPtKw031rd28YQkoAtZiniW1zgHa1mGXEGFalCvZ4"
-        lastVisitTime: 1613886781343
-        visitedSkinList: []
-    schemaVersion: 1
 lol-user-experience:
     data:
         hasBeenPromptedForPotatoMode: true
         lastKnownMachineSpec: 5
-        unloadLeagueClientUx: "never"
     schemaVersion: 3
 video:
     data:

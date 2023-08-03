@@ -237,7 +237,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "12.17.467.4767"
+                            "value": "13.15.523.2423"
                         },
                         {
                             "name": "CursorOverride",
@@ -276,6 +276,10 @@
                             "value": "0"
                         },
                         {
+                            "name": "RecommendJunglePaths",
+                            "value": "1"
+                        },
+                        {
                             "name": "RelativeTeamColors",
                             "value": "0"
                         },
@@ -307,6 +311,10 @@
                         {
                             "name": "CameraLockMode",
                             "value": "0"
+                        },
+                        {
+                            "name": "ChatChannelVisibility",
+                            "value": "2"
                         },
                         {
                             "name": "ChatScale",
@@ -441,6 +449,10 @@
                             "value": "1"
                         },
                         {
+                            "name": "ObjectiveVoteScale",
+                            "value": "1.0000"
+                        },
+                        {
                             "name": "PracticeToolScale",
                             "value": "1.0000"
                         },
@@ -493,6 +505,10 @@
                             "value": "1"
                         },
                         {
+                            "name": "ShowOffScreenPointsOfInterest",
+                            "value": "1"
+                        },
+                        {
                             "name": "ShowPlayerPerks",
                             "value": "0"
                         },
@@ -502,6 +518,10 @@
                         },
                         {
                             "name": "ShowSpellCosts",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowSpellRecommendations",
                             "value": "1"
                         },
                         {
@@ -547,7 +567,7 @@
                         },
                         {
                             "name": "CurrentTab",
-                            "value": "0"
+                            "value": "2"
                         },
                         {
                             "name": "InventoryPanelPinned",
@@ -763,19 +783,19 @@
                         },
                         {
                             "name": "evtEmoteDance",
-                            "value": "[Ctrl][3]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtEmoteJoke",
-                            "value": "[Ctrl][1]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtEmoteLaugh",
-                            "value": "[Ctrl][4]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtEmoteTaunt",
-                            "value": "[Ctrl][2]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtEmoteToggle",
@@ -955,19 +975,19 @@
                         },
                         {
                             "name": "evtSelectAlly1",
-                            "value": "[F1],[<Unbound>]"
+                            "value": "[F1],[Ctrl][1]"
                         },
                         {
                             "name": "evtSelectAlly2",
-                            "value": "[F2],[<Unbound>]"
+                            "value": "[F2],[Ctrl][2]"
                         },
                         {
                             "name": "evtSelectAlly3",
-                            "value": "[F3],[<Unbound>]"
+                            "value": "[F3],[Ctrl][3]"
                         },
                         {
                             "name": "evtSelectAlly4",
-                            "value": "[F4],[<Unbound>]"
+                            "value": "[F4],[Ctrl][4]"
                         },
                         {
                             "name": "evtSelectSelf",
@@ -1024,6 +1044,18 @@
                         {
                             "name": "evtSelfCastVisionItem",
                             "value": "[Alt][4]"
+                        },
+                        {
+                            "name": "evtSetVisibilityTeam1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSetVisibilityTeam2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSetVisibilityTeamNone",
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtShowCharacterMenu",
@@ -1255,7 +1287,7 @@
                         },
                         {
                             "name": "evtSysMenu",
-                            "value": "[Esc]"
+                            "value": "[Ctrl][Esc]"
                         },
                         {
                             "name": "evtToggleMinionHealthBars",

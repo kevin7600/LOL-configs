@@ -6,13 +6,8 @@ install:
         accountId: 212090967
         modified: false
         timestamp: 0
-    gameflow-patcher-lock: 1663462159246
-    gameflow-process-info:
-        pid: 12076
-        rawArgs:
-        - "192.64.173.81 5349 knRer27gUCHQhEBmfRDA7g== 49331082"
-        - "-PlayerID=49331082"
-        - "-GameID=4435849589"
+    gameflow-patcher-lock: 1691026303571
+    gameflow-process-info: null
     gameflow-spectate-reconnect-info: null
     globals:
         locale: "en_US"
@@ -22,16 +17,21 @@ install:
         modified: false
         timestamp: 0
     patcher:
+        client_migrated: true
+        client_patcher_available: true
+        game_migrated: true
         game_patcher_available: true
         locales:
         - "en_US"
+        toggles:
+            new_client_patcher: 0
+            new_game_patcher: 0
     perks-settings:
         accountId: 212090967
         modified: false
         timestamp: 0
     riotclient-upgrade:
-        seq-success-count: 16
-        success-count: 16
-        uninstaller-updated: true
+        seq-success-count: 67
+        success-count: 67
     rso-auth:
-        install-identifier: "1842f3868d364e42ad1bd2a4a6cb88c4"
+        install-identifier: "568ce02a195b9d4ab04ae91ec791c733"

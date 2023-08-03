@@ -11,18 +11,23 @@ page-settings:
                     isActive: false
                     isDeletable: true
                     isEditable: true
+                    isRecommendationOverride: false
+                    isTemporary: false
                     isValid: true
-                    lastModified: 1663461218364
+                    lastModified: 1691025354228
                     name: "anything"
                     order: 1
                     primaryStyleId: 8100
+                    recommendationChampionId: 0
+                    recommendationIndex: -1
+                    runeRecommendationId: ""
                     selectedPerkIds:
                     - 8124
-                    - 8126
-                    - 8136
-                    - 8134
-                    - 8226
+                    - 8139
+                    - 8138
+                    - 8105
                     - 8234
+                    - 8226
                     - 5007
                     - 5008
                     - 5002
