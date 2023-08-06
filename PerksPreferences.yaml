@@ -14,7 +14,7 @@ page-settings:
                     isRecommendationOverride: false
                     isTemporary: false
                     isValid: true
-                    lastModified: 1691025354228
+                    lastModified: 1691346010992
                     name: "anything"
                     order: 1
                     primaryStyleId: 8100
@@ -23,11 +23,11 @@ page-settings:
                     runeRecommendationId: ""
                     selectedPerkIds:
                     - 8124
-                    - 8139
-                    - 8138
-                    - 8105
-                    - 8234
+                    - 8126
+                    - 8136
+                    - 8134
                     - 8226
+                    - 8234
                     - 5007
                     - 5008
                     - 5002

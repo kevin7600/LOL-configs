@@ -237,7 +237,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "13.15.523.2423"
+                            "value": "13.15.524.1760"
                         },
                         {
                             "name": "CursorOverride",
@@ -579,11 +579,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "-0.0042"
+                            "value": "0.1589"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.1352"
+                            "value": "0.0324"
                         }
                     ]
                 },
@@ -783,19 +783,19 @@
                         },
                         {
                             "name": "evtEmoteDance",
-                            "value": "[<Unbound>]"
+                            "value": "[Ctrl][3]"
                         },
                         {
                             "name": "evtEmoteJoke",
-                            "value": "[<Unbound>]"
+                            "value": "[Ctrl][1]"
                         },
                         {
                             "name": "evtEmoteLaugh",
-                            "value": "[<Unbound>]"
+                            "value": "[Ctrl][4]"
                         },
                         {
                             "name": "evtEmoteTaunt",
-                            "value": "[<Unbound>]"
+                            "value": "[Ctrl][2]"
                         },
                         {
                             "name": "evtEmoteToggle",
@@ -975,19 +975,19 @@
                         },
                         {
                             "name": "evtSelectAlly1",
-                            "value": "[F1],[Ctrl][1]"
+                            "value": "[F1],[Alt][1]"
                         },
                         {
                             "name": "evtSelectAlly2",
-                            "value": "[F2],[Ctrl][2]"
+                            "value": "[F2],[Alt][2]"
                         },
                         {
                             "name": "evtSelectAlly3",
-                            "value": "[F3],[Ctrl][3]"
+                            "value": "[F3],[Alt][3]"
                         },
                         {
                             "name": "evtSelectAlly4",
-                            "value": "[F4],[Ctrl][4]"
+                            "value": "[F4],[Alt][4]"
                         },
                         {
                             "name": "evtSelectSelf",
@@ -1003,15 +1003,15 @@
                         },
                         {
                             "name": "evtSelfCastItem1",
-                            "value": "[Alt][1]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSelfCastItem2",
-                            "value": "[Alt][2]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSelfCastItem3",
-                            "value": "[Alt][3]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSelfCastItem4",
@@ -1043,7 +1043,7 @@
                         },
                         {
                             "name": "evtSelfCastVisionItem",
-                            "value": "[Alt][4]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSetVisibilityTeam1",

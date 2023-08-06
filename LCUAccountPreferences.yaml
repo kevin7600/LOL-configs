@@ -167,16 +167,16 @@ champ-select:
             - 3
             - 4
             420:
-            - 12
+            - 3
             - 4
             430:
             - 1
             - 4
             440:
-            - 6
+            - 3
             - 4
             450:
-            - 3
+            - 32
             - 4
             700:
             - 3
@@ -214,7 +214,7 @@ closed-conversations:
 custom-spell-selections:
     data:
         custom-spell-selections:
-            spell1: 14
+            spell1: 3
             spell2: 4
     schemaVersion: 0
 emotes:
@@ -269,7 +269,7 @@ lol-challenges:
     schemaVersion: 1
 lol-challenges-latest-level-up:
     data:
-        lastLevelUpTime: 1690855247577
+        lastLevelUpTime: 1691286320980
     schemaVersion: 1
 lol-champ-select:
     data:
@@ -456,8 +456,8 @@ parties-settings:
     schemaVersion: 0
 partiesPositionPreferences:
     data:
-        firstPreference: "MIDDLE"
-        secondPreference: "UTILITY"
+        firstPreference: "UTILITY"
+        secondPreference: "MIDDLE"
     schemaVersion: 0
 personalized-offers:
     data:
