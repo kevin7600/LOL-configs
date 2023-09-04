@@ -217,7 +217,7 @@ closed-conversations:
 custom-spell-selections:
     data:
         custom-spell-selections:
-            spell1: 3
+            spell1: 21
             spell2: 4
     schemaVersion: 0
 emotes:
@@ -325,7 +325,7 @@ lol-clash:
 lol-collection-champions:
     data:
         groupingDropdownKey: ""
-        lastVisitTime: 1693088813798
+        lastVisitTime: 1693854927516
         sortingDropdownKey: "championMastery"
         unownedFilter: "none"
     schemaVersion: 1
@@ -395,6 +395,7 @@ lol-leagues:
     schemaVersion: 1
 lol-loot:
     data:
+        mass-disenchant-tooltip-seen: true
         mythicEssenceModalSeen: true
         mythicEssenceNavigationTooltipSeen: true
     schemaVersion: 1
@@ -443,10 +444,10 @@ lol-tft:
         previouslySeenSeasons: "TFT6_Series,TFT6_Act2_Series,TFT7_Series,TFT7_5_Series,TFT8_Series,TFT8_5_Series,1686765600000"
         seenOfferIds:
             storeOfferIds:
-            - "3dd06259-0805-40a5-87b7-c66ff8aaf14c"
-            - "10d94ace-65bb-427e-bc9a-363b21c29b08"
+            - "56fc0625-3e2a-4a1a-9544-825e7bb59bc8"
+            - "c8723f22-a93a-4aa6-878f-25e5f6a7a0a5"
             tacticianOfferIds:
-            - "3180555c-19e9-481f-9715-06a884d6e239"
+            - "dbe7e6f6-fa92-11ed-be56-0242ac120002"
     schemaVersion: 1
 lol-tutorial:
     data:
