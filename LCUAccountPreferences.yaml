@@ -63,7 +63,7 @@ champ-select:
             223: 223002
             23: 23000
             235: 235000
-            236: 236025
+            236: 236000
             238: 238000
             24: 24000
             240: 240000
@@ -160,6 +160,9 @@ champ-select:
             1400:
             - 54
             - 3
+            1700:
+            - 2201
+            - 2202
             1900:
             - 1
             - 4
@@ -173,10 +176,10 @@ champ-select:
             - 1
             - 4
             440:
-            - 3
+            - 21
             - 4
             450:
-            - 32
+            - 1
             - 4
             700:
             - 3
@@ -220,6 +223,7 @@ custom-spell-selections:
 emotes:
     data:
         newEmotes:
+        - 4287
         - 4286
         - 4223
         - 4225
@@ -260,8 +264,8 @@ emotes:
 event-shop:
     data:
         lastSeenTokenBalance: 0
-        lastSeenTokenShopOffersVersion: 4032089935
-        lastTimeSeen: "2023-08-03T00:52:35.281Z"
+        lastSeenTokenShopOffersVersion: 1745281687
+        lastTimeSeen: "2023-08-26T01:24:38.489Z"
     schemaVersion: 1
 lol-challenges:
     data:
@@ -269,7 +273,7 @@ lol-challenges:
     schemaVersion: 1
 lol-challenges-latest-level-up:
     data:
-        lastLevelUpTime: 1691286320980
+        lastLevelUpTime: 1693681213529
     schemaVersion: 1
 lol-champ-select:
     data:
@@ -321,7 +325,7 @@ lol-clash:
 lol-collection-champions:
     data:
         groupingDropdownKey: ""
-        lastVisitTime: 1691025340347
+        lastVisitTime: 1693088813798
         sortingDropdownKey: "championMastery"
         unownedFilter: "none"
     schemaVersion: 1
@@ -426,6 +430,13 @@ lol-profiles:
     data:
         ranked-reference-modal-login-seen-for-season: 14
     schemaVersion: 0
+lol-skins-viewer:
+    data:
+        groupingDropdownKey: "myCollection"
+        lastVisitTime: 1693088813798
+        sortingDropdownKey: "acquisitionDate"
+        unownedFilter: false
+    schemaVersion: 2
 lol-tft:
     data:
         lastTftGameQueueId: 1090
@@ -442,6 +453,7 @@ lol-tutorial:
         Map11_ULTBOOK_TutorialSeen: true
         Map22_TFT_TFT_Event_SF_TutorialSeen: true
         Map22_TFT_TutorialSeen: true
+        Map30_CHERRY_TutorialSeen: true
         championSelectRunesTooltipSeenCount: 9
         championSelectSkinPurchaseNotificationDisplayed: true
         perksCreateNewPageSeen: true
@@ -456,7 +468,7 @@ parties-settings:
     schemaVersion: 0
 partiesPositionPreferences:
     data:
-        firstPreference: "UTILITY"
+        firstPreference: "TOP"
         secondPreference: "MIDDLE"
     schemaVersion: 0
 personalized-offers:

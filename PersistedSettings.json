@@ -237,7 +237,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "13.15.524.1760"
+                            "value": "13.17.529.525"
                         },
                         {
                             "name": "CursorOverride",
@@ -567,7 +567,7 @@
                         },
                         {
                             "name": "CurrentTab",
-                            "value": "2"
+                            "value": "0"
                         },
                         {
                             "name": "InventoryPanelPinned",
@@ -579,11 +579,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.1589"
+                            "value": "0.1500"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "0.0324"
+                            "value": "0.0194"
                         }
                     ]
                 },
@@ -783,19 +783,19 @@
                         },
                         {
                             "name": "evtEmoteDance",
-                            "value": "[Ctrl][3]"
+                            "value": "[Alt][3],"
                         },
                         {
                             "name": "evtEmoteJoke",
-                            "value": "[Ctrl][1]"
+                            "value": "[Alt][1],"
                         },
                         {
                             "name": "evtEmoteLaugh",
-                            "value": "[Ctrl][4]"
+                            "value": "[Alt][4],"
                         },
                         {
                             "name": "evtEmoteTaunt",
-                            "value": "[Ctrl][2]"
+                            "value": "[Alt][2],"
                         },
                         {
                             "name": "evtEmoteToggle",
@@ -894,6 +894,10 @@
                             "value": "[<Unbound>]"
                         },
                         {
+                            "name": "evtPlayerCursorPingAreaIsWarded",
+                            "value": ""
+                        },
+                        {
                             "name": "evtPlayerHoldPosition",
                             "value": "[h]"
                         },
@@ -902,12 +906,24 @@
                             "value": "[Button 2],[Shift][Button 2]"
                         },
                         {
+                            "name": "evtPlayerPingAllIn",
+                            "value": ""
+                        },
+                        {
                             "name": "evtPlayerPingAreaIsWarded",
                             "value": "[Ctrl][Button 5]"
                         },
                         {
+                            "name": "evtPlayerPingBait",
+                            "value": ""
+                        },
+                        {
                             "name": "evtPlayerPingComeHere",
                             "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPlayerPingHold",
+                            "value": ""
                         },
                         {
                             "name": "evtPlayerPingMIA",
@@ -918,8 +934,20 @@
                             "value": "[<Unbound>]"
                         },
                         {
+                            "name": "evtPlayerPingPush",
+                            "value": ""
+                        },
+                        {
                             "name": "evtPlayerPingRadialDanger",
                             "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPlayerPingVisionCleared",
+                            "value": ""
+                        },
+                        {
+                            "name": "evtPlayerPingVisionNeeded",
+                            "value": ""
                         },
                         {
                             "name": "evtPlayerStopPosition",
@@ -958,6 +986,22 @@
                             "value": ""
                         },
                         {
+                            "name": "evtRadialEmotePlaySlot5",
+                            "value": ""
+                        },
+                        {
+                            "name": "evtRadialEmotePlaySlot6",
+                            "value": ""
+                        },
+                        {
+                            "name": "evtRadialEmotePlaySlot7",
+                            "value": ""
+                        },
+                        {
+                            "name": "evtRadialEmotePlaySlot8",
+                            "value": ""
+                        },
+                        {
                             "name": "evtScrollDown",
                             "value": "[Down Arrow]"
                         },
@@ -975,19 +1019,19 @@
                         },
                         {
                             "name": "evtSelectAlly1",
-                            "value": "[F1],[Alt][1]"
+                            "value": "[F1],[Ctrl][1]"
                         },
                         {
                             "name": "evtSelectAlly2",
-                            "value": "[F2],[Alt][2]"
+                            "value": "[F2],[Ctrl][2]"
                         },
                         {
                             "name": "evtSelectAlly3",
-                            "value": "[F3],[Alt][3]"
+                            "value": "[F3],[Ctrl][3]"
                         },
                         {
                             "name": "evtSelectAlly4",
-                            "value": "[F4],[Alt][4]"
+                            "value": "[F4],[Ctrl][4]"
                         },
                         {
                             "name": "evtSelectSelf",
@@ -1341,6 +1385,10 @@
                         {
                             "name": "evtOnUIMouse1",
                             "value": "[Button 1],[Ctrl] [Button 1]"
+                        },
+                        {
+                            "name": "evtToggleDeathRecapShowcase",
+                            "value": "[n]"
                         },
                         {
                             "name": "evtToggleFPSAndLatency",

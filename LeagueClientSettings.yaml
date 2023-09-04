@@ -31,7 +31,7 @@ install:
         modified: false
         timestamp: 0
     riotclient-upgrade:
-        seq-success-count: 73
-        success-count: 73
+        seq-success-count: 74
+        success-count: 74
     rso-auth:
         install-identifier: "568ce02a195b9d4ab04ae91ec791c733"

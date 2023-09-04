@@ -14,24 +14,72 @@ page-settings:
                     isRecommendationOverride: false
                     isTemporary: false
                     isValid: true
-                    lastModified: 1691346010992
+                    lastModified: 1693795063822
                     name: "anything"
                     order: 1
-                    primaryStyleId: 8100
+                    pageKeystone:
+                        id: 8008
+                        name: "Lethal Tempo"
+                        slotType: "kKeyStone"
+                        styleId: 8000
+                    primaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/precision_icon_16.svg"
+                    primaryStyleId: 8000
+                    primaryStyleName: "Precision"
+                    quickPlayChampionIds: []
                     recommendationChampionId: 0
                     recommendationIndex: -1
                     runeRecommendationId: ""
+                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/inspiration_icon_16.svg"
+                    secondaryStyleName: "Inspiration"
                     selectedPerkIds:
-                    - 8124
-                    - 8126
-                    - 8136
-                    - 8134
-                    - 8226
-                    - 8234
-                    - 5007
+                    - 8008
+                    - 8009
+                    - 9104
+                    - 8017
+                    - 8304
+                    - 8410
+                    - 5005
                     - 5008
-                    - 5002
-                    subStyleId: 8200
+                    - 5001
+                    subStyleId: 8300
+                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/p8000_s8300_k8008.jpg"
+                    uiPerks:
+                    -   id: 8008
+                        name: "Lethal Tempo"
+                        slotType: "kKeyStone"
+                        styleId: 8000
+                    -   id: 8009
+                        name: "Presence of Mind"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8000
+                    -   id: 9104
+                        name: "Legend: Alacrity"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8000
+                    -   id: 8017
+                        name: "Cut Down"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8000
+                    -   id: 8304
+                        name: "Magical Footwear"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8300
+                    -   id: 8410
+                        name: "Approach Velocity"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8300
+                    -   id: 5005
+                        name: "Attack Speed"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   id: 5008
+                        name: "Adaptive Force"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   id: 5001
+                        name: "Health Scaling"
+                        slotType: "kStatMod"
+                        styleId: 8400
         settings:
             gameplayPatchVersionSeen: "11.23"
             gameplayUpdatedPerksSeen:
