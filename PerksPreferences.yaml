@@ -3,20 +3,20 @@ page-settings:
         pages: []
         perShardPerkBooks:
             na1:
-                currentPageId: 2096361181
+                currentPageId: 1256719525
                 pages:
                 -   autoModifiedSelections: []
                     current: true
-                    id: 2096361181
+                    id: 1256719525
                     isActive: false
                     isDeletable: true
                     isEditable: true
                     isRecommendationOverride: false
                     isTemporary: false
                     isValid: true
-                    lastModified: 1693848766897
-                    name: "anything"
-                    order: 1
+                    lastModified: 1698012823805
+                    name: "Anything"
+                    order: 0
                     pageKeystone:
                         id: 8008
                         name: "Lethal Tempo"
@@ -34,8 +34,8 @@ page-settings:
                     selectedPerkIds:
                     - 8008
                     - 8009
-                    - 9104
-                    - 8017
+                    - 9103
+                    - 8299
                     - 8304
                     - 8410
                     - 5005
@@ -52,12 +52,12 @@ page-settings:
                         name: "Presence of Mind"
                         slotType: "kMixedRegularSplashable"
                         styleId: 8000
-                    -   id: 9104
-                        name: "Legend: Alacrity"
+                    -   id: 9103
+                        name: "Legend: Bloodline"
                         slotType: "kMixedRegularSplashable"
                         styleId: 8000
-                    -   id: 8017
-                        name: "Cut Down"
+                    -   id: 8299
+                        name: "Last Stand"
                         slotType: "kMixedRegularSplashable"
                         styleId: 8000
                     -   id: 8304
@@ -82,8 +82,7 @@ page-settings:
                         styleId: 8400
         settings:
             gameplayPatchVersionSeen: "11.23"
-            gameplayUpdatedPerksSeen:
-            - 8369
+            gameplayUpdatedPerksSeen: []
             gridModeEnabled: true
             showLongDescriptions: true
             showPresetPages: true

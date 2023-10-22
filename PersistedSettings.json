@@ -237,7 +237,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "13.17.529.525"
+                            "value": "13.20.536.9576"
                         },
                         {
                             "name": "CursorOverride",
@@ -693,7 +693,7 @@
                         },
                         {
                             "name": "SfxVolume",
-                            "value": "0.1600"
+                            "value": "0.3800"
                         },
                         {
                             "name": "VoiceMute",

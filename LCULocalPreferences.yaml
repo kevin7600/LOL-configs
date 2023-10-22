@@ -7,13 +7,13 @@ lol-audio:
 lol-clash:
     data:
         simpleStateFlagIds:
-        - "lock_in_open_tournament_134541_phase_126901"
-        - "registration_open_tournament_134541"
         - "lock_in_open_tournament_134561_phase_126921"
+        - "registration_open_tournament_134541"
+        - "lock_in_open_tournament_134541_phase_126901"
         - "registration_open_tournament_134561"
+        - "lock_in_open_tournament_134801_phase_127241"
         - "lock_in_open_tournament_134821_phase_127261"
         - "registration_open_tournament_134641"
-        - "lock_in_open_tournament_134801_phase_127241"
         - "registration_open_tournament_134681"
         - "registration_open_tournament_134801"
         - "registration_open_tournament_134821"
