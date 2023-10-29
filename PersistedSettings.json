@@ -237,7 +237,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "13.20.536.9576"
+                            "value": "13.21.539.4823"
                         },
                         {
                             "name": "CursorOverride",
@@ -567,7 +567,7 @@
                         },
                         {
                             "name": "CurrentTab",
-                            "value": "0"
+                            "value": "2"
                         },
                         {
                             "name": "InventoryPanelPinned",

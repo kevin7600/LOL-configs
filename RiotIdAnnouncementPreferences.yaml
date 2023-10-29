@@ -1,0 +1,5 @@
+transition-modal:
+    data:
+        mHasSeenRiotIdPostTransitionDialog: false
+        mHasSeenRiotIdPreTransitionDialog: true
+    schemaVersion: 1

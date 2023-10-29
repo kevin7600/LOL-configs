@@ -14,10 +14,11 @@ page-settings:
                     isRecommendationOverride: false
                     isTemporary: false
                     isValid: true
-                    lastModified: 1698012823805
+                    lastModified: 1698546246727
                     name: "Anything"
                     order: 0
                     pageKeystone:
+                        iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png"
                         id: 8008
                         name: "Lethal Tempo"
                         slotType: "kKeyStone"
@@ -29,55 +30,64 @@ page-settings:
                     recommendationChampionId: 0
                     recommendationIndex: -1
                     runeRecommendationId: ""
-                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/inspiration_icon_16.svg"
-                    secondaryStyleName: "Inspiration"
+                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/resolve_icon_16.svg"
+                    secondaryStyleName: "Resolve"
                     selectedPerkIds:
                     - 8008
                     - 8009
                     - 9103
                     - 8299
-                    - 8304
-                    - 8410
+                    - 8429
+                    - 8242
                     - 5005
                     - 5008
-                    - 5001
-                    subStyleId: 8300
-                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/p8000_s8300_k8008.jpg"
+                    - 5002
+                    subStyleId: 8400
+                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/p8000_s8400_k8008.jpg"
                     uiPerks:
-                    -   id: 8008
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png"
+                        id: 8008
                         name: "Lethal Tempo"
                         slotType: "kKeyStone"
                         styleId: 8000
-                    -   id: 8009
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/PresenceOfMind/PresenceOfMind.png"
+                        id: 8009
                         name: "Presence of Mind"
                         slotType: "kMixedRegularSplashable"
                         styleId: 8000
-                    -   id: 9103
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LegendBloodline/LegendBloodline.png"
+                        id: 9103
                         name: "Legend: Bloodline"
                         slotType: "kMixedRegularSplashable"
                         styleId: 8000
-                    -   id: 8299
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/LastStand/LastStand.png"
+                        id: 8299
                         name: "Last Stand"
                         slotType: "kMixedRegularSplashable"
                         styleId: 8000
-                    -   id: 8304
-                        name: "Magical Footwear"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/Conditioning/Conditioning.png"
+                        id: 8429
+                        name: "Conditioning"
                         slotType: "kMixedRegularSplashable"
-                        styleId: 8300
-                    -   id: 8410
-                        name: "Approach Velocity"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/Unflinching/Unflinching.png"
+                        id: 8242
+                        name: "Unflinching"
                         slotType: "kMixedRegularSplashable"
-                        styleId: 8300
-                    -   id: 5005
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAttackSpeedIcon.png"
+                        id: 5005
                         name: "Attack Speed"
                         slotType: "kStatMod"
                         styleId: 8400
-                    -   id: 5008
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+                        id: 5008
                         name: "Adaptive Force"
                         slotType: "kStatMod"
                         styleId: 8400
-                    -   id: 5001
-                        name: "Health Scaling"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsArmorIcon.png"
+                        id: 5002
+                        name: "Armor"
                         slotType: "kStatMod"
                         styleId: 8400
         settings:

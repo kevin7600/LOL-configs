@@ -9,6 +9,7 @@ champ-select:
             131: 131000
             22: 22000
             245: 245000
+            48: 48000
             78: 78000
         spells:
             420:
@@ -18,11 +19,18 @@ champ-select:
 emotes:
     data:
         newEmotes:
-        - 4358
+        - 4285
         - 4357
+        - 4358
+        - 4284
     schemaVersion: 1
 lol-champ-select:
     data:
+        favorites:
+            middle:
+            - 44
+            top:
+            - 48
         reportAndMutingTooltipShown: true
         runeRecommenderTutorialTipSeen: true
     schemaVersion: 0
@@ -33,13 +41,13 @@ lol-chat:
 lol-collection-champions:
     data:
         groupingDropdownKey: "allChampions"
-        lastVisitTime: 1692739252463
+        lastVisitTime: 1698546633399
         sortingDropdownKey: "firstLetterAscending"
         unownedFilter: "none"
     schemaVersion: 1
 lol-customizer-icons:
     data:
-        lastVisitTime: 1693040385903
+        lastVisitTime: 1698020818177
     schemaVersion: 1
 lol-general:
     data:
@@ -60,7 +68,7 @@ lol-loot:
     schemaVersion: 1
 lol-notifications:
     data:
-        rgmNotificationTimestamp: 1692738897495
+        rgmNotificationTimestamp: 1698450627724
     schemaVersion: 1
 lol-npe-tutorial-path:
     data:

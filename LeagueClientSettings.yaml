@@ -6,7 +6,7 @@ install:
         accountId: 2814007382967680
         modified: false
         timestamp: 0
-    gameflow-patcher-lock: 1698015353899
+    gameflow-patcher-lock: null
     gameflow-process-info: null
     gameflow-spectate-reconnect-info: null
     globals:
@@ -30,8 +30,12 @@ install:
         accountId: 2814007382967680
         modified: false
         timestamp: 0
+    riot-id-announcement-settings:
+        accountId: 2814007382967680
+        modified: false
+        timestamp: 0
     riotclient-upgrade:
-        seq-success-count: 124
-        success-count: 124
+        seq-success-count: 128
+        success-count: 128
     rso-auth:
         install-identifier: "568ce02a195b9d4ab04ae91ec791c733"
