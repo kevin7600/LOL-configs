@@ -1,26 +1,402 @@
 page-settings:
     data:
-        pages: []
+        pages:
+        -   autoModifiedSelections: []
+            current: false
+            id: 891522344
+            isActive: false
+            isDeletable: true
+            isEditable: true
+            isRecommendationOverride: false
+            isTemporary: false
+            isValid: true
+            lastModified: 0
+            name: "New Runes Page 1"
+            order: 0
+            pageKeystone:
+                iconPath: ""
+                id: -1
+                name: ""
+                slotType: ""
+                styleId: -1
+            primaryStyleIconPath: ""
+            primaryStyleId: 8000
+            primaryStyleName: ""
+            quickPlayChampionIds: []
+            recommendationChampionId: 0
+            recommendationIndex: -1
+            runeRecommendationId: ""
+            secondaryStyleIconPath: ""
+            secondaryStyleName: ""
+            selectedPerkIds:
+            - 8005
+            - 9111
+            - 9103
+            - 8014
+            - 8143
+            - 8120
+            subStyleId: 8100
+            tooltipBgPath: ""
+            uiPerks: []
+        -   autoModifiedSelections: []
+            current: false
+            id: 1063113405
+            isActive: false
+            isDeletable: true
+            isEditable: true
+            isRecommendationOverride: false
+            isTemporary: false
+            isValid: true
+            lastModified: 0
+            name: "Angel"
+            order: 1
+            pageKeystone:
+                iconPath: ""
+                id: -1
+                name: ""
+                slotType: ""
+                styleId: -1
+            primaryStyleIconPath: ""
+            primaryStyleId: 8000
+            primaryStyleName: ""
+            quickPlayChampionIds: []
+            recommendationChampionId: 0
+            recommendationIndex: -1
+            runeRecommendationId: ""
+            secondaryStyleIconPath: ""
+            secondaryStyleName: ""
+            selectedPerkIds:
+            - 8008
+            - 9111
+            - 9104
+            - 8299
+            - 8136
+            - 8139
+            subStyleId: 8100
+            tooltipBgPath: ""
+            uiPerks: []
+        -   autoModifiedSelections: []
+            current: false
+            id: 2089876725
+            isActive: false
+            isDeletable: true
+            isEditable: true
+            isRecommendationOverride: false
+            isTemporary: false
+            isValid: false
+            lastModified: 0
+            name: "New Runes Page 3"
+            order: 2
+            pageKeystone:
+                iconPath: ""
+                id: -1
+                name: ""
+                slotType: ""
+                styleId: -1
+            primaryStyleIconPath: ""
+            primaryStyleId: 8200
+            primaryStyleName: ""
+            quickPlayChampionIds: []
+            recommendationChampionId: 0
+            recommendationIndex: -1
+            runeRecommendationId: ""
+            secondaryStyleIconPath: ""
+            secondaryStyleName: ""
+            selectedPerkIds: []
+            subStyleId: -1
+            tooltipBgPath: ""
+            uiPerks: []
+        -   autoModifiedSelections: []
+            current: false
+            id: 54
+            isActive: false
+            isDeletable: false
+            isEditable: false
+            isRecommendationOverride: false
+            isTemporary: false
+            isValid: true
+            lastModified: 0
+            name: "Inspiration: The Timeless"
+            order: 2147483638
+            pageKeystone:
+                iconPath: ""
+                id: -1
+                name: ""
+                slotType: ""
+                styleId: -1
+            primaryStyleIconPath: ""
+            primaryStyleId: 8300
+            primaryStyleName: ""
+            quickPlayChampionIds: []
+            recommendationChampionId: 0
+            recommendationIndex: -1
+            runeRecommendationId: ""
+            secondaryStyleIconPath: ""
+            secondaryStyleName: ""
+            selectedPerkIds:
+            - 8326
+            - 8313
+            - 8321
+            - 8347
+            - 8451
+            - 8430
+            subStyleId: 8400
+            tooltipBgPath: ""
+            uiPerks: []
+        -   autoModifiedSelections: []
+            current: true
+            id: 53
+            isActive: false
+            isDeletable: false
+            isEditable: false
+            isRecommendationOverride: false
+            isTemporary: false
+            isValid: true
+            lastModified: 0
+            name: "Sorcery: The Calamity"
+            order: 2147483639
+            pageKeystone:
+                iconPath: ""
+                id: -1
+                name: ""
+                slotType: ""
+                styleId: -1
+            primaryStyleIconPath: ""
+            primaryStyleId: 8200
+            primaryStyleName: ""
+            quickPlayChampionIds: []
+            recommendationChampionId: 0
+            recommendationIndex: -1
+            runeRecommendationId: ""
+            secondaryStyleIconPath: ""
+            secondaryStyleName: ""
+            selectedPerkIds:
+            - 8229
+            - 8226
+            - 8210
+            - 8236
+            - 8138
+            - 8105
+            subStyleId: 8100
+            tooltipBgPath: ""
+            uiPerks: []
+        -   autoModifiedSelections: []
+            current: false
+            id: 52
+            isActive: false
+            isDeletable: false
+            isEditable: false
+            isRecommendationOverride: false
+            isTemporary: false
+            isValid: true
+            lastModified: 0
+            name: "Precision: The Perfect"
+            order: 2147483640
+            pageKeystone:
+                iconPath: ""
+                id: -1
+                name: ""
+                slotType: ""
+                styleId: -1
+            primaryStyleIconPath: ""
+            primaryStyleId: 8000
+            primaryStyleName: ""
+            quickPlayChampionIds: []
+            recommendationChampionId: 0
+            recommendationIndex: -1
+            runeRecommendationId: ""
+            secondaryStyleIconPath: ""
+            secondaryStyleName: ""
+            selectedPerkIds:
+            - 8005
+            - 9111
+            - 9104
+            - 8014
+            - 8234
+            - 8236
+            subStyleId: 8200
+            tooltipBgPath: ""
+            uiPerks: []
+        -   autoModifiedSelections: []
+            current: false
+            id: 51
+            isActive: false
+            isDeletable: false
+            isEditable: false
+            isRecommendationOverride: false
+            isTemporary: false
+            isValid: true
+            lastModified: 0
+            name: "Domination: The Executioner"
+            order: 2147483641
+            pageKeystone:
+                iconPath: ""
+                id: -1
+                name: ""
+                slotType: ""
+                styleId: -1
+            primaryStyleIconPath: ""
+            primaryStyleId: 8100
+            primaryStyleName: ""
+            quickPlayChampionIds: []
+            recommendationChampionId: 0
+            recommendationIndex: -1
+            runeRecommendationId: ""
+            secondaryStyleIconPath: ""
+            secondaryStyleName: ""
+            selectedPerkIds:
+            - 8112
+            - 8126
+            - 8120
+            - 8135
+            - 9111
+            - 8014
+            subStyleId: 8000
+            tooltipBgPath: ""
+            uiPerks: []
+        -   autoModifiedSelections: []
+            current: false
+            id: 50
+            isActive: false
+            isDeletable: false
+            isEditable: false
+            isRecommendationOverride: false
+            isTemporary: false
+            isValid: true
+            lastModified: 0
+            name: "Resolve: The Colossus"
+            order: 2147483642
+            pageKeystone:
+                iconPath: ""
+                id: -1
+                name: ""
+                slotType: ""
+                styleId: -1
+            primaryStyleIconPath: ""
+            primaryStyleId: 8400
+            primaryStyleName: ""
+            quickPlayChampionIds: []
+            recommendationChampionId: 0
+            recommendationIndex: -1
+            runeRecommendationId: ""
+            secondaryStyleIconPath: ""
+            secondaryStyleName: ""
+            selectedPerkIds:
+            - 8437
+            - 8242
+            - 8430
+            - 8451
+            - 8224
+            - 8237
+            subStyleId: 8200
+            tooltipBgPath: ""
+            uiPerks: []
         perShardPerkBooks:
-            na1:
-                currentPageId: 1256719525
+            eun1:
+                currentPageId: 3551638
                 pages:
                 -   autoModifiedSelections: []
-                    current: true
-                    id: 1256719525
+                    current: false
+                    id: 891522344
                     isActive: false
                     isDeletable: true
                     isEditable: true
                     isRecommendationOverride: false
                     isTemporary: false
                     isValid: true
-                    lastModified: 1698546246727
-                    name: "Anything"
+                    lastModified: 1712160339996
+                    name: "Adaptive"
                     order: 0
                     pageKeystone:
-                        iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png"
-                        id: 8008
-                        name: "Lethal Tempo"
+                        iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/PhaseRush/PhaseRush.png"
+                        id: 8230
+                        name: "Phase Rush"
+                        slotType: "kKeyStone"
+                        styleId: 8200
+                    primaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/sorcery_icon_16.svg"
+                    primaryStyleId: 8200
+                    primaryStyleName: "Sorcery"
+                    quickPlayChampionIds: []
+                    recommendationChampionId: 0
+                    recommendationIndex: -1
+                    runeRecommendationId: ""
+                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/domination_icon_16.svg"
+                    secondaryStyleName: "Domination"
+                    selectedPerkIds:
+                    - 8230
+                    - 8226
+                    - 8234
+                    - 8236
+                    - 8105
+                    - 8126
+                    - 5005
+                    - 5008
+                    - 5013
+                    subStyleId: 8100
+                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/p8200_s8100_k8230.jpg"
+                    uiPerks:
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/PhaseRush/PhaseRush.png"
+                        id: 8230
+                        name: "Phase Rush"
+                        slotType: "kKeyStone"
+                        styleId: 8200
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/ManaflowBand/ManaflowBand.png"
+                        id: 8226
+                        name: "Manaflow Band"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8200
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/Celerity/CelerityTemp.png"
+                        id: 8234
+                        name: "Celerity"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8200
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/GatheringStorm/GatheringStorm.png"
+                        id: 8236
+                        name: "Gathering Storm"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8200
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/RelentlessHunter/RelentlessHunter.png"
+                        id: 8105
+                        name: "Relentless Hunter"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8100
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/CheapShot/CheapShot.png"
+                        id: 8126
+                        name: "Cheap Shot"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8100
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAttackSpeedIcon.png"
+                        id: 5005
+                        name: "Attack Speed"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+                        id: 5008
+                        name: "Adaptive Force"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsTenacityIcon.png"
+                        id: 5013
+                        name: "Tenacity and Slow Resist"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                -   autoModifiedSelections:
+                    - 0
+                    current: false
+                    id: 1063113405
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isRecommendationOverride: false
+                    isTemporary: false
+                    isValid: true
+                    lastModified: 1712560265347
+                    name: "Angel"
+                    order: 1
+                    pageKeystone:
+                        iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/PressTheAttack/PressTheAttack.png"
+                        id: 8005
+                        name: "Press the Attack"
                         slotType: "kKeyStone"
                         styleId: 8000
                     primaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/precision_icon_16.svg"
@@ -30,24 +406,24 @@ page-settings:
                     recommendationChampionId: 0
                     recommendationIndex: -1
                     runeRecommendationId: ""
-                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/resolve_icon_16.svg"
-                    secondaryStyleName: "Resolve"
+                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/inspiration_icon_16.svg"
+                    secondaryStyleName: "Inspiration"
                     selectedPerkIds:
-                    - 8008
+                    - 8005
                     - 8009
                     - 9103
-                    - 8299
-                    - 8429
-                    - 8242
+                    - 8014
+                    - 8410
+                    - 8306
                     - 5005
                     - 5008
-                    - 5002
-                    subStyleId: 8400
-                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/p8000_s8400_k8008.jpg"
+                    - 5013
+                    subStyleId: 8300
+                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/p8000_s8300_k8005.jpg"
                     uiPerks:
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png"
-                        id: 8008
-                        name: "Lethal Tempo"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/PressTheAttack/PressTheAttack.png"
+                        id: 8005
+                        name: "Press the Attack"
                         slotType: "kKeyStone"
                         styleId: 8000
                     -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/PresenceOfMind/PresenceOfMind.png"
@@ -60,21 +436,21 @@ page-settings:
                         name: "Legend: Bloodline"
                         slotType: "kMixedRegularSplashable"
                         styleId: 8000
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/LastStand/LastStand.png"
-                        id: 8299
-                        name: "Last Stand"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/CoupDeGrace/CoupDeGrace.png"
+                        id: 8014
+                        name: "Coup de Grace"
                         slotType: "kMixedRegularSplashable"
                         styleId: 8000
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/Conditioning/Conditioning.png"
-                        id: 8429
-                        name: "Conditioning"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/ApproachVelocity/ApproachVelocity.png"
+                        id: 8410
+                        name: "Approach Velocity"
                         slotType: "kMixedRegularSplashable"
-                        styleId: 8400
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/Unflinching/Unflinching.png"
-                        id: 8242
-                        name: "Unflinching"
+                        styleId: 8300
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/HextechFlashtraption/HextechFlashtraption.png"
+                        id: 8306
+                        name: "Hextech Flashtraption"
                         slotType: "kMixedRegularSplashable"
-                        styleId: 8400
+                        styleId: 8300
                     -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAttackSpeedIcon.png"
                         id: 5005
                         name: "Attack Speed"
@@ -85,15 +461,321 @@ page-settings:
                         name: "Adaptive Force"
                         slotType: "kStatMod"
                         styleId: 8400
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsArmorIcon.png"
-                        id: 5002
-                        name: "Armor"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsTenacityIcon.png"
+                        id: 5013
+                        name: "Tenacity and Slow Resist"
                         slotType: "kStatMod"
                         styleId: 8400
+                -   autoModifiedSelections: []
+                    current: true
+                    id: 3551638
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isRecommendationOverride: false
+                    isTemporary: false
+                    isValid: true
+                    lastModified: 1712560324376
+                    name: "Rage"
+                    order: 2
+                    pageKeystone:
+                        iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/GraspOfTheUndying/GraspOfTheUndying.png"
+                        id: 8437
+                        name: "Grasp of the Undying"
+                        slotType: "kKeyStone"
+                        styleId: 8400
+                    primaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/resolve_icon_16.svg"
+                    primaryStyleId: 8400
+                    primaryStyleName: "Resolve"
+                    quickPlayChampionIds: []
+                    recommendationChampionId: 0
+                    recommendationIndex: -1
+                    runeRecommendationId: ""
+                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/precision_icon_16.svg"
+                    secondaryStyleName: "Precision"
+                    selectedPerkIds:
+                    - 8437
+                    - 8463
+                    - 8429
+                    - 8242
+                    - 9105
+                    - 8014
+                    - 5005
+                    - 5008
+                    - 5013
+                    subStyleId: 8000
+                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/p8400_s8000_k8437.jpg"
+                    uiPerks:
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/GraspOfTheUndying/GraspOfTheUndying.png"
+                        id: 8437
+                        name: "Grasp of the Undying"
+                        slotType: "kKeyStone"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/FontOfLife/FontOfLife.png"
+                        id: 8463
+                        name: "Font of Life"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/Conditioning/Conditioning.png"
+                        id: 8429
+                        name: "Conditioning"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/Unflinching/Unflinching.png"
+                        id: 8242
+                        name: "Unflinching"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LegendHaste/LegendHaste.png"
+                        id: 9105
+                        name: "Legend: Haste"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8000
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/CoupDeGrace/CoupDeGrace.png"
+                        id: 8014
+                        name: "Coup de Grace"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8000
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAttackSpeedIcon.png"
+                        id: 5005
+                        name: "Attack Speed"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+                        id: 5008
+                        name: "Adaptive Force"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsTenacityIcon.png"
+                        id: 5013
+                        name: "Tenacity and Slow Resist"
+                        slotType: "kStatMod"
+                        styleId: 8400
+            na1:
+                currentPageId: 891522344
+                pages:
+                -   autoModifiedSelections: []
+                    current: true
+                    id: 891522344
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isRecommendationOverride: false
+                    isTemporary: false
+                    isValid: true
+                    lastModified: 1538135155371
+                    name: "Adaptive"
+                    order: 0
+                    pageKeystone:
+                        iconPath: ""
+                        id: -1
+                        name: ""
+                        slotType: ""
+                        styleId: -1
+                    primaryStyleIconPath: ""
+                    primaryStyleId: 8200
+                    primaryStyleName: ""
+                    quickPlayChampionIds: []
+                    recommendationChampionId: 0
+                    recommendationIndex: -1
+                    runeRecommendationId: ""
+                    secondaryStyleIconPath: ""
+                    secondaryStyleName: ""
+                    selectedPerkIds:
+                    - 8229
+                    - 8275
+                    - 8210
+                    - 8236
+                    - 8143
+                    - 8105
+                    subStyleId: 8100
+                    tooltipBgPath: ""
+                    uiPerks: []
+                -   autoModifiedSelections: []
+                    current: false
+                    id: 1063113405
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isRecommendationOverride: false
+                    isTemporary: false
+                    isValid: true
+                    lastModified: 1536390724852
+                    name: "Angel"
+                    order: 1
+                    pageKeystone:
+                        iconPath: ""
+                        id: -1
+                        name: ""
+                        slotType: ""
+                        styleId: -1
+                    primaryStyleIconPath: ""
+                    primaryStyleId: 8000
+                    primaryStyleName: ""
+                    quickPlayChampionIds: []
+                    recommendationChampionId: 0
+                    recommendationIndex: -1
+                    runeRecommendationId: ""
+                    secondaryStyleIconPath: ""
+                    secondaryStyleName: ""
+                    selectedPerkIds:
+                    - 8008
+                    - 9111
+                    - 9104
+                    - 8014
+                    - 8210
+                    - 8236
+                    subStyleId: 8200
+                    tooltipBgPath: ""
+                    uiPerks: []
         settings:
             gameplayPatchVersionSeen: "11.23"
-            gameplayUpdatedPerksSeen: []
-            gridModeEnabled: true
+            gameplayUpdatedPerksSeen:
+            - 8369
+            gridModeEnabled: false
             showLongDescriptions: true
             showPresetPages: true
     schemaVersion: 5
+pages:
+-   current: false
+    formatVersion: 4
+    id: 891522344
+    isActive: false
+    isDeletable: true
+    isEditable: true
+    isValid: true
+    name: "New Runes Page 1"
+    order: 0
+    primaryStyleId: 8000
+    selectedPerkIds:
+    - 8005
+    - 9111
+    - 9103
+    - 8014
+    - 8143
+    - 8120
+    subStyleId: 8100
+-   current: false
+    formatVersion: 4
+    id: 1063113405
+    isActive: false
+    isDeletable: true
+    isEditable: true
+    isValid: true
+    name: "Angel"
+    order: 1
+    primaryStyleId: 8000
+    selectedPerkIds:
+    - 8008
+    - 9111
+    - 9104
+    - 8299
+    - 8136
+    - 8139
+    subStyleId: 8100
+-   current: false
+    formatVersion: 4
+    id: 2089876725
+    isActive: false
+    isDeletable: true
+    isEditable: true
+    isValid: false
+    name: "New Runes Page 3"
+    order: 2
+    primaryStyleId: 8200
+    selectedPerkIds: []
+    subStyleId: -1
+-   current: false
+    formatVersion: 4
+    id: 54
+    isActive: false
+    isDeletable: false
+    isEditable: false
+    isValid: true
+    name: "Inspiration: The Timeless"
+    order: 2147483638
+    primaryStyleId: 8300
+    selectedPerkIds:
+    - 8326
+    - 8313
+    - 8321
+    - 8347
+    - 8451
+    - 8430
+    subStyleId: 8400
+-   current: true
+    formatVersion: 4
+    id: 53
+    isActive: false
+    isDeletable: false
+    isEditable: false
+    isValid: true
+    name: "Sorcery: The Calamity"
+    order: 2147483639
+    primaryStyleId: 8200
+    selectedPerkIds:
+    - 8229
+    - 8226
+    - 8210
+    - 8236
+    - 8138
+    - 8105
+    subStyleId: 8100
+-   current: false
+    formatVersion: 4
+    id: 52
+    isActive: false
+    isDeletable: false
+    isEditable: false
+    isValid: true
+    name: "Precision: The Perfect"
+    order: 2147483640
+    primaryStyleId: 8000
+    selectedPerkIds:
+    - 8005
+    - 9111
+    - 9104
+    - 8014
+    - 8234
+    - 8236
+    subStyleId: 8200
+-   current: false
+    formatVersion: 4
+    id: 51
+    isActive: false
+    isDeletable: false
+    isEditable: false
+    isValid: true
+    name: "Domination: The Executioner"
+    order: 2147483641
+    primaryStyleId: 8100
+    selectedPerkIds:
+    - 8112
+    - 8126
+    - 8120
+    - 8135
+    - 9111
+    - 8014
+    subStyleId: 8000
+-   current: false
+    formatVersion: 4
+    id: 50
+    isActive: false
+    isDeletable: false
+    isEditable: false
+    isValid: true
+    name: "Resolve: The Colossus"
+    order: 2147483642
+    primaryStyleId: 8400
+    selectedPerkIds:
+    - 8437
+    - 8242
+    - 8430
+    - 8451
+    - 8224
+    - 8237
+    subStyleId: 8200
+settings:
+    gridModeEnabled: false
+    showLongDescriptions: false
+    showPresetPages: true

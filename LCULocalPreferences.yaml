@@ -1,22 +1,15 @@
 lol-audio:
     data:
-        masterVolume: 11
-        musicEnabled: true
-        musicVolume: 26
+        masterVolume: 25
+        musicEnabled: false
     schemaVersion: 5
 lol-clash:
     data:
         simpleStateFlagIds:
-        - "lock_in_open_tournament_134561_phase_126921"
-        - "registration_open_tournament_134541"
-        - "lock_in_open_tournament_134541_phase_126901"
-        - "registration_open_tournament_134561"
-        - "lock_in_open_tournament_134801_phase_127241"
-        - "lock_in_open_tournament_134821_phase_127261"
-        - "registration_open_tournament_134641"
-        - "registration_open_tournament_134681"
-        - "registration_open_tournament_134801"
-        - "registration_open_tournament_134821"
+        - "registration_open_tournament_135641"
+        - "lock_in_open_tournament_135641_phase_128201"
+        - "registration_open_tournament_135661"
+        - "lock_in_open_tournament_135661_phase_128221"
     schemaVersion: 1
 lol-home:
     data:
@@ -25,7 +18,7 @@ lol-home:
 lol-premade-voice:
     data:
         currentCaptureDeviceHandle: "Default System Device"
-        inputVolume: 59
+        inputVolume: 50
         vadSensitivity: 65
     schemaVersion: 1
 lol-replays:
@@ -37,7 +30,3 @@ lol-user-experience:
         hasBeenPromptedForPotatoMode: true
         lastKnownMachineSpec: 5
     schemaVersion: 3
-video:
-    data:
-        ZoomScale: 1.250000
-    schemaVersion: 1
